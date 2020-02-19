@@ -68,6 +68,7 @@
 	<link rel="alternate stylesheet" type="text/css" href="src/css/quattrocento.css" title="quattrocento" media="all" />
 	<link rel="alternate stylesheet" type="text/css" href="src/css/roboto.css" title="roboto" media="all" />
 	<link rel="alternate stylesheet" type="text/css" href="src/css/robotoslab.css" title="robotoslab" media="all" />
+
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(["_setAccount", "UA-11097556-8"]);
@@ -138,9 +139,15 @@
 					</div>
 				</div>
 				<!-- End col-md-8-->
-				<marquee class="scrolling-text"> Latest News Here.
-					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					More News.</marquee>
+				<marquee class="scrolling-text" behavior="scroll" direction="left" onmouseover="this.stop();"
+					onmouseout="this.start();">
+					<img src="./assets/news/2_2.gif" alt="">
+					<img src="./assets/news/3_1.gif" alt="">
+					<img src="./assets/news/4_1.gif" alt="">
+					<img src="./assets/news/SBPIM-gif-1.gif" alt="">
+
+
+				</marquee>
 			</div>
 			<!-- End row-->
 		</div>
@@ -982,35 +989,42 @@
 		<div class="row">
 			<aside class="col-md-4 col-sm-4">
 				<div class="box-style-1  borders">
-
 					<div class="feat last">
 						<i class="icon-film icon-2x"></i>
-						<h3>Latest News</h3>
+						<h3>SBPIM News</h3>
 						<b>
-							<ol>
-								<li>
-									<strong>1.</strong> SBPIM is one of the top mba colleges in pune INDUSTRIAL VISIT TO
-									BADVE ENGINEERING
-									LIMITED,
-									CHAKAN, PUNE,
-									MAHARASHTRA
+							<div id="newsDiv" style="overflow:auto;width:200px;height:200px" onMouseOver="pauseDiv()"
+								onMouseOut="resumeDiv()">
+								<ol>
+									<li>
+										<strong>1.</strong> SBPIM is one of the top mba colleges in pune INDUSTRIAL
+										VISIT TO
+										BADVE ENGINEERING
+										LIMITED,
+										CHAKAN, PUNE,
+										MAHARASHTRA
 
-								</li>
-								<li>
-									<strong>2.</strong> SBPIM is one of the top mba colleges in pune INDUSTRIAL VISIT TO
-									CARRARO INDIA (GEAR
-									PLANT),
-									RAJANGAON
+									</li>
+									<br>
+									<li>
+										<strong>2.</strong> SBPIM is one of the top mba colleges in pune INDUSTRIAL
+										VISIT TO
+										CARRARO INDIA (GEAR
+										PLANT),
+										RAJANGAON
 
-								</li>
-								<li>
-									<strong>3.</strong> SBPIM is one of the top mba colleges in pune STUDENT DEVELOPMENT
-									ACTIVITIES SBPIM
-									STUDENT
-									COUNCIL
+									</li>
+									<br>
+									<li>
+										<strong>3.</strong> SBPIM is one of the top mba colleges in pune STUDENT
+										DEVELOPMENT
+										ACTIVITIES SBPIM
+										STUDENT
+										COUNCIL
 
-								</li>
-							</ol>
+									</li>
+								</ol>
+							</div>
 						</b>
 					</div>
 					<!-- <a href="all-courses.html" title="All courses"><img src="img/banner.jpg" alt="Banner"
@@ -1313,6 +1327,7 @@
 		});
 	</script>
 	<script type="text/javascript" src="src/fswit.js"></script>
+	<script src="js/updated.js"></script>
 	<!--<ul id="example-1" class="sticklr">
         <li><a href="#" class=" icon-font" style="text-indent:-9999px"></a>
             <ul>

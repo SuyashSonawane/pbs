@@ -1,4 +1,5 @@
-.scrolling-text {
-    font-size: 1.8em;
-    color: white;
+.scrolling-text img {
+    height: 2.55em;
+    padding-left: 30px;
+    padding-right: 30px;
 }
