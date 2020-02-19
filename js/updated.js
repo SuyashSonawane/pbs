@@ -34,3 +34,11 @@ function resumeDiv() {
     ScrollInterval = setInterval('scrollDiv()', ScrollRate);
 }
 scrollDiv_init()
+
+document.getElementById("submit").addEventListener("click", () => {
+    setTimeout(() => {
+        $('#newsletter')[0].reset();
+
+    }, 1000);
+
+})
