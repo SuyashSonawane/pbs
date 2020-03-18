@@ -1,13 +1,16 @@
 .scrolling-text img {
-    height: 2.55em;
-    padding-left: 30px;
-    padding-right: 30px;
+  height: 2.55em;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .scrolling-text {
-    padding: 5px;
+  padding: 5px;
 }
 
 #blog {
-    background: whitesmoke;
+  background: whitesmoke;
+}
+#pcet-logo {
+  height: 80px;
 }
