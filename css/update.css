@@ -17,5 +17,6 @@
 }
 
 .megamenu_container {
-  width: 1171px;
+  max-width: 1171px;
+  width: auto;
 }
