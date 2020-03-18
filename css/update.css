@@ -11,6 +11,11 @@
 #blog {
   background: whitesmoke;
 }
+
 #pcet-logo {
   height: 80px;
+}
+
+.megamenu_container {
+  width: 1171px;
 }
