@@ -1,44 +1,42 @@
 ScrollRate = 50;
 
 function scrollDiv_init() {
-    DivElmnt = document.getElementById('newsDiv');
-    ReachedMaxScroll = false;
+  DivElmnt = document.getElementById("newsDiv");
+  ReachedMaxScroll = false;
 
-    DivElmnt.scrollTop = 0;
-    PreviousScrollTop = 0;
+  DivElmnt.scrollTop = 0;
+  PreviousScrollTop = 0;
 
-    ScrollInterval = setInterval('scrollDiv()', ScrollRate);
+  ScrollInterval = setInterval("scrollDiv()", ScrollRate);
 }
 
 function scrollDiv() {
+  if (!ReachedMaxScroll) {
+    DivElmnt.scrollTop = PreviousScrollTop;
+    PreviousScrollTop++;
 
-    if (!ReachedMaxScroll) {
-        DivElmnt.scrollTop = PreviousScrollTop;
-        PreviousScrollTop++;
+    ReachedMaxScroll =
+      DivElmnt.scrollTop >= DivElmnt.scrollHeight - DivElmnt.offsetHeight;
+  } else {
+    ReachedMaxScroll = DivElmnt.scrollTop == 0 ? false : true;
 
-        ReachedMaxScroll = DivElmnt.scrollTop >= (DivElmnt.scrollHeight - DivElmnt.offsetHeight);
-    } else {
-        ReachedMaxScroll = (DivElmnt.scrollTop == 0) ? false : true;
-
-        DivElmnt.scrollTop = PreviousScrollTop;
-        PreviousScrollTop--;
-    }
+    DivElmnt.scrollTop = PreviousScrollTop;
+    PreviousScrollTop--;
+  }
 }
 
 function pauseDiv() {
-    clearInterval(ScrollInterval);
+  clearInterval(ScrollInterval);
 }
 
 function resumeDiv() {
-    PreviousScrollTop = DivElmnt.scrollTop;
-    ScrollInterval = setInterval('scrollDiv()', ScrollRate);
+  PreviousScrollTop = DivElmnt.scrollTop;
+  ScrollInterval = setInterval("scrollDiv()", ScrollRate);
 }
-scrollDiv_init()
+scrollDiv_init();
 
 document.getElementById("submit").addEventListener("click", () => {
-    setTimeout(() => {
-        $('#newsletter')[0].reset();
-
-    }, 1000);
-
-})
+  setTimeout(() => {
+    $("#newsletter")[0].reset();
+  }, 1000);
+});
