@@ -13,7 +13,7 @@
 }
 
 #pcet-logo {
-  height: 80px;
+  /* height: 80px; */
 }
 
 .megamenu_container {
@@ -25,4 +25,7 @@
 }
 #about-table {
   text-align: center;
+}
+.headingCls {
+  font-size: 2em;
 }
