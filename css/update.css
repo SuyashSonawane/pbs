@@ -54,14 +54,31 @@
   padding: 0;
   margin: 0;
 }
+.slider {
+  z-index: 1;
+  pointer-events: none;
+}
 #about-PCET {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 30px 0;
+  z-index: 999;
 }
 .boxes {
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  max-width: 400px;
+  transition: all 0.8s ease;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+.boxes:hover {
+  box-shadow: 4px 12px 10px #00000026;
 }
 @media (max-width: 502px) {
   .headingCls {
