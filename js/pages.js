@@ -11,3 +11,11 @@
 //     $("footer").html(data);
 //   });
 // });
+var type = window.location.hash.substr(1);
+console.log(type);
+if (type && type < 6) {
+  //   $(".fade")[type - 1].addClass("active");
+  $(".fade").addClass(e => {
+    if (e == type - 1) return "active in";
+  });
+} else $("#blog5").addClass("active in");

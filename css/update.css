@@ -26,6 +26,9 @@
 #about-table {
   text-align: center;
 }
+table {
+  width: 100%;
+}
 .headingCls {
   font-size: 250%;
 }
@@ -111,12 +114,76 @@
   color: white;
   line-height: 2;
 }
+.submenu {
+  /* box-shadow: 4px 12px 10px #00000026; */
+  margin: 0;
+  /* position: fixed; */
+}
+.submenu li {
+  border: 2px solid #00000026;
+  margin: 2px 0;
+  text-align: center;
+  background: white;
+  padding: 0 20px;
+  transition: all 0.2s ease;
+}
+.submenu li:hover {
+  transform: translateY(-2px);
+}
+.submenu li:active {
+  transform: none;
+}
+.tab-content {
+  min-height: 300px;
+}
+#bgImage {
+  background-image: url("../images/infrastructure/2_Pune\ Business\ School\ Campus.jpg");
+  height: 300px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+}
+#bgImage .content {
+  background: rgb(255, 255, 255);
+  width: 100%;
+  background: -moz-linear-gradient(
+    186deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 67%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    186deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 67%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  background: linear-gradient(
+    186deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 67%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#ffffff",GradientType=1);
+  padding: 20px;
+  text-align: center;
+  font-size: 3em;
+  margin: 0;
+}
 @media (max-width: 502px) {
   .headingCls {
     font-size: 200%;
   }
   #header-2 {
     /* display: none; */
+  }
+  .submenu {
+    position: initial;
   }
   .companies {
     grid-template-columns: repeat(2, 1fr);
