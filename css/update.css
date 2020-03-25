@@ -117,16 +117,41 @@ table {
 .submenu {
   /* box-shadow: 4px 12px 10px #00000026; */
   margin: 0;
+  margin-bottom: 10px;
+
+  background: rgb(255, 255, 255);
+  background: -moz-linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 67%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 67%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 1) 67%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#ffffff",GradientType=1);
   /* position: fixed; */
 }
 .submenu li {
   border: 2px solid #00000026;
   margin: 2px 0;
   text-align: center;
-  background: white;
   padding: 0 20px;
   transition: all 0.2s ease;
 }
+/* .submenu li:first-child {
+  border: none;
+  background: none;
+} */
 .submenu li:hover {
   transform: translateY(-2px);
 }
