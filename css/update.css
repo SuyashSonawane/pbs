@@ -200,6 +200,25 @@ table {
   font-size: 3em;
   margin: 0;
 }
+
+#accordion ul {
+  list-style: disc;
+}
+#accordion ol {
+  list-style-type: upper-roman;
+}
+#accordion ol li {
+  margin: 20px 0px;
+}
+#accordion ul li {
+  margin: 10px 0px;
+  padding-left: 20px;
+}
+.panel-body {
+  padding: 50px;
+  font-size: 1.2em;
+}
+
 @media (max-width: 502px) {
   .headingCls {
     font-size: 200%;
