@@ -12,7 +12,7 @@
 //   });
 // });
 var type = window.location.hash.substr(1);
-console.log(type);
+// console.log(type);
 if (type && type < 6) {
   //   $(".fade")[type - 1].addClass("active");
   $(".fade").addClass(e => {

@@ -160,6 +160,7 @@ table {
 }
 .tab-content {
   min-height: 300px;
+  padding: 20px;
 }
 #bgImage {
   background-image: url("../images/infrastructure/2_Pune\ Business\ School\ Campus.jpg");
@@ -217,6 +218,50 @@ table {
 .panel-body {
   padding: 50px;
   font-size: 1.2em;
+}
+.faculties {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 10px;
+}
+.faculties .panel-body {
+  padding: 0px;
+  font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.faculty {
+  width: 300px;
+  overflow: hidden;
+  user-select: none;
+  /* margin: 40px; */
+  transition: all 0.2s ease;
+}
+.faculty:hover {
+  transform: translateY(-2px);
+  box-shadow: 4px 12px 10px #00000026;
+}
+.faculty img {
+  width: 100%;
+  height: 250px;
+  transition: all 0.2s ease;
+  -webkit-filter: brightness(0.9);
+}
+.faculty img:hover {
+  -webkit-filter: brightness(1);
+}
+.faculty .panel-footer {
+  height: 250px;
+}
+.hideFal {
+  display: none;
+}
+.showFal {
+  display: flex;
+  text-align: justify;
 }
 
 @media (max-width: 502px) {
