@@ -35,12 +35,11 @@ $(document).ready(function() {
 // DROP DOWN MENU TABS ====================================== //
 $("body").on("click", "ul.tabs > li > a", function(e) {
   //Get Location of tab's content
+  console.log(this);
   var contentLocation = $(this).attr("href");
-
   //Let go if not a hashed one
   if (contentLocation.charAt(0) == "#") {
     e.preventDefault();
-
     //Make Tab Active
     $(this)
       .parent()
@@ -48,7 +47,6 @@ $("body").on("click", "ul.tabs > li > a", function(e) {
       .children("a")
       .removeClass("active");
     $(this).addClass("active");
-
     //Show Tab Content & add active class
     $(contentLocation)
       .show()
