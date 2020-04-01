@@ -33,10 +33,13 @@ function resumeDiv() {
   PreviousScrollTop = DivElmnt.scrollTop;
   ScrollInterval = setInterval("scrollDiv()", ScrollRate);
 }
-scrollDiv_init();
 
 document.getElementById("submit").addEventListener("click", () => {
   setTimeout(() => {
     $("#newsletter")[0].reset();
   }, 1000);
+});
+$.get("../floater.html", function(data) {
+  $("#floater").html(data);
+  console.log(4);
 });

@@ -14,8 +14,8 @@ $(document).ready(function() {
     $(".megamenu").slideToggle(400);
     $(e.target).toggleClass("active");
   });
-  $("body").on("click", ".megamenu .drop-down", e => {
-    console.log(e.target);
+  $("body").on("mouseover", ".megamenu .drop-down", e => {
+    // console.log(e.target);
     if (
       $(e.target)
         .next("div")
@@ -37,10 +37,15 @@ $(document).ready(function() {
       });
     }
   });
+  // $("body").on("mouseout", ".megamenu .drop-down", e => {
+  //   setTimeout(() => {
+  //     $(".megamenu .drop-down-container").fadeOut("fast");
+  //   }, 3000);
+  // });
 
   // DROP DOWN MENU TABS ====================================== //
   $("body").on("click", "ul.tabs > li > a", function(e) {
-    console.log("44");
+    // console.log("44");
     //Get Location of tab's content
     var contentLocation = $(this).attr("href");
     //Let go if not a hashed one

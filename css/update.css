@@ -57,7 +57,7 @@ table {
   padding: 0;
   margin: 0;
 }
-.slider {
+.fullwidthbanner {
   z-index: 1;
   pointer-events: none;
 }
@@ -264,6 +264,44 @@ table {
   text-align: justify;
 }
 
+.alumini-dist .panel {
+  padding: 0;
+  margin: 20px;
+  /* height: 380px; */
+  width: 300px;
+}
+.alumini-dist .panel-body {
+  padding: 0;
+}
+.alumini-dist {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* align-items: center; */
+}
+.alumini-dist img {
+  width: 100%;
+  height: 250px;
+  transition: all 0.2s ease;
+}
+.alumini-dist img:hover {
+  transform: scale(0.99);
+}
+.slider img {
+  width: 100%;
+  height: 100%;
+}
+.sip-companies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.sip-companies img {
+  /* height: 200px; */
+  width: 170px;
+  margin: 20px;
+}
 @media (max-width: 502px) {
   .headingCls {
     font-size: 200%;
