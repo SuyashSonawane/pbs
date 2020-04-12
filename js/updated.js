@@ -41,5 +41,4 @@ document.getElementById("submit").addEventListener("click", () => {
 });
 $.get("../floater.html", function(data) {
   $("#floater").html(data);
-  console.log(4);
 });

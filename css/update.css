@@ -201,6 +201,18 @@ table {
   font-size: 3em;
   margin: 0;
 }
+#floater {
+  position: fixed;
+  transform: translate(0, -50%);
+  top: 50%;
+  z-index: 99;
+  background-color: ivory;
+  padding: 5px;
+  right: 0;
+}
+#floater #social li {
+  margin: 10px 0;
+}
 
 #accordion ul {
   list-style: disc;
@@ -301,6 +313,27 @@ table {
   /* height: 200px; */
   width: 170px;
   margin: 20px;
+}
+
+.inspiration h4 {
+  margin: 20px 0;
+}
+.social-gallery {
+  /* Prevent vertical gaps */
+  line-height: 0;
+
+  -webkit-column-count: 5;
+  -webkit-column-gap: 0px;
+  -moz-column-count: 5;
+  -moz-column-gap: 0px;
+  column-count: 5;
+  column-gap: 0px;
+}
+
+.social-gallery img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
 }
 @media (max-width: 502px) {
   .headingCls {
