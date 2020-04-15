@@ -48,6 +48,36 @@ table {
   justify-content: space-between;
   padding: 0;
 }
+.apply-online {
+  animation: pulse infinite 1s ease-in-out;
+  padding-top: 5px;
+}
+.apply-online:hover {
+}
+@keyframes pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+.marquee-list ul li {
+  display: inline-block;
+  margin: 0 10px;
+  color: white;
+}
+.marquee-list ul {
+  list-style-type: disc;
+}
 #header-2 {
   color: #fff;
   font-size: 100%;
@@ -200,6 +230,23 @@ table {
   text-align: center;
   font-size: 3em;
   margin: 0;
+}
+#pcet-awards {
+  height: 200px;
+  overflow-y: auto;
+}
+#pcet-awards::-webkit-scrollbar {
+  width: 2px;
+}
+
+/* Track */
+#pcet-awards::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+#pcet-awards::-webkit-scrollbar-thumb {
+  background-color: #006e51;
 }
 #floater {
   position: fixed;
