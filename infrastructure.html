@@ -8,11 +8,11 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's S B Patil Institute of Management | Top B School in Pune
+      PCET's Pune Bussiness School | Top B School in Pune
     </title>
     <meta
       name="description"
-      content="PCET's S B Patil Institute of Management | Top B School in Pune"
+      content="PCET's Pune Bussiness School | Top B School in Pune"
     />
     <meta name="author" content="Ansonika" />
 
@@ -155,7 +155,7 @@
       _gaq.push(["_setAccount", "UA-11097556-8"]);
       _gaq.push(["_trackPageview"]);
 
-      (function() {
+      (function () {
         var ga = document.createElement("script");
         ga.type = "text/javascript";
         ga.async = true;
@@ -492,7 +492,7 @@
     </section>
     <div class="container" id="blog">
       <br />
-      <div class="row content-background ">
+      <div class="row content-background">
         <div class="container">
           <div class="row">
             <div class="row">
@@ -634,17 +634,11 @@
           </div>
         </div>
         <script>
-          $(".thumbnail").click(function() {
+          $(".thumbnail").click(function () {
             $(".modal-body").empty();
-            var title = $(this)
-              .parent("a")
-              .attr("title");
+            var title = $(this).parent("a").attr("title");
             $(".modal-title").html(title);
-            $(
-              $(this)
-                .parents("div")
-                .html()
-            ).appendTo(".modal-body");
+            $($(this).parents("div").html()).appendTo(".modal-body");
             $("#myModal").modal({ show: true });
           });
         </script>
@@ -687,10 +681,10 @@
     <!-- STYLE SWITCHER -->
     <script type="text/javascript" src="src/jquery-sticklr-1.4.min.js"></script>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         $("#example-1").sticklr({
           animate: true,
-          showOn: "hover"
+          showOn: "hover",
         });
       });
     </script>
