@@ -3,7 +3,9 @@
   padding-left: 30px;
   padding-right: 30px;
 }
-
+.low-visible {
+  opacity: 0.2;
+}
 .scrolling-text {
   padding: 5px;
 }
