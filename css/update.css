@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .scrolling-text img {
   height: 2.55em;
   padding-left: 30px;
@@ -19,7 +22,7 @@
 }
 
 .megamenu_container {
-  max-width: 1250px;
+  max-width: 1450px;
   width: auto;
 }
 #nav-items-about {
@@ -72,13 +75,64 @@ table {
     transform: scale3d(1, 1, 1);
   }
 }
+@keyframes headShake {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  6.5% {
+    -webkit-transform: translateX(-6px) rotateY(-9deg);
+    transform: translateX(-6px) rotateY(-9deg);
+  }
+
+  18.5% {
+    -webkit-transform: translateX(5px) rotateY(7deg);
+    transform: translateX(5px) rotateY(7deg);
+  }
+
+  31.5% {
+    -webkit-transform: translateX(-3px) rotateY(-5deg);
+    transform: translateX(-3px) rotateY(-5deg);
+  }
+
+  43.5% {
+    -webkit-transform: translateX(2px) rotateY(3deg);
+    transform: translateX(2px) rotateY(3deg);
+  }
+
+  50% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+#attention {
+  animation: headShake infinite 1s ease-in-out;
+  color: #e6730f;
+  font-size: 15px;
+  font-weight: bold;
+}
+.marquee-list {
+  line-height: 2;
+}
+.marquee-list::before {
+  content: "SPOTLIGHT";
+  color: white;
+  position: absolute;
+  font-size: 17px;
+  z-index: 99999;
+  padding: 0 55px 0 10px;
+  background: #006e51;
+  clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 0 100%, 0% 50%, 0 0);
+}
 .marquee-list ul li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0 15px;
   color: white;
 }
 .marquee-list ul {
   list-style-type: disc;
+  font-size: 15px;
 }
 #header-2 {
   color: #fff;
@@ -388,6 +442,10 @@ table {
   /* Just in case there are inline attributes */
   width: 100% !important;
   height: auto !important;
+}
+.commities-list {
+  display: flex;
+  flex-wrap: wrap;
 }
 @media (max-width: 502px) {
   .headingCls {
