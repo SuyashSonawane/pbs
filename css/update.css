@@ -7,7 +7,7 @@ html {
   padding-right: 30px;
 }
 .low-visible {
-  opacity: 0.2;
+  color: rgba(0, 0, 0, 0.075);
 }
 .scrolling-text {
   padding: 5px;
@@ -20,7 +20,15 @@ html {
 #pcet-logo {
   height: 80px;
 }
-
+.top-bar {
+  height: 20px;
+  background-color: black;
+}
+.header-img {
+  max-height: 110px;
+  height: auto;
+  padding: 10px 0px;
+}
 .megamenu_container {
   max-width: 1450px;
   width: auto;
@@ -54,8 +62,11 @@ table {
   padding: 0;
 }
 .apply-online {
-  animation: pulse infinite 1s ease-in-out;
   padding-top: 5px;
+  padding-right: 100px;
+}
+.apply-online h4 {
+  animation: pulse infinite 1s ease-in-out;
 }
 .apply-online:hover {
 }
@@ -111,6 +122,11 @@ table {
   color: #e6730f;
   font-size: 15px;
   font-weight: bold;
+  /* position: absolute; */
+  margin: auto;
+  /* left: 50%;
+  top: 172px;
+  transform: translateX(-50%); */
 }
 .marquee-list {
   line-height: 2;
@@ -448,6 +464,9 @@ table {
   flex-wrap: wrap;
 }
 @media (max-width: 502px) {
+  .apply-online {
+    padding-right: 00px;
+  }
   .headingCls {
     font-size: 200%;
   }
