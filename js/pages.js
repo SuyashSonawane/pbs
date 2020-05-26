@@ -1,6 +1,6 @@
 $(document).ready(function () {
-  $.get("../floater.html", function (data) {
-    $("#floater").html(data);
+  $.get("../top-bar.html", function (data) {
+    $("#top-bar").html(data);
   });
   $.get("../nav.html", function (data) {
     $("nav").html(data);

@@ -368,7 +368,7 @@ a.button_red_small:hover {
 
 header {
   background-color: #2d343e;
-  /* padding: 8px 0; */
+  padding-top: 30px;
 }
 
 #menu-top {
@@ -435,11 +435,10 @@ nav {
 }
 
 #phone {
-  background: url(../img/icon-phone.png) 107px 0 no-repeat;
+  background: url(../img/icon-phone.png) top right no-repeat;
   padding-right: 46px;
-  text-align: center;
-  font-size: 15px;
-  line-height: 2;
+  text-align: right;
+  font-size: 12px;
 }
 
 #brand-footer,

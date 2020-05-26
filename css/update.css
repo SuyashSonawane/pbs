@@ -20,9 +20,23 @@ html {
 #pcet-logo {
   height: 80px;
 }
-.top-bar {
-  height: 20px;
+#top-bar {
+  position: fixed;
+  width: 100vw;
+  height: 30px;
   background-color: black;
+  line-height: 26px;
+  font-weight: 400;
+  z-index: 99999999999999999;
+}
+#top-bar ul {
+  display: inline-flex;
+  float: right;
+  padding-right: 350px;
+}
+#top-bar ul li {
+  font-size: 15px;
+  margin: 5px 5px;
 }
 .header-img {
   max-height: 110px;
@@ -45,6 +59,13 @@ table {
 .headingCls {
   font-size: 250%;
 }
+.menu-top-list ul {
+  display: inline-flex;
+}
+.menu-top-list ul li a {
+  color: white;
+  font-size: 11px;
+}
 .leftCls {
   color: #fff;
   padding: 0;
@@ -62,11 +83,8 @@ table {
   padding: 0;
 }
 .apply-online {
-  padding-top: 5px;
-  padding-right: 100px;
-}
-.apply-online h4 {
   animation: pulse infinite 1s ease-in-out;
+  padding-top: 5px;
 }
 .apply-online:hover {
 }
@@ -325,7 +343,7 @@ table {
 #pcet-awards::-webkit-scrollbar-thumb {
   background-color: #006e51;
 }
-#floater {
+/* #floater {
   position: fixed;
   transform: translate(0, -50%);
   top: 50%;
@@ -336,7 +354,7 @@ table {
 }
 #floater #social li {
   margin: 10px 0;
-}
+} */
 
 #accordion ul {
   list-style: disc;
@@ -464,6 +482,10 @@ table {
   flex-wrap: wrap;
 }
 @media (max-width: 502px) {
+  #top-bar ul {
+    float: none;
+    padding-right: 0px;
+  }
   .apply-online {
     padding-right: 00px;
   }

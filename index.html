@@ -64,7 +64,10 @@
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
     <link rel="stylesheet" href="css/fullwidth.css" media="screen" />
-    <link rel="stylesheet" href="rs-plugin/css/settings.css" media="screen" />
+    <link rel="stylesheet" href="rs-plugin/css/settings.css" media="screen" /> <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
 
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -153,7 +156,10 @@
       title="robotoslab"
       media="all"
     />
-
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(["_setAccount", "UA-11097556-8"]);
@@ -175,7 +181,7 @@
   </head>
 
   <body>
-    <div id="floater"></div>
+    <div id="top-bar"></div>
 
     <script async src="https://static.addtoany.com/menu/page.js"></script>
     <!--[if !IE]><!-->
@@ -187,23 +193,50 @@
     <!--<![endif]-->
     <!-- Border radius fixed IE10-->
 
+    <div id="top-bar">
+      <ul>
+        <li>
+          <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
+            ><i class="fa fa-facebook"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://twitter.com/school_pune" target="_blank"
+            ><i class="fa fa-twitter"></i
+          ></a>
+        </li>
+        <li>
+          <a href="mailto:punebschool@gmail.com" target="_blank"
+            ><i class="fa fa-envelope"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
+            target="_blank"
+            ><i class="fa fa-linkedin"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/punebschool/" target="_blank"
+            ><i class="fa fa-instagram"></i
+          ></a>
+        </li>
+        <li>
+          <a href="tel:+9189759 82140"><i class="fa fa-phone"></i></a>
+        </li>
+        <li>
+          <a
+            href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+            target="_blank"
+            title="Apply Online"
+            style="color: #e6730f;"
+            >Apply Online</a
+          >
+        </li>
+      </ul>
+    </div>
     <header>
-      <div class="top-bar">
-        <ul>
-          <li>
-            <a href="#"><i class="fa fa-facebook"></i></a>
-          </li>
-          <li>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-          </li>
-          <li>
-            <a href="#"><i class="fa fa-google-plus"></i></a>
-          </li>
-          <li>
-            <a href="#"><i class="fa fa-linkedin"></i></a>
-          </li>
-        </ul>
-      </div>
       <div class="container">
         <div class="row">
           <div class="col-md-7">
@@ -223,13 +256,32 @@
           </div>
           <div class="col-md-5">
             <div id="phone" class="hidden-xs">
-              <a href="tel:+9189759 82140">
-                <strong> 89759 82140 </strong>
-              </a>
+              <a href="tel:+9189759 82140"> <strong> 89759 82140 </strong> </a
+              >For Admissions <br />
+            
+              <div class="menu-top-list">
+                <ul>
+                  <li><a href="index.html" title="Home">Home</a> |&nbsp;</li>
+                  <li>
+                    <a href="news-events.html" title="News and Events"></a>
+                      News &amp; Events</a
+                    >
+                    | &nbsp;
+                  </li>
+                  <li><a href="contact.html" title="Contact"> Contact</a> |&nbsp;</li>
+                  <li>
+                    <a
+                      href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                      title="Apply"
+                      >Apply</a
+                    >
+                  </li>
+                </ul>
+              </div>
             </div>
 
-            <div id="menu-top" class="text-center apply-online">
-              <h4 class="">
+            <div id="menu-top" class="hidden-lg">
+              <h4 class="apply-online" class="text-right">
                 <a
                   href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
                   target="_blank"
@@ -240,14 +292,17 @@
                 >
               </h4>
               <ul>
-                <li><a href="index.html" title="Home">Home</a> |</li>
+                <li><a href="index.html" title="Home">Home</a> |&nbsp;</li>
                 <li>
-                  <a href="./about-PBS.html" target="_blank" title="About">
-                    About</a
-                  >
-                  |
+                  <a href="news-events.html" title="News and Events"></a>
+                  News &amp; Events</a>
+                  | &nbsp;
                 </li>
-                <li><a href="contact.html" title="Contact">Contact</a></li>
+                <li><a href="contact.html" title="Contact"> Contact</a> |&nbsp;</li>
+                <li>
+                  <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                    title="Apply">Apply</a>
+                </li>
               </ul>
             </div>
           </div>
@@ -354,84 +409,168 @@
             </div>
             <!-- End dropdown normal -->
           </li>
-
-          <li class="drop-normal">
+          <li>
             <a href="javascript:void(0)" class="drop-down">Infrastructure</a>
-            <div class="drop-down-container normal">
-              <ul>
-                <li>
-                  <a
-                    href="./infrastructure.html"
-                    title="IT Infrastructure & Resources"
-                    ><i class="icon-laptop"></i> IT Infrastructure &
-                    Resources</a
-                  >
-                </li>
-                <li>
-                  <a href="./infrastructure.html" title="Classrooms"
-                    ><i class="icon-book"></i> Classrooms</a
-                  >
-                </li>
-                <li>
-                  <a href="./infrastructure.html" title="Hostel Facility"
-                    ><i class="icon-home"></i> Hostel Facility</a
-                  >
-                </li>
-                <li>
-                  <a href="./infrastructure.html" title="Auditorium"
-                    ><i class="icon-gamepad"></i> Auditorium</a
-                  >
-                </li>
-                <li>
-                  <a href="./infrastructure.html" title="Library"
-                    ><i class="icon-book"></i> Library</a
-                  >
-                </li>
-                <li>
-                  <a href="./infrastructure.html" title="Cafeteria And Mess"
-                    ><i class="icon-food"></i> Cafeteria And Mess</a
-                  >
-                </li>
-                <li>
-                  <a href="./infrastructure.html" title="Sport Facilities"
-                    ><i class="icon-bullseye"></i> Sport Facilities</a
-                  >
-                  <a
-                    href="./infrastructure.html"
-                    title="Gym, Yoga, Zumba, Ground, Sports room"
-                  >
-                    <i class="icon-gamepad"></i> Recreational Facilities</a
-                  >
-                </li>
-              </ul>
+            <!-- Begin Item -->
+            <div class="drop-down-container quickLinkCls">
+              <div class="row">
+                <div class="col-md-3">
+                  <h4>Quick links</h4>
+                  <ul class="list-menu">
+                    <li>
+                      <a
+                        href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                        target="_blank"
+                        >Apply Now</a
+                      >
+                    </li>
+                    <li><a href="./admission.html#1">Admission Process</a></li>
+                    <li><a href="./admission.html#2">Fee Structure</a></li>
+                    <li><a href="./faculty-research.html#1">Faculty</a></li>
+                    <li><a href="./life-at-PBS.html">Life at PBS</a></li>
+                  </ul>
+                  <p>
+                    <a
+                      href="all-courses.html"
+                      title="Courses"
+                      class="button_medium add-bottom-20"
+                      >View all courses</a
+                    >
+                  </p>
+                </div>
+                <div class="col-md-3">
+                  <h4>Facilities</h4>
+                  <ul class="list-menu">
+                    <li>
+                      <a
+                        href="./infrastructure.html"
+                        title="IT Infrastructure & Resources"
+                        ><i class="icon-laptop"></i> IT Infrastructure &
+                        Resources</a
+                      >
+                    </li>
+                    <li>
+                      <a href="./infrastructure.html" title="Classrooms"
+                        ><i class="icon-book"></i> Classrooms</a
+                      >
+                    </li>
+                    <li>
+                      <a href="./infrastructure.html" title="Hostel Facility"
+                        ><i class="icon-home"></i> Hostel Facility</a
+                      >
+                    </li>
+                    <li>
+                      <a href="./infrastructure.html" title="Auditorium"
+                        ><i class="icon-gamepad"></i> Auditorium</a
+                      >
+                    </li>
+                    <li>
+                      <a href="./infrastructure.html" title="Library"
+                        ><i class="icon-book"></i> Library</a
+                      >
+                    </li>
+                    <li>
+                      <a href="./infrastructure.html" title="Cafeteria And Mess"
+                        ><i class="icon-food"></i> Cafeteria And Mess</a
+                      >
+                    </li>
+                    <li>
+                      <a href="./infrastructure.html" title="Sport Facilities"
+                        ><i class="icon-bullseye"></i> Sport Facilities</a
+                      >
+                      <a
+                        href="./infrastructure.html"
+                        title="Gym, Yoga, Zumba, Ground, Sports room"
+                      >
+                        <i class="icon-gamepad"></i> Recreational Facilities</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-md-6">
+                  <img
+                    src="./images/infrastructure/collage.jpg"
+                    class=""
+                    alt=""
+                    width="100%"
+                    height="300px"
+                  />
+                </div>
+                <!-- End col-md-9 -->
+              </div>
+              <br /><br />
+              <!-- End row -->
             </div>
-            <!-- End dropdown normal -->
+            <!-- End Item Container -->
           </li>
-          <li class="drop-normal">
-            <a href="javascript:void(0)" class="drop-down">Admissions</a>
-            <div class="drop-down-container normal">
-              <ul>
-                <li>
-                  <a
-                    href="./admission.html#1"
-                    title="Admission Process -PGDM Apply Now"
-                    >Admission Process -PGDM Apply Now</a
-                  >
-                </li>
-                <li>
-                  <a href="./admission.html#3" title="Admission Brochure"
-                    >Admission Brochurer</a
-                  >
-                </li>
-                <li>
-                  <a href="./admission.html#2" title="Fees Structure"
-                    >Fees Structure</a
-                  >
-                </li>
-              </ul>
+          <li>
+            <a href="javascript:void(0)" class="drop-down">Admission</a>
+            <!-- Begin Item -->
+            <div class="drop-down-container quickLinkCls">
+              <div class="row">
+                <div class="col-md-3">
+                  <h4>Quick links</h4>
+                  <ul class="list-menu">
+                    <li>
+                      <a
+                        href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                        target="_blank"
+                        >Apply Now</a
+                      >
+                    </li>
+                    <li><a href="./admission.html#1">Admission Process</a></li>
+                    <li><a href="./admission.html#2">Fee Structure</a></li>
+                    <li><a href="./faculty-research.html#1">Faculty</a></li>
+                    <li><a href="./life-at-PBS.html">Life at PBS</a></li>
+                  </ul>
+                  <p>
+                    <a
+                      href="all-courses.html"
+                      title="Courses"
+                      class="button_medium add-bottom-20"
+                      >View all courses</a
+                    >
+                  </p>
+                </div>
+                <div class="col-md-3">
+                  <h4>Admission Information</h4>
+                  <ul class="list-menu">
+                    <li>
+                      <a
+                        href="./admission.html#1"
+                        title="Admission Process -PGDM Apply Now"
+                        >Admission Process -PGDM Apply Now</a
+                      >
+                    </li>
+                    <li>
+                      <a href="./admission.html#3" title="Admission Brochure"
+                        >Admission Brochurer</a
+                      >
+                    </li>
+                    <li>
+                      <a href="./admission.html#2" title="Fees Structure"
+                        >Fees Structure</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-md-6">
+                  <img
+                    src="./images/life/homework-paper-pen-person-267491.jpg"
+                    class=""
+                    alt=""
+                    width="100%"
+                    height="300px"
+                  />
+                </div>
+                <!-- End col-md-9 -->
+              </div>
+              <br /><br />
+              <!-- End row -->
             </div>
-            <!-- End dropdown normal -->
+            <!-- End Item Container -->
           </li>
+          <!-- End Item -->
 
           <li class="drop-normal">
             <a href="javascript:void(0)" class="drop-down"
@@ -462,35 +601,59 @@
             </div>
             <!-- End dropdown normal -->
           </li>
-          <li class="drop-normal">
-            <a href="javascript:void(0)" class="drop-down">Life at PBS</a>
-            <div class="drop-down-container normal">
-              <ul>
-                <li>
-                  <a href="./life-at-PBS.html" title="Student Initatives"
-                    >Life at PCET</a
+
+          <li>
+            <a href="#" class="drop-down">Life at PBS</a>
+            <!-- Begin Item -->
+            <div class="drop-down-container" id="icon-menu">
+              <div class="row">
+                <div class="col-md-3">
+                  <a href="./life-at-PBS.html" title="Life at PCET "
+                    ><i class="icon-building icon-3x"></i>Life at PCET
+                  </a>
+                </div>
+                <div class="col-md-3">
+                  <a href="./life-at-PBS.html" title="Student Committees"
+                    ><i class="icon-flag icon-3x"></i>Student Committees</a
                   >
-                </li>
-                <li>
-                  <a href="./life-at-PBS.html#StudentCommittees"
-                    >Student Committees</a
+                </div>
+                <div class="col-md-3">
+                  <a
+                    href="./life-at-PBS.html#StudentCommittees"
+                    title="Student Committees"
+                    ><i class="icon-list icon-3x"></i>Student Committees
+                  </a>
+                </div>
+                <div class="col-md-3">
+                  <a
+                    href="./life-at-PBS.html#StudentCouncil"
+                    title="Student Council"
+                    ><i class="icon-book icon-3x"></i>Student Council</a
                   >
-                </li>
-                <li>
-                  <a href="./life-at-PBS.html#StudentCouncil"
-                    >Student Council</a
+                </div>
+                <div class="col-md-3">
+                  <a
+                    href="./life-at-PBS.html#StudentClubs"
+                    title="Student Initiatives and Student Clubs"
+                    ><i class="icon-group icon-3x"></i>Student Initiatives and
+                    Student Clubs</a
                   >
-                  <a href="./life-at-PBS.html#StudentClubs"
-                    >Student Initiatives and Student Clubs</a
+                </div>
+                <div class="col-md-3">
+                  <a href="./life-at-PBS.html" title="Students Achievements"
+                    ><i class="icon-envelope icon-3x"></i>Students
+                    Achievements</a
                   >
-                  <a href="./life-at-PBS.html">Students Achievements</a>
-                </li>
-                <li>
-                  <a href="./life-at-PBS.html#events">Events</a>
-                </li>
-              </ul>
+                </div>
+                <div class="col-md-3">
+                  <a href="./life-at-PBS.html#events" title="Events"
+                    ><i class="icon-eye-open icon-3x"></i>Events</a
+                  >
+                </div>
+              </div>
+              <!-- End row -->
             </div>
-            <!-- End dropdown normal -->
+            <!-- End Item Container -->
           </li>
           <!-- End Item -->
 
@@ -592,6 +755,7 @@
                 </div>
                 <!-- End col-md-6 -->
               </div>
+              <br /><br />
               <!-- End row-->
             </div>
             <!-- End Item Container -->
