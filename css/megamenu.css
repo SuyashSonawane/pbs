@@ -461,7 +461,7 @@ ul.tabs:after {
 
   .megamenu > li .drop-down-container#icon-menu {
     width: 100%;
-    padding: 25px 0 0;
+    /* padding: 25px 0 0; */
   }
 
   .megamenu > li .drop-down-container#icon-menu .span3 {

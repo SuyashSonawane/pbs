@@ -1,5 +1,8 @@
-html {
+@import "https://fonts.googleapis.com/css?family=Baloo Chettan 2";
+html,
+body {
   scroll-behavior: smooth;
+  font-family: "Baloo Chettan 2";
 }
 .scrolling-text img {
   height: 2.55em;
@@ -44,7 +47,7 @@ html {
   padding: 10px 0px;
 }
 .megamenu_container {
-  max-width: 1450px;
+  max-width: 1100px;
   width: auto;
 }
 #nav-items-about {
@@ -196,12 +199,15 @@ table {
   align-items: center;
   text-align: justify;
   max-width: 400px;
-  transition: all 0.8s ease;
+  transition: all 0.2s ease;
   font-size: 1.1em;
   font-weight: bold;
+  padding: 10px;
+  background-color: #f5f5f5;
 }
 .boxes:hover {
   box-shadow: 4px 12px 10px #00000026;
+  transform: translateY(-5px);
 }
 #placements-PCET {
   background: white;
@@ -329,9 +335,10 @@ table {
 #pcet-awards {
   height: 200px;
   overflow-y: auto;
+  padding: 2px;
 }
 #pcet-awards::-webkit-scrollbar {
-  width: 2px;
+  width: 1px;
 }
 
 /* Track */
