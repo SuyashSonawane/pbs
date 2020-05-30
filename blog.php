@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9]><html class="ie ie9" lang="en"> <![endif]-->
+<html lang="en">
+  <!--<![endif]-->
+
+  <head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8" />
+    <title>
+      PCET's Pune Business School | Top B School in Pune
+    </title>
+    <meta
+      name="description"
+      content="PCET's Pune Bussiness School | Top B School in Pune"
+    />
+    <meta name="author" content="Pune Business School" />
+
+    <!-- Favicons-->
+    <link rel="shortcut icon" href="./images/pcet-logo.jpg" type="image/x-icon" />
+    <link
+      rel="apple-touch-icon"
+      type="image/x-icon"
+      href="img/apple-touch-icon-57x57-precomposed.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      type="image/x-icon"
+      sizes="72x72"
+      href="img/apple-touch-icon-72x72-precomposed.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      type="image/x-icon"
+      sizes="114x114"
+      href="img/apple-touch-icon-114x114-precomposed.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      type="image/x-icon"
+      sizes="144x144"
+      href="img/apple-touch-icon-144x144-precomposed.png"
+    />
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/megamenu.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
+  <!--  <link
+      href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
+      rel="stylesheet"
+    />-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="font-awesome/css/font-awesome.css" rel="stylesheet"-->
+    <link rel="stylesheet" href="css/jquery.fancybox.css" />
+
+    <!-- REVOLUTION BANNER CSS SETTINGS -->
+    <link rel="stylesheet" href="css/fullwidth.css" media="screen" />
+    <link rel="stylesheet" href="rs-plugin/css/settings.css" media="screen" />
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Jquery -->
+    <script src="js/jquery.js"></script>
+    <!-- Support media queries for IE8 -->
+    <script src="js/respond.min.js"></script>
+
+    <!-- HTML5 and CSS3-in older browsers-->
+    <script src="js/modernizr.custom.17475.js"></script>
+
+    <!--[if IE 7]>
+      <link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css" />
+    <![endif]-->
+
+    <!-- Style switcher-->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen,projection"
+      href="src/jquery-sticklr-1.4-light-color.css"
+    />
+    <!-- Fonts-->
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/helvetica.css"
+      title="helvetica"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/cabin.css"
+      title="cabin"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/droid.css"
+      title="droid"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/lato.css"
+      title="lato"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/montserrat.css"
+      title="montserrat"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/opensans.css"
+      title="opensans"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/quattrocento.css"
+      title="quattrocento"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/roboto.css"
+      title="roboto"
+      media="all"
+    />
+    <link
+      rel="alternate stylesheet"
+      type="text/css"
+      href="src/css/robotoslab.css"
+      title="robotoslab"
+      media="all"
+    />
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(["_setAccount", "UA-11097556-8"]);
+      _gaq.push(["_trackPageview"]);
+
+      (function () {
+        var ga = document.createElement("script");
+        ga.type = "text/javascript";
+        ga.async = true;
+        ga.src =
+          ("https:" == document.location.protocol
+            ? "https://ssl"
+            : "http://www") + ".google-analytics.com/ga.js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <link rel="stylesheet" href="./css/update.css" />
+  </head>
+
+  <body>
+<div id="top-bar">
+      <ul>
+        <li>
+          <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
+            ><i class="fa fa-facebook"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://twitter.com/school_pune" target="_blank"
+            ><i class="fa fa-twitter"></i
+          ></a>
+        </li>
+        <li>
+          <a href="mailto:punebschool@gmail.com" target="_blank"
+            ><i class="fa fa-envelope"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
+            target="_blank"
+            ><i class="fa fa-linkedin"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/punebschool/" target="_blank"
+            ><i class="fa fa-instagram"></i
+          ></a>
+        </li>
+        <li>
+          <a href="tel:+9189759 82140"><i class="fa fa-phone"></i></a>
+        </li>
+        <li>
+          <a
+            href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+            target="_blank"
+            title="Apply Online"
+            style="color: #e6730f;"
+            >Apply Online</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <header>
+             <?php include("header.php")?> 
+    </header>
+    <!-- End Header-->
+ 
+  <nav>
+      <?php include("nav.php")?>
+  </nav>
+  <!-- /navbar -->
+
+    <!--Star slider-->
+
+    <!--End slider-->
+
+    <!-- end container-->
+
+    <div class="container" id="blog">
+      <div class="row content-background">
+        <div class="col-md-12 col-sm-12 about_desc">
+          <h2 class="subheading1">Blog</h2>
+          <div class="col-md-12">
+            <div class="col-md-12 pt20">
+              <ul class="nav nav-tabs nav1">
+                <li class="active">
+                  <a aria-expanded="false" data-toggle="tab" href="#blog1"
+                    >Blog</a
+                  >
+                </li>
+                <li>
+                  <a aria-expanded="true" data-toggle="tab" href="#blog2"
+                    >Students' Corner</a
+                  >
+                </li>
+              </ul>
+
+              <div class="tab-content">
+                <div class="tab-pane fade active in" id="blog1">
+                  <div class="col-xs-12 box">
+                    <div class="microsoft container1">
+                      <p>&nbsp;</p>
+
+                      <div align="center">
+                        <img
+                          class="img-responsive"
+                          src="http://www.sbpatilmba.com/images/blog-2020.jpeg"
+                          width="450px"
+                        />
+                      </div>
+                      <br />
+
+                      <h2
+                        class="subheading1"
+                        style="
+                          box-sizing: border-box;
+                          font-family: 'Open Sans', sans-serif;
+                          line-height: 1.1;
+                          color: rgb(157, 18, 20);
+                          margin-top: 20px;
+                          margin-bottom: 10px;
+                          font-size: 1.3em;
+                          text-transform: capitalize;
+                          text-align: left !important;
+                        "
+                      >
+                        Career in MBA With Digital Marketing Specialisation in
+                        Pune
+                      </h2>
+
+                      <p class="content-para">
+                        MBA is one of the most common options chosen by students
+                        after completing their graduation. MBA offers different
+                        specialisations including marketing, finance, HR,
+                        operations management, telecom management and so on.
+                      </p>
+
+                      <p class="content-para">
+                        In today’s world of business, the business dynamics have
+                        changed, the business models have changed, the customer
+                        buying behaviour has changed, the content consumption
+                        patterns has changed. Consumers have become smarter, so
+                        companies need to have a deep dive consumer insights
+                        approach so convince their customers.
+                      </p>
+
+                      <p class="content-para">
+                        Also, as the startup culture is evolving in India which
+                        has a huge potential to grow in the future. With
+                        technology as a backbone of business, companies are
+                        driving huge revenue through online business, as the
+                        overheads are low.
+                      </p>
+
+                      <p class="content-para">
+                        But in order to scale a startup or any business, one of
+                        the key things which plays an important role is Digital
+                        Marketing. Internet penetration in India has exceeded
+                        half a billion people, due to which Digital Marketing
+                        has become one of the key channels in marketing. All
+                        businesses are now looking to hire experts in Digital
+                        Marketing, so the demand for digital marketing experts
+                        is rising and the jobs in the digital marketing field
+                        are offered at a higher pay scale.
+                      </p>
+
+                      <p class="content-para">
+                        So doing an MBA in Pune with a Digital Marketing
+                        specialisation would work as an advantage once you
+                        complete the course, as you would have multiple job
+                        opportunities to look forward to. There are multiple
+                        domains in Digital Marketing which you can choose to
+                        specialise in and build your career.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          >What are the different domains in Digital Marketing ?
+                        </strong>
+                      </p>
+
+                      <p class="content-para">
+                        The are different domains in Digital Marketing which are
+                        as below:
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          ><a
+                            href="http://www.rinteractives.com/blog/en/how-to-create-google-search-ads/"
+                            target="_blank"
+                            ><u>Search Engine Marketing (Paid Ads)</u></a
+                          ></strong
+                        >
+                        - Search Engine Marketing often referred as paid search
+                        ads are search ads which rank on Google search once a
+                        user searches a query. Below is an example of a Search
+                        ad.
+                      </p>
+
+                      <div align="center">
+                        <img
+                          class="img-responsive"
+                          src="http://www.sbpatilmba.com/images/blog-mba-1.jpg"
+                          width="450px"
+                        />
+                      </div>
+
+                      <p class="content-para">
+                        As the users are actively looking for your products or
+                        services, the chances of conversions are very high. So
+                        the demand for search advertising professionals is very
+                        high in the market. You can build your skills in search
+                        advertising and look for job profiles in the space.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          ><a
+                            href="http://www.rinteractives.com/blog/en/guide-to-social-media-marketing-to-grow-your-business/"
+                            target="_blank"
+                            ><u>Social Media</u></a
+                          ></strong
+                        >
+                      </p>
+
+                      <p class="content-para">
+                        As you know social media is booming because of channels
+                        like Facebook, Instagram, LinkedIn, Snapchat etc, it
+                        helps to connect businesses with their audiences and
+                        drive engagement and conversions.
+                      </p>
+
+                      <p class="content-para">
+                        Social Media is divided into two aspects, content and
+                        ads. You can be a part of the social media team of a
+                        company or an agency and create engagement driven
+                        campaigns for the brand.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          ><a
+                            href="http://www.rinteractives.com/blog/en/search-engine-optimization-guide-to-grow-your-business/"
+                            target="_blank"
+                            ><u>Search Engine Optimization (SEO)</u></a
+                          ></strong
+                        >
+                      </p>
+
+                      <p class="content-para">
+                        Search engine optimization is to increase visibility of
+                        your website in organic search results, which means
+                        improving the ranking of your website without
+                        advertising. SEO has long term benefits and reduces the
+                        acquisition cost, over a period of a time for a
+                        business.
+                      </p>
+
+                      <p class="content-para">
+                        You can look for SEO as a career option because every
+                        business wants to drive revenue with minimum investment,
+                        so the demand for SEO experts will always be there in
+                        Digital.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          ><a
+                            href="http://www.rinteractives.com/blog/en/how-to-create-google-display-ads/"
+                            target="_blank"
+                            ><u>Display Advertising</u></a
+                          ></strong
+                        >
+                      </p>
+
+                      <p class="content-para">
+                        Display advertising is very useful for awareness and
+                        brand building. Display ads are also known as banner or
+                        image ads. These ads are visible on publishing websites
+                        like NDTV, Times of India, Tennis.com and so on. Below
+                        is an example of display ad
+                      </p>
+
+                      <div align="center">
+                        <img
+                          class="img-responsive"
+                          src="http://www.sbpatilmba.com/images/blog-mba-2.jpg"
+                          width="450px"
+                        />
+                      </div>
+
+                      <p class="content-para">
+                        Display advertising profile is part of the paid
+                        advertising profile of marketers, where individuals work
+                        with the paid marketing team of the brand or agency.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          >Content Marketing
+                        </strong>
+                      </p>
+
+                      <p class="content-para">
+                        Content marketing is another domain of digital media
+                        which has a huge potential to grow. Content is about
+                        storytelling, it’s about creating an impact about your
+                        brand within your target audience.
+                      </p>
+
+                      <p class="content-para">
+                        But content marketing is about creativity, where you
+                        will have to come up with ideas which encourages users
+                        to engage with your brand. If you have a blend towards
+                        developing ideas, then content marketing is the domain
+                        which you should specialise in.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          ><a
+                            href="http://www.rinteractives.com/blog/en/programmatic-advertising/"
+                            target="_blank"
+                            ><u>Programmatic Advertising &amp; DCO</u></a
+                          ></strong
+                        >
+                      </p>
+
+                      <p class="content-para">
+                        Programmatic advertising is another domain which is
+                        booming in the digital world today. Programmatic
+                        advertising ads related to automation of media buying
+                        and personalisation of ads to specific users on Digital.
+                        Personalisation of ads is the future of Digital
+                        Marketing.
+                      </p>
+
+                      <p class="content-para">
+                        The media spends of advertisers has moved to
+                        programmatic ads from traditional display ads. Big
+                        advertisers including Flipkart, Amazon, Make My Trip,
+                        OYO etc focus on programmatic advertising and dynamic
+                        creative optimization to drive revenue.<br />
+                        As a Digital Marketer you can handle the programmatic
+                        campaigns for a brand and build a career in the
+                        programmatic advertising space.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          >Email Marketing
+                        </strong>
+                      </p>
+
+                      <p class="content-para">
+                        Email marketing is one of the commonly used domains in
+                        marketing. Email marketing helps you to build a
+                        relationship with your customer, also it helps you to
+                        connect with your customer with a personalised message.
+                      </p>
+
+                      <p class="content-para">
+                        The opportunities after MBA in email marketing are huge
+                        because email marketing is about email communication
+                        with the existing audiences through email automation.
+                        Brands hire email marketing experts to define their
+                        email automation campaigns and lead nurturing process.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          >Affiliate Marketing
+                        </strong>
+                      </p>
+
+                      <p class="content-para">
+                        Affiliate marketing is the process of selling somebody
+                        else’s product and earning commissions out of it. One of
+                        the common examples is Trivago, where users on Trivago
+                        are diverted to other travel/hospitality websites to
+                        book hotels.
+                      </p>
+
+                      <p class="content-para">
+                        As an affiliate marketer you can set up your own
+                        business and start earning by sitting at your home. But
+                        to do so, you need to have a deep dive knowledge about
+                        marketing and spend time in this domain.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          >Conversion Rate Optimization
+                        </strong>
+                      </p>
+
+                      <p class="content-para">
+                        Conversion rate optimization is about increasing
+                        conversions on the website through A/B testing, dynamic
+                        content, landing page optimization and so on. It is
+                        another domain which you can specialise in as many
+                        business challenges are to drive more conversions.
+                      </p>
+
+                      <p class="content-para">
+                        Conversion rate optimization is a booming field and has
+                        huge potential to grow. So you can explore this field as
+                        a career option and build expertise in the domain.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          ><a
+                            href="http://www.rinteractives.com/blog/en/amazon-advertising/"
+                            target="_blank"
+                            ><u>Amazon Marketing Services</u></a
+                          ></strong
+                        >
+                      </p>
+
+                      <p class="content-para">
+                        Amazon marketing services is about advertising your
+                        products on Amazon search and Amazon display. As amazon
+                        is one of the popular ecommerce platforms in the world,
+                        brands focus on amazon, brand ads and
+                        <a
+                          href="http://www.rinteractives.com/blog/en/guide-to-amazon-product-display-ads/"
+                          target="_blank"
+                          ><u>product display ads</u></a
+                        >
+                        to drive sales for their business.
+                      </p>
+
+                      <p class="content-para">
+                        As a marketer you can get hands on experience on Amazon
+                        advertising and build your career in this field. You can
+                        also start your business and start selling on Amazon
+                        after few years of experience.
+                      </p>
+
+                      <p class="content-para">
+                        These are the important domains in digital marketing in
+                        which you can build your career in while doing MBA in
+                        Pune with Digital Marketing as a specialisation. There
+                        are few other domains including mobile marketing, video
+                        marketing etc which you can look at one you decide to
+                        make a career move towards digital.
+                      </p>
+
+                      <p>
+                        <strong style="box-sizing: border-box;"
+                          >Job Profiles in Digital Marketing
+                        </strong>
+                      </p>
+
+                      <ul>
+                        <li>● SEM Analyst</li>
+                        <li>● Social Media Manager</li>
+                        <li>● Search Engine Optimization Expert</li>
+                        <li>● Content Creator</li>
+                        <li>● Media Planner</li>
+                        <li>● Analytics Expert</li>
+                        <li>● Email Marketing Manager</li>
+                        <li>● Affiliate Marketer</li>
+                        <li>● Digital Marketing Head</li>
+                        <li>● Group Account Manager</li>
+                        <li>● Group Head - Digital</li>
+                      </ul>
+
+                      <p class="content-para">
+                        As Pune being one the growing cities dominated by IT
+                        companies, these IT companies have also started their
+                        Digital Marketing division and are hiring digital
+                        experts in their team at different levels of job
+                        functions. So job opportunities post MBA in pune have
+                        increased, thanks to Digital Marketing!
+                      </p>
+
+                      <p>
+                        <br />
+                        <strong style="box-sizing: border-box;"
+                          >About the Author:</strong
+                        >
+                      </p>
+
+                      <h2
+                        class="subheading1"
+                        style="
+                          box-sizing: border-box;
+                          font-family: 'Open Sans', sans-serif;
+                          line-height: 1.1;
+                          color: rgb(112, 79, 208);
+                          margin-top: 20px;
+                          margin-bottom: 10px;
+                          font-size: 1.3em;
+                          text-transform: capitalize;
+                          text-align: left !important;
+                        "
+                      >
+                        <a href="http://www.rahulgadekar.com/" target="_blank"
+                          >Rahul Gadekar</a
+                        >
+                      </h2>
+
+                      <p class="content-para">
+                        Founder of
+                        <a href="http://www.rinteractives.com/" target="_blank"
+                          ><u>R Interactives</u></a
+                        >
+                        &amp;
+                        <a href="http://www.racademy.in/" target="_blank"
+                          ><u>R Academy</u></a
+                        >. He has vast experience in Programmatic Advertising,
+                        Dynamic Creative Optimization (DCO), Search Marketing
+                        and also acts as a consultant &amp; advisor to around 10
+                        Agencies.
+                      </p>
+
+                      <p class="content-para">
+                        He is also a visiting faculty with Symbiosis Institute
+                        of Business Management (SIBM – MBA), Symbiosis Institute
+                        of Media &amp; Communication (SIMC – MBA), S B Patil
+                        &amp; other B Schools in Pune
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="tab-pane fade" id="blog2">
+                  <div class="col-xs-12 box">
+                    <div class="microsoft container1">
+                      <h2
+                        class="subheading1"
+                        style="
+                          box-sizing: border-box;
+                          font-family: 'Open Sans', sans-serif;
+                          line-height: 1.1;
+                          color: rgb(157, 18, 20);
+                          margin-top: 20px;
+                          margin-bottom: 10px;
+                          font-size: 1.3em;
+                          text-transform: capitalize;
+                          text-align: left !important;
+                        "
+                      >
+                        Life @ PBS
+                      </h2>
+
+                      <p class="content-para">
+                        I remember clearly as if it were just yesterday, I was
+                        sitting in the seminar hall on the first day of
+                        induction programme. " You are going to enjoy this MBA
+                        college life", I heard Dr. Daniel Penkar say over the
+                        mic on the dias. He was our director who retired just a
+                        couple of weeks ago. My mind was filled with questions.
+                        " Did I make the right decision by choosing to pursue my
+                        MBA!? " , I thought to myself." Am I on the right path
+                        or will I be wasting my time, money and effort!?" Dr.
+                        Daniel's words came directly at the time of me asking
+                        myself these questions. I wasn't going to believe Dr.
+                        Daniel when he confidently claimed that I was going to
+                        enjoy my MBA college life here at PBS, not because he
+                        didn't feel trustworthy but because of my life's motto
+                        which is to try things for oneself first, first
+                        experience them firsthand and then and only then believe
+                        them.<br />
+                        I had spent only a week in my college when I realised
+                        taht the best of the teaching staff has been appointed
+                        here. One of the major academic shocks I received was to
+                        how well the teaching faculty bonded with the students.
+                        It was amazing and felt odd because I had spent more
+                        than four years of life studying engineering from a
+                        college which did not believe in student teacher bonding
+                        or extra curricular activities for that matter. Dr.
+                        Daniel had not divulge any details about college culture
+                        in the induction speech. That may be one of the reasons
+                        as to why every experience seemed all the more
+                        surprising when it came to pass! I still wasn't going to
+                        jump to the conclusion that the college was as fantastic
+                        as others had claimed. I was enjoying my interaction
+                        with the faculty for sure but that was just the
+                        beginning of more fun to come.
+                      </p>
+
+                      <p class="content-para">
+                        I have always enjoyed music and dance but not practicing
+                        dance daily had turned my once flexible body into a log
+                        of wood. What has MBA got to do with dance you ask!?
+                        Garba! One of the most pleasant news i heard about my
+                        MBA college celebrating Navaratri festival was that it
+                        was celebrating Navaratri festival in the first place! I
+                        came to MBA form an engineering college which did not
+                        believe in granting even a single holiday to students
+                        let alone celebrate it. It was a joyful news for me! Now
+                        can you imagine my amazement when I found out that two
+                        garba dance instructors were appointed by the college to
+                        teach students garba! " One hour of garba daily! Wow!" I
+                        said to myself. And that's just the practice session. On
+                        the final day of Navaratri all the students had to come
+                        dressed in traditional attire and dance to garba music .
+                        But that's not it! There was more! There were prizes
+                        held for students based on their dancing skills ,
+                        costume and enthusiasm in general.
+                      </p>
+
+                      <p class="content-para">
+                        If the enjoyment from cultural activities was not enough
+                        then the students were further encouraged to participate
+                        in extracurricular activities . And how!? The college
+                        would pay half of the participation fees for any extra
+                        curricular activity the student participated in. The
+                        first thing that I did after reaching home was to check
+                        exactly how much fees I was paying. Was I paying way too
+                        much fees for the college to have such encouragement
+                        schemes!? But no, the fees were totally normal! The
+                        college would pay the entire participation fees if he
+                        wins any college competition! Even students who won
+                        consolation prizes were facilitated in the college
+                        again. Now I was sure , there definitely some wrong with
+                        the college fees I was paying!
+                      </p>
+
+                      <p class="content-para">
+                        Three months in this college now , I find myself
+                        thinking about the director's words during the induction
+                        programme. He was right. I was enjoying my MBA life like
+                        anything. It is said that as you grow older you come to
+                        know beforehand whether you are going to miss something
+                        when it goes away. I can't speak for others but I for
+                        sure know that I am going to miss my MBA college life. I
+                        can totally relate to the lyrics of the famous song ' I
+                        am really gonna miss this place , I am gonna miss my
+                        college days'.
+                      </p>
+
+                      <p>By Shriyas Partil</p>
+
+                      <p>MBA-I , 2019-21 Batch</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end container-->
+
+    <footer>
+        <?php include("footer.php")?>
+    </footer>
+    <!-- End footer-->
+    <div id="toTop">Back to Top</div>
+
+    <!-- MEGAMENU -->
+    <script src="js/jquery.easing.js"></script>
+    <script src="js/megamenu.js"></script>
+
+    <!-- OTHER JS -->
+    <script src="js/bootstrap.js"></script>
+    <script src="js/functions.js"></script>
+    <script src="assets/validate.js"></script>
+
+    <!-- FANCYBOX -->
+    <script
+      src="js/fancybox/source/jquery.fancybox.pack.js?v=2.1.4"
+      type="text/javascript"
+    ></script>
+    <script
+      src="js/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.5"
+      type="text/javascript"
+    ></script>
+    <script src="js/fancy_func.js" type="text/javascript"></script>
+
+    <!-- REVOLUTION SLIDER -->
+    <script src="rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+    <script
+      type="text/javascript"
+      src="rs-plugin/js/jquery.themepunch.revolution.min.js"
+    ></script>
+    <script src="js/revolutio-slider-func.js"></script>
+
+    <!-- STYLE SWITCHER -->
+    <script type="text/javascript" src="src/jquery-sticklr-1.4.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $("#example-1").sticklr({
+          animate: true,
+          showOn: "hover",
+        });
+      });
+    </script>
+    <script type="text/javascript" src="src/fswit.js"></script>
+    <script src="js/updated.js"></script>
+     <script src="./js/hash.js"></script>
+    <!--<script src="js/pages.js"></script>-->
+    
+  </body>
+</html>
