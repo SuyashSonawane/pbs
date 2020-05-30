@@ -8,16 +8,20 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Bussiness School | Top B School in Pune
+      PCET's Pune Business School | Top B School in Pune
     </title>
     <meta
       name="description"
       content="PCET's Pune Bussiness School | Top B School in Pune"
     />
-    <meta name="author" content="Ansonika" />
+    <meta name="author" content="Pune Business School" />
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/pcet-logo.jpg"
+      type="image/x-icon"
+    />
     <link
       rel="apple-touch-icon"
       type="image/x-icon"
@@ -50,21 +54,20 @@
     <link href="css/megamenu.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
-    <link
+    <!-- <link
       href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet"
+    /> -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
     />
-    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="font-awesome/css/font-awesome.css" rel="stylesheet"-->
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" -- />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
     <link rel="stylesheet" href="css/fullwidth.css" media="screen" />
     <link rel="stylesheet" href="rs-plugin/css/settings.css" media="screen" />
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
 
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -272,15 +275,19 @@
         outline: 0;
         border: 1px solid #999;
       }
+
       ::-webkit-input-placeholder {
         color: #888;
       }
+
       :-moz-placeholder {
         color: #888;
       }
+
       ::-moz-placeholder {
         color: #888;
       }
+
       :-ms-input-placeholder {
         color: #888;
       }
@@ -290,21 +297,57 @@
   </head>
 
   <body>
-    <div id="top-bar"></div>
+    <div id="top-bar">
+      <ul>
+        <li>
+          <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
+            ><i class="fa fa-facebook"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://twitter.com/school_pune" target="_blank"
+            ><i class="fa fa-twitter"></i
+          ></a>
+        </li>
+        <li>
+          <a href="mailto:punebschool@gmail.com" target="_blank"
+            ><i class="fa fa-envelope"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
+            target="_blank"
+            ><i class="fa fa-linkedin"></i
+          ></a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/punebschool/" target="_blank"
+            ><i class="fa fa-instagram"></i
+          ></a>
+        </li>
+        <li>
+          <a href="tel:+9189759 82140"><i class="fa fa-phone"></i></a>
+        </li>
+        <li>
+          <a
+            href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+            target="_blank"
+            title="Apply Online"
+            style="color: #e6730f;"
+            >Apply Online</a
+          >
+        </li>
+      </ul>
+    </div>
 
-    <script async src="https://static.addtoany.com/menu/page.js"></script>
-    <!--[if !IE]><!-->
-    <script>
-      if (/*@cc_on!@*/ false) {
-        document.documentElement.className += " ie10";
-      }
-    </script>
-    <!--<![endif]-->
-    <!-- Border radius fixed IE10-->
+    <header>
+      <?php include("header.html")?>
+    </header>
 
-    <header></header>
-    <!-- End Header-->
-    <nav></nav>
+    <nav>
+      <?php include("nav.html")?>
+    </nav>
     <div class="col-lg-12 padding20">
       <h2 class="heading_h1">Reach Us</h2>
 
@@ -339,7 +382,7 @@
                 src="./img/locator.png"
                 width="35"
                 height="35"
-                alt="PCCOE is the top engineering college in Pune"
+                alt="PBS is the top Business School in Pune"
               />
             </div>
 
@@ -359,7 +402,7 @@
                 src="./img/phone.png"
                 width="35"
                 height="35"
-                alt="PCCOE is best Engineering Colleges In Pune with high rank in university"
+                alt="PBS is best PGDM Colleges In Pune with high rank in university"
               />
             </div>
 
@@ -375,7 +418,7 @@
                 src="./img/email.png"
                 width="35"
                 height="35"
-                alt="PCCOE is comes under the best Engineering Colleges in Pune"
+                alt="PBS is the best PGBM Colleges in Pune"
               />
             </div>
 
@@ -396,53 +439,34 @@
             <!-- <form id="ajax-contact-form" method="post">
               <div id="fields1"></div>
               <div id="note1"></div>
-
               <label class="labelformat">Your Name :</label>
-
               <div class="clear"></div>
-
               <input
                 type="text"
                 name="name"
                 class="textbox"
                 onkeypress="return ValidateAlpha(event);"
               />
-
               <div class="clear"></div>
-
               <label class="labelformat">Your Email :</label>
-
               <div class="clear"></div>
-
               <input type="text" name="email" class="textbox" />
-
               <div class="clear"></div>
-
               <label class="labelformat">Your Phone :</label>
-
               <div class="clear"></div>
-
               <input
                 type="text"
                 name="contact"
                 class="textbox"
                 onkeypress="return isNumberKey(event)"
               />
-
               <div class="clear"></div>
-
               <label class="labelformat">Your Message :</label>
-
               <div class="clear"></div>
-
               <textarea class="textarea" name="message"></textarea>
-
               <div class="clear"></div>
-
               <label class="labelformat"></label>
-
               <div class="clear"></div>
-
               <input type="submit" value="SEND" class="button1" />
             </form> -->
 
@@ -552,7 +576,7 @@
       });
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
-
+    <script src="./js/hash.js"></script>
     <script src="./js/pages.js"></script>
   </body>
 </html>
