@@ -1,15 +1,15 @@
 $(document).ready(function () {
-  $.get("../top-bar.html", function (data) {
+  $.get("../top-bar.php", function (data) {
     $("#top-bar").html(data);
   });
-  $.get("../nav.html", function (data) {
+  $.get("../nav.php", function (data) {
     $("nav").html(data);
   });
 
-  $.get("../header.html", function (data) {
+  $.get("../header.php", function (data) {
     $("header").html(data);
   });
-  $.get("../footer.html", function (data) {
+  $.get("../footer.php", function (data) {
     $("footer").html(data);
   });
 
