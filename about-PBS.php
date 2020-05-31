@@ -232,26 +232,9 @@
       About Pune Business School
     </h2>
   </div>
-    <!-- <div class="row content-background text" id="bgImage">
-      <div class="content">
-        <h2 class="subheading1"
-          style="box-sizing: border-box; font-family: 'Open Sans', sans-serif; line-height: 1.1; color: rgb(157, 18, 20); margin-top: 20px; margin-bottom: 10px; text-transform: uppercase; text-align: left!important; ">
-          About Pune Bussiness School
-        </h2>
-        <p class="content-para">
-          The Pune Business School is a comprehensive academic institution with a distinctive learning style and a global vision.
-          It is an upcoming institute in academia, research and management in India and the Maharashtra region. In order to
-          improve the student learning experience, a developed innovative and focused plan has been prepared to enhance and enrich
-          the student services and facilities. As a part of this strategic focus, PBS aims to ensure that all new and existing
-          engagements become a quality centered learning experience. PBS aims to meet student residential and social needs,
-          provide effective student support services and promote the students’ personal development and ultimately their
-          employability.
 
-        </p>
-      </div>
-    </div> -->
     <hr>
-    <div class="container">
+     <div class="container">
       <div class="row content-background text">
         <div class="col-md-12">
           <div class="col-md-12">
@@ -330,13 +313,6 @@
                   <div class="col-xs-12 box">
                     <div class="microsoft container1 text-justify">
 
-                      <!-- <div align="center">
-                        <img
-                          class="img-responsive"
-                          src="./images/2_Pune Business School Campus.jpg"
-                          width="450px"
-                        />
-                      </div> -->
                       <h2 style="box-sizing: border-box; font-family: 'Open Sans', sans-serif; line-height: 1.1; color: rgb(157, 18, 20); margin-top: 20px; margin-bottom: 10px; text-transform: uppercase; text-align: left!important; ">ADVANTAGES OF PBS</h2>
 
                       <p class="content-para">
@@ -370,7 +346,7 @@
                       </p>
                       <p class="content-para">
                         <h4 class="large_text text-left">3. PERFORMANCE UPGRADATION SOCIALLY RELEVANT HOLIS4IC
-                        programme (PUSH) :</h2> 
+                        programme (PUSH) :</h4> 
                         A uniquely designed programme focusing on large_textership, communication
                         skills, emotional intelligence and the latest managerial trends.
                       </p>
@@ -429,7 +405,7 @@
                   </div>
                 </div>
                 
-                 <div class="tab-pane fade" id="blog3">
+                <div class="tab-pane fade" id="blog3">
                   <div class="col-xs-12 box">
                     <div class="microsoft container1">
                       <h2
@@ -738,7 +714,6 @@
             </div>
           </div>
         </div>
-      </div>
     </div>
     <!-- end container-->
 
