@@ -85,6 +85,44 @@ table {
   justify-content: space-between;
   padding: 0;
 }
+.governers {
+  display: flex;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.governer {
+  width: 350px;
+  padding: 10px;
+  margin: 5px;
+  transition: all 0.2s ease;
+  line-height: 2;
+}
+.governer .title {
+  font-size: 1.5em;
+}
+.governer:hover {
+  background-color: #1b735c;
+  transform: translateY(-5px);
+  color: white;
+}
+.governer::before {
+  transition: all 0.5s;
+  content: "";
+  width: 5px;
+  height: 50px;
+  background-color: #1b735c;
+  position: absolute;
+  transform: translate(-10px, 10px);
+}
+.governer:hover::before {
+  z-index: -1;
+  transform: rotate(270deg) translateX(-15px);
+  background-color: whitesmoke;
+}
+.governer .subtitle {
+  text-decoration: underline;
+}
 .apply-online {
   animation: pulse infinite 1s ease-in-out;
   padding-top: 5px;
