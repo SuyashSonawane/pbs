@@ -459,7 +459,7 @@ table {
   display: none;
 }
 .showFal {
-  display: flex;
+  display: block;
   text-align: justify;
 }
 
