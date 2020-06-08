@@ -332,7 +332,7 @@ table {
   padding: 20px;
 }
 #bgImage {
-  background-image: url("../images/infrastructure/2_Pune\ Business\ School\ Campus.jpg");
+  background-image: url("../images/infrastructure/Campus/2_Pune\ Business\ School\ Campus.jpg");
   height: 300px;
   display: flex;
   align-items: flex-end;
@@ -552,5 +552,4 @@ table {
     max-height: 110px;
     transform: scale(0.8);
   }
-
 }
