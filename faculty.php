@@ -8,16 +8,21 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Business School | Top B School in Pune
+      PCET's Pune Business School | Top Business School in Pune | Best PGDM
+      College in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top Business School in Pune | Best PGDM College in Pune"
     />
     <meta name="author" content="Ansonika" />
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="./images/pcet-logo.jpg" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/pcet-logo.jpg"
+      type="image/x-icon"
+    />
     <link
       rel="apple-touch-icon"
       type="image/x-icon"
@@ -50,12 +55,15 @@
     <link href="css/megamenu.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
-   <!-- <link
+    <!-- <link
       href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet"
     />-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="font-awesome/css/font-awesome.css" rel="stylesheet"-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" -- />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
@@ -168,10 +176,18 @@
       })();
     </script>
     <link rel="stylesheet" href="./css/update.css" />
+    <style>
+      #cn-awards {
+        list-style-type: decimal;
+      }
+      #cn-awards li {
+        padding: 5px 0px;
+      }
+    </style>
   </head>
 
   <body>
-   <div id="top-bar">
+    <div id="top-bar">
       <ul>
         <li>
           <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
@@ -189,9 +205,7 @@
           ></a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
-            target="_blank"
+          <a href="https://www.linkedin.com/" target="_blank"
             ><i class="fa fa-linkedin"></i
           ></a>
         </li>
@@ -215,13 +229,13 @@
       </ul>
     </div>
     <header>
-          <?php include("header.php")?> 
+      <?php include("header.php")?>
     </header>
     <!-- End Header-->
-   
-  <nav>
+
+    <nav>
       <?php include("nav.php")?>
-  </nav>
+    </nav>
     <!-- /navbar -->
 
     <!--Star slider-->
@@ -237,7 +251,7 @@
           <div class="col-md-12">
             <div class="col-md-3">
               <img
-                alt="SBPIM Best business management school in Pune university"
+                alt="PBS Best business management school in Pune university"
                 class="img-responsive img-border"
                 height="111"
                 src="./images/faculties/swapnali-kulkarni.jpg"
@@ -552,7 +566,7 @@
           <div class="col-md-12">
             <div class="col-md-3">
               <img
-                alt="SBPIM Best business management school in Pune university"
+                alt="Faculty Pune Business School"
                 class="img-responsive img-border"
                 height="111"
                 src="./images/faculties/Dr. Iram Ansari.jpg"
@@ -738,7 +752,7 @@
           <div class="col-md-12">
             <div class="col-md-3">
               <img
-                alt="SBPIM is best in all the top business schools and MBA colleges in Pune"
+                alt="PBS is best in all the top business schools and MBA colleges in Pune"
                 class="img-responsive img-border"
                 src="./images/faculties/Aishwarya.jpg"
                 style="width: 111px; height: 110px;"
@@ -884,11 +898,7 @@
                 <div class="col-xs-12 box">
                   <div class="microsoft container1">
                     <p>
-                      Pursuing a Ph.D. in Finance, Dr.D.Y.Patil Vidyapeeth, Pune
-                    </p>
-
-                    <p>
-                      Pursuing a Ph.D. in Finance, Dr.D.Y.Patil Vidyapeeth, Pune
+                      Ph.D. in Finance, Dr.D.Y.Patil Vidyapeeth, Pune
                     </p>
 
                     <p>
@@ -947,7 +957,7 @@
           <div class="col-md-12">
             <div class="col-md-3">
               <img
-                alt="SBPIM is best in all the top business schools and MBA colleges in Pune"
+                alt="PBS is best in all the top business schools and MBA colleges in Pune"
                 class="img-responsive img-border"
                 src="./images/faculties/Lakshami Jasti.jpg"
                 style="width: 111px; height: 110px;"
@@ -1031,10 +1041,459 @@
         </div>
       </div>
     </div>
+
+    <div class="container fal hideFal" id="blog">
+      <div class="row content-background">
+        <div class="col-md-12 col-sm-12 about_desc">
+          <h1 class="subheading1 text-center">Dr. C. N. Narayana</h1>
+          <div class="col-md-12">
+            <div class="col-md-2">
+              <img
+                alt="PBS Best business management school in Pune university"
+                class="img-responsive img-border"
+                height="111"
+                src="./img/cnarayana.jpg"
+                width="111"
+              />
+            </div>
+
+            <div class="col-md-9">
+              <div class="content-para lineheight25 text-left">
+                <div class="row">
+                  Senior Professor&amp; Director, Pune Business School
+                </div>
+
+                <!-- <div class="row"><a>swapnalik.2003@gmail.com</a></div> -->
+
+                <div class="row">
+                  His leadership qualities as a corporate leader and Academic
+                  transformational leader are widely recognized both in India
+                  and globally. He is in receipt of several awards (more than
+                  60) for Teaching, Research, and Leadership across the globe a
+                  few notable ones include
+                </div>
+                <br />
+              </div>
+            </div>
+          </div>
+          <hr />
+          <div class="col-md-12 pt20">
+            <ul class="nav nav-tabs nav1" style="display: block;">
+              <li class="active">
+                <a aria-expanded="true" data-toggle="tab" href="#research10"
+                  >Research</a
+                >
+              </li>
+              <li class="">
+                <a aria-expanded="false" data-toggle="tab" href="#prj10"
+                  >Publication</a
+                >
+              </li>
+              <li class="">
+                <a aria-expanded="false" data-toggle="tab" href="#award10"
+                  >Awards</a
+                >
+              </li>
+
+              <li class="">
+                <a aria-expanded="false" data-toggle="tab" href="#resource10"
+                  >Resource Person</a
+                >
+              </li>
+            </ul>
+
+            <div class="tab-content">
+              <div class="tab-pane fade active in" id="research10">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <div class="welcome-text-box">
+                      <h3>Research Papers in Journal:</h3>
+                    </div>
+                    <p>
+                      Relevance of total quality management (TQM) or business
+                      excellence strategy implementation for enterprise resource
+                      planning (ERP)–a conceptual study <br />
+                      VS Jha, H Joshi
+                      <br />
+                      Proceedings of the 12th International Conference on
+                      Information Quality
+                    </p>
+                    <p>
+                      Transforming knowledge assets for creating a learning
+                      organization-a conceptual approach for moving towards
+                      business excellence <br />
+                      VS Jha, H Joshi <br />
+                      International Journal for Business Research 7 (3), 134-142
+                    </p>
+                    <p>
+                      Critical analysis of knowledge constituents and impact on
+                      organizational knowledge orientation-An exploratory study
+                      <br />
+                      H Dutt, VS Jha, F Qamar <br />
+                      IIMS Journal of Management Science 1 (2), 93-105
+                    </p>
+                    <p>
+                      Strategic Management and Policy Framework for Achieving
+                      Business Excellence–case studies of Indian Companies
+                      <br />
+                      VS Jha <br />
+                      Journal of Academy of Business and Economics (JABE) 5 (1),
+                      180-191
+                    </p>
+                    <p>
+                      Study of knowledge management assessment-Research in
+                      Indian companies <br />
+                      VS Jha, D Chawla, H Joshi <br />
+                      Global Journal of e-business & Knowledge Management 4 (1),
+                      6-13
+                    </p>
+                    <p>
+                      Book Review: India Micro, Small & Medium Enterprises
+                      Report 2011 <br />
+                      CN Narayana <br />
+                      Global Business Review 13 (2), 351-352
+                    </p>
+                    <a
+                      href="https://scholar.google.com/citations?user=_r0iXE8AAAAJ&hl=en"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      >Read More</a
+                    >
+                  </div>
+                </div>
+              </div>
+
+              <div class="tab-pane fade" id="prj10">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <ul id="cn-awards">
+                      <li>
+                        Published 5 books on OD &amp; Change, spirituality,
+                        inner management a few to mention.
+                      </li>
+                      <li>Google scholar with 20 research papers&nbsp;</li>
+                      <li>
+                        2 case studies in Case Center, UK and US, SAGE
+                        etc.,&nbsp;
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="award10">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <ul id="cn-awards">
+                      <li>
+                        Receipt of several awards (more than 60) for Teaching,
+                        Research, and Leadership across the globe a few notable
+                        ones include
+                      </li>
+                      <li>
+                        Golden Globe Tigers Awards in Malaysia in 2015,
+                        Knowledge Management Award in 2016 at Dubai by World
+                        Educational Congress,&nbsp;
+                      </li>
+                      <li>
+                        Three time winner of Dewang Mehta Award for Best
+                        Professor, Asia&rsquo;s Best Professor award by India
+                        Today TV, and ABN TV.&nbsp;
+                      </li>
+                      <li>
+                        He was also recipient of Eminent Educationist Award by
+                        Indo-American Society twice.
+                      </li>
+                      <li>
+                        He had won several awards from the most respected
+                        magazine Competition Success Review (CSR) for Best
+                        Director.
+                      </li>
+                      <li>
+                        &nbsp;Best Professor, Best Leadership and eminent
+                        educationist awards of CSR for 4 consecutive years
+                        (2014, 2015, 2016 &amp; 2017).&nbsp;
+                      </li>
+                      <li>
+                        He was also awarded Mother Teresa Award for his
+                        contribution to social work- girl child education and
+                        support to various NGOs.&nbsp;
+                      </li>
+                      <li>
+                        &nbsp;He was also ranked 4th in Business School
+                        leadership (just behind IIMA, IIMB, XLRI) by NHRDN and
+                        People Matters.
+                      </li>
+                      <li>
+                        &nbsp;Very recently he was awarded the prestigious
+                        &ldquo;Education Leader of India for 2019&rdquo;at Dubai
+                        by World Wide Achievers in Indo Arab Leaders Summit held
+                        in Dubai in November 2019.
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="edu10">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <table border="1px">
+                      <tbody>
+                        <tr class="tablehead" style="">
+                          <td class="text-center tdCls">
+                            <strong style="box-sizing: border-box;"
+                              >Degree</strong
+                            >
+                          </td>
+                          <td class="text-center tdCls">
+                            <strong style="box-sizing: border-box;"
+                              >University/College</strong
+                            >
+                          </td>
+                          <td class="text-center tdCls">
+                            <strong style="box-sizing: border-box;"
+                              >Year</strong
+                            >
+                          </td>
+                          <td class="text-center tdCls">
+                            <strong style="box-sizing: border-box;"
+                              >Subject</strong
+                            >
+                          </td>
+                          <td class="text-center tdCls">
+                            <strong style="box-sizing: border-box;"
+                              >Percentage</strong
+                            >
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="tdCls">PhD</td>
+                          <td class="tdCls">Amravati University</td>
+                          <td class="tdCls">-</td>
+                          <td class="tdCls">Management (Commerce)</td>
+                          <td class="tdCls">Awarded in June 2017</td>
+                        </tr>
+                        <tr>
+                          <td class="tdCls">M.M.M</td>
+                          <td class="tdCls">Pune University</td>
+                          <td class="tdCls">2010</td>
+                          <td class="tdCls">Marketing management</td>
+                          <td class="tdCls">64.4</td>
+                        </tr>
+                        <tr>
+                          <td class="tdCls">M.Tech</td>
+                          <td class="tdCls">
+                            Dr.Panjabrao Deshmukh Krishi Vidyapeeth, Akola
+                          </td>
+                          <td class="tdCls">2003</td>
+                          <td class="tdCls">Farm Power and Machinery</td>
+                          <td class="tdCls">
+                            88.50<br />
+                            (Gold Medal)
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="tdCls">B.Tech (Agril. Engg)</td>
+                          <td class="tdCls">
+                            Dr.Panjabrao Deshmukh Krishi Vidyapeeth, Akola
+                          </td>
+                          <td class="tdCls">2001</td>
+                          <td class="tdCls">Agricultural Engg</td>
+                          <td class="tdCls">80.50</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="training10">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <p>
+                      Conducted Training Program for Accurate Genset Pvt. Ltd.
+                      on "Effective ways to increase sales"
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="resource10">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <ul id="cn-awards">
+                      <li>
+                        Chaired for several international conferences and a
+                        known panelist in various forums.&nbsp;
+                      </li>
+                      <li>
+                        Selected for &ldquo;Mission Innovation&rdquo; supported
+                        by Innovation Next working with CII.
+                      </li>
+                      <li>
+                        Addressed B school leaders in Bloomberg TV at Singapore,
+                        National Leadership Summit, and a speaker in several TV
+                        programs.
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <p>&nbsp;</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container fal hideFal" id="blog">
+      <div class="row content-background">
+        <div class="col-md-12 col-sm-12 about_desc">
+          <h1 class="subheading1 text-center">Mr. Chetan. Patil</h1>
+          <div class="col-md-12">
+            <div class="col-md-2">
+              <img
+                alt="PBS Best business management school in Pune university"
+                class="img-responsive img-border"
+                height="111"
+                src="./images/faculties/chetan patil.png"
+                width="111"
+              />
+            </div>
+
+            <div class="col-md-9">
+              <div class="content-para lineheight25 text-left">
+                <div class="row">
+                  Financial Analysis <br />
+                  BE (Mechanical),MBA (Mktg, Finance),
+                </div>
+
+                <!-- <div class="row"><a>swapnalik.2003@gmail.com</a></div> -->
+
+                <br />
+              </div>
+            </div>
+          </div>
+          <hr />
+          <div class="col-md-12 pt20">
+            <ul class="nav nav-tabs nav1" style="display: block;">
+              <li class="active">
+                <a aria-expanded="false" data-toggle="tab" href="#edu11"
+                  >Education</a
+                >
+              </li>
+            </ul>
+
+            <div class="tab-content">
+              <div class="tab-pane fade active in" id="edu11">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <p>
+                      MBA (Marketing Management) Savitribai Phule Pune
+                      University ( formally known as Univeristy of Pune) 2004.
+                    </p>
+                    <p>
+                      MBA (Financial Management ) Savitribai Phule Pune
+                      University ( formally known as Univeristy of Pune),2006.
+                    </p>
+                    <p>
+                      B.E.(Mechanical Engineering) Kavayitri Bahinabai Chaudhari
+                      North Maharashtra University ( North Maharashtra
+                      University), 2001.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <p>&nbsp;</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container fal hideFal" id="blog">
+      <div class="row content-background">
+        <div class="col-md-12 col-sm-12 about_desc">
+          <h1 class="subheading1 text-center">Mr. Sanjay. Gaikwad</h1>
+          <div class="col-md-12">
+            <div class="col-md-2">
+              <img
+                alt="PBS Best business management school in Pune university"
+                class="img-responsive img-border"
+                height="111"
+                src="./images/faculties/sanjay gaikwad.png"
+                width="111"
+              />
+            </div>
+
+            <div class="col-md-9">
+              <div class="content-para lineheight25 text-left">
+                <div class="row">
+                  Financial Analysis <br />
+                  B.Com, MBA (Finance & Marketing)
+                </div>
+
+                <!-- <div class="row"><a>swapnalik.2003@gmail.com</a></div> -->
+
+                <br />
+              </div>
+            </div>
+          </div>
+          <hr />
+          <div class="col-md-12 pt20">
+            <ul class="nav nav-tabs nav1" style="display: block;">
+              <li class="active">
+                <a aria-expanded="true" data-toggle="tab" href="#research12"
+                  >Research</a
+                >
+              </li>
+              <li class="">
+                <a aria-expanded="false" data-toggle="tab" href="#edu12"
+                  >Education</a
+                >
+              </li>
+            </ul>
+
+            <div class="tab-content">
+              <div class="tab-pane fade" id="edu12">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <p>
+                      B.Com.
+                    </p>
+                    <p>
+                      MBA (Finance)
+                    </p>
+                    <p>
+                      Ph. D. (Pursuing)
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade active in" id="research12">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <div class="welcome-text-box">
+                      <h3>Research Papers in Journal:</h3>
+                    </div>
+                    Research Paper on “A Comparative Study of Non-Performing
+                    Assets in Public and Private Sector Banks in India” in
+                    Journal of Management and Administration Tomorrow, VOL. 5
+                    No.2 (January – June 2017), ISSN2278-9316"
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <p>&nbsp;</p>
+        </div>
+      </div>
+    </div>
+
     <!-- end container-->
 
     <footer>
-        <?php include("footer.php")?>
+      <?php include("footer.php")?>
     </footer>
     <!-- End footer-->
     <div id="toTop">Back to Top</div>
@@ -1048,8 +1507,8 @@
     <script src="js/functions.js"></script>
     <script src="assets/validate.js"></script>
     <script src="./js/faculty.js"></script>
-     <script src="./js/hash.js"></script>
-  <!--   <script src="./js/pages.js"></script>-->
+    <script src="./js/hash.js"></script>
+      <script src="./pages.js"></script>
 
     <!-- FANCYBOX -->
     <script

@@ -1,4 +1,3 @@
-
 <div class="container">
   <div class="row">
     <div class="col-md-7">
@@ -24,7 +23,7 @@
               | &nbsp;
             </li>
             <li>
-              <a href="contact.php" title="Contact"> Contact </a> |&nbsp;
+              <a href="contact.php" title="Contact"> Contact Us </a> |&nbsp;
             </li>
             <li>
               <a
@@ -56,7 +55,9 @@
             >
             | &nbsp;
           </li>
-          <li><a href="contact.php" title="Contact"> Contact </a> |&nbsp;</li>
+          <li>
+            <a href="contact.php" title="Contact"> Contact Us</a> |&nbsp;
+          </li>
           <li>
             <a
               href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
@@ -69,7 +70,14 @@
     </div>
   </div>
   <p id="attention" class="text-center">
-   <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA" target="_blank" title="Pune Business School Admission" style="color: #e6730f;"> PBS PGDM ADMISSION PROCESS YEAR 2020-21</a>
+    <a
+      href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+      target="_blank"
+      title="Pune Business School Admission"
+      style="color: #e6730f;"
+    >
+      PBS PGDM ADMISSION PROCESS YEAR 2020-21</a
+    >
   </p>
 </div>
 <br />

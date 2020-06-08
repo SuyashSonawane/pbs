@@ -39,6 +39,6 @@ document.getElementById("submit").addEventListener("click", () => {
     $("#newsletter")[0].reset();
   }, 1000);
 });
-$.get("../floater.php", function (data) {
+$.get("../floater.html", function(data) {
   $("#floater").html(data);
 });

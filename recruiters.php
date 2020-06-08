@@ -8,16 +8,21 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Business School | Top B School in Pune
+      PCET's Pune Business School | Top Business School in Pune | Best PGDM
+      College in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top Business School in Pune"
     />
     <meta name="author" content="Pune Business School" />
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="./images/pcet-logo.jpg" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/pcet-logo.jpg"
+      type="image/x-icon"
+    />
     <link
       rel="apple-touch-icon"
       type="image/x-icon"
@@ -50,12 +55,15 @@
     <link href="css/megamenu.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
-  <!--  <link
+    <!--  <link
       href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet"
     /> -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="font-awesome/css/font-awesome.css" rel="stylesheet"-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" -- />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
@@ -155,7 +163,7 @@
       _gaq.push(["_setAccount", "UA-11097556-8"]);
       _gaq.push(["_trackPageview"]);
 
-      (function() {
+      (function () {
         var ga = document.createElement("script");
         ga.type = "text/javascript";
         ga.async = true;
@@ -171,7 +179,7 @@
   </head>
 
   <body>
-   <div id="top-bar">
+    <div id="top-bar">
       <ul>
         <li>
           <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
@@ -189,9 +197,7 @@
           ></a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
-            target="_blank"
+          <a href="https://www.linkedin.com/" target="_blank"
             ><i class="fa fa-linkedin"></i
           ></a>
         </li>
@@ -216,13 +222,13 @@
     </div>
 
     <header>
-         <?php include("header.php")?> 
+      <?php include("header.php")?>
     </header>
     <!-- End Header-->
-    
-  <nav>
+
+    <nav>
       <?php include("nav.php")?>
-  </nav>
+    </nav>
     <section class="slider">
       <div class="fullwidthbanner-container">
         <div class="fullwidthbanner">
@@ -236,7 +242,7 @@
                 src="./images/Placement Highlights/Slide15.JPG"
                 height="100%"
                 width="100%"
-                alt=""
+                alt="Top Placement Business School in Pune"
               />
             </li>
             <li
@@ -248,7 +254,43 @@
                 src="./images/Placement Highlights/Slide16.JPG"
                 height="100%"
                 width="100%"
-                alt=""
+                alt="Top Placement Business School in Pune"
+              />
+            </li>
+            <li
+              data-transition="slideleft"
+              data-slotamount="3"
+              data-masterspeed="300"
+            >
+              <img
+                src="./images/Placement Highlights/Slide17.JPG"
+                height="100%"
+                width="100%"
+                alt="Best Placement Business School in Pune"
+              />
+            </li>
+            <li
+              data-transition="slideleft"
+              data-slotamount="4"
+              data-masterspeed="300"
+            >
+              <img
+                src="./images/Placement Highlights/Slide18.JPG"
+                height="100%"
+                width="100%"
+                alt="Top Placement Business School in Pune"
+              />
+            </li>
+            <li
+              data-transition="slideleft"
+              data-slotamount="5"
+              data-masterspeed="300"
+            >
+              <img
+                src="./images/Placement Highlights/Slide19.JPG"
+                height="100%"
+                width="100%"
+                alt="Top Placement Business School in Pune"
               />
             </li>
           </ul>
@@ -263,7 +305,7 @@
         <div class="col-md-12">
           <div class="col-md-12">
             <div class="col-md-3 pt20">
-              <ul class="submenu ">
+              <ul class="submenu">
                 <li class="">
                   <a aria-expanded="true" data-toggle="tab" href="#blog5">
                     <h4 id="nav-items-about">
@@ -300,55 +342,55 @@
               </ul>
             </div>
 
-            <div class="tab-content text-justify" id="blog">
-              <div class="tab-pane fade " id="blog5">
-                <h2 style=" color: rgb(157, 18, 20); ">
-                  Summer Internship company
+            <div class="col-md-9 tab-content text-justify" id="blog">
+              <div class="tab-pane fade" id="blog5">
+                <h2 style="color: rgb(157, 18, 20);">
+                  Companies that offered Summer Internship
                 </h2>
                 <div class="sip-companies">
                   <img
                     src="./images/Summer Internship companies/BHARAT.jpg"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
                     src="./images/Summer Internship companies/capgemini-logo.png"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
                     src="./images/Summer Internship companies/CRISIL_Logo-wikipedia.jpg"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
                     src="./images/Summer Internship companies/freecharge-logo.jpg"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
                     src="./images/Summer Internship companies/H_R Block-logo.jpg"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
                     src="./images/Summer Internship companies/Krsnaa Diagnostics logo-blue.png"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
                     src="./images/Summer Internship companies/mather-and-platt-logo.jpg"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
                     src="./images/Summer Internship companies/Mercedes_benz_silverlogo.png"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
                     src="./images/Summer Internship companies/piaggio logo.png"
-                    alt=""
+                    alt="Pune Business School"
                     class="company"
                   />
                   <img
@@ -391,7 +433,7 @@
               <div class="tab-pane fade" id="blog1">
                 <div class="col-xs-12 box">
                   <div class="microsoft container1 text-justify">
-                    <h2 style=" color: rgb(157, 18, 20); ">
+                    <h2 style="color: rgb(157, 18, 20);">
                       Final Placements
                     </h2>
                     <div class="sip-companies">
@@ -588,113 +630,109 @@
               <div class="tab-pane fade" id="blog2">
                 <div class="col-xs-12 box">
                   <div class="microsoft container1 text-justify">
-                    <h2
-                      class="subheading1"
-                      style="box-sizing: border-box; font-family: 'Open Sans', sans-serif; line-height: 1.1; color: rgb(157, 18, 20); margin-top: 20px; margin-bottom: 10px; text-transform: uppercase; text-align: left!important; "
-                    >
+                    <h2 style="color: rgb(157, 18, 20);">
                       Placement Reports
                     </h2>
                     <div>
                       <p><strong>Achievements:</strong></p>
-                      <p>
-                        1) PCET has placed more than 22,000 students from across
-                        India in last few years through off campus/ Pool Campus
-                        Drives.
-                      </p>
-                      <p>
-                        2) Around 600 Recruitment Drives conducted every year.
-                      </p>
-                      <p>
-                        3) We place around 1,500 to 2,000 students Every Year.
-                      </p>
-                      <p>4) Maximum Salary offered 32 Lacs per year.</p>
-                      <p>
-                        5) International Placements with Packages of 20 Lacs
-                        &amp; 17 Lacs in Japan.
-                      </p>
-                      <ol start="20">
+                      <ol>
                         <li>
-                          a) Total 653 Placement offers in first 30 Companies in
+                          1) PCET has placed more than 22,000 students from
+                          across India in last few years through off campus/
+                          Pool Campus Drives.
+                        </li>
+
+                        <li>
+                          2) Around 600 Recruitment Drives conducted every year.
+                        </li>
+                        <li>
+                          3) We place around 1,500 to 2,000 students Every Year.
+                        </li>
+                        <li>4) Maximum Salary offered 32 Lacs per year.</li>
+                        <li>
+                          5) International Placements with Packages of 20
+                          Lacs&amp; 17 Lacs in Japan.
+                        </li>
+                        <li>
+                          6) Total 653 Placement offers in first 30 Companies in
                           the Academic Year 2019-20.
                         </li>
                         <li>
-                          b) 207 students of 2019-20 Batch got selected in
+                          7) 207 students of 2019-20 Batch got selected in
                           Capgemini (With Salaries 6.8 Lacs per year &amp; 3.8
                           Lacs per year).
                         </li>
                         <li>
-                          c) 128 students got selected from 2019-20 Batch in
+                          8) 128 students got selected from 2019-20 Batch in
                           Accenture (With Salaries 6.5 Lacs per year &amp; 4.5
                           Lacs per year).
                         </li>
                         <li>
-                          d) 59 students got selected from 2019-20 Batch in Core
+                          9) 59 students got selected from 2019-20 Batch in Core
                           E&amp;TC Company KPIT Technologies.
                         </li>
                         <li>
-                          e) 50 students got selected from 2019-20 Batch in TCS
+                          10) 50 students got selected from 2019-20 Batch in TCS
                           (with Salaries 6.5 Lacs, 3.5 Lacs per year).
                         </li>
                         <li>
-                          f) 46 students got selected from 2019-20 Batch in
+                          11) 46 students got selected from 2019-20 Batch in
                           Persistent (with Salaries 8.4, 6.4 &amp; 4.4 Lacs per
                           year).
                         </li>
                         <li>
-                          h) First three companies (KPIT Technologies 155,
+                          12) First three companies (KPIT Technologies 155,
                           CapGemini 37 &amp; Tech Mahindra 33) recruited 225
                           students in the year 2016-2017.
                         </li>
                       </ol>
+
                       <br />
-                      <p><strong>7) Quality Placements:</strong></p>
+                      <p><strong>Quality Placements:</strong></p>
                       <ol start="2015">
                         <li>
-                          g) TCS Selected 125, 104, 101 &amp; 123 students
+                          1) TCS Selected 125, 104, 101 &amp; 123 students
                           respectively from 2011 to 2015.
                         </li>
                         <li>
-                          a) KPIT Technologies recruited 183 students of 2015-
+                          2) KPIT Technologies recruited 183 students of 2015-
                           2016 batch.
                         </li>
                         <li>
-                          b) 55 % of students got placed in IT Product and Core
+                          3) 55 % of students got placed in IT Product and Core
                           Companies.
                         </li>
                         <li>
-                          c) 88 Offers of 2019-20 Batch students are above 07
+                          4) 88 Offers of 2019-20 Batch students are above 07
                           Lacs.
                         </li>
                       </ol>
                       <br />
-                      <p><strong>6) Quantity Placements:</strong></p>
+                      <p><strong>Quantity Placements:</strong></p>
                       <ol>
                         <li>
-                          d) 254 Offers of 2019-20 Batch students are above 05
+                          1) 254 Offers of 2019-20 Batch students are above 05
                           Lacs.
                         </li>
                         <li>
-                          e) 537 Offers of 2019-20 Batch students are above 04
+                          2) 537 Offers of 2019-20 Batch students are above 04
                           Lacs.
                         </li>
                       </ol>
                       <p>
-                        8) Reputed Core Companies like KSB Pumps, Alfa Laval,
-                        Godrej, Minda, KPIT,
+                        3) Reputed Core Companies like KSB Pumps, Alfa Laval,
+                        Godrej, Minda, KPIT, Cummins, Whirlpool, Volkswagen,
+                        Atlas Copco etc
                       </p>
-                      <p>Cummins, Whirlpool, Volkswagen, Atlas Copco etc</p>
                     </div>
-                    <h2
-                      class="subheading1"
-                      style="box-sizing: border-box; font-family: 'Open Sans', sans-serif; line-height: 1.1; color: rgb(157, 18, 20); margin-top: 20px; margin-bottom: 10px; text-transform: uppercase; text-align: left!important; "
-                    >
+                    <h2 style="color: rgb(157, 18, 20);">
                       PCET&rsquo;S MAJOR RECRUITERS
                     </h2>
-                    <table border="1px">
+                    <table border="1px" class="text-center">
                       <tbody>
-                        <tr>
+                        <tr class="table_heading">
                           <td>
-                            <p>Company name&nbsp;</p>
+                            <p>Company Name&nbsp;</p>
                           </td>
                           <td>
                             <p>( Salary in Lacs per year)</p>
@@ -981,10 +1019,7 @@
               <div class="tab-pane fade" id="blog3">
                 <div class="col-xs-12 box">
                   <div class="microsoft container1 text-justify">
-                    <h2
-                      class="subheading1"
-                      style="box-sizing: border-box; font-family: 'Open Sans', sans-serif; line-height: 1.1; color: rgb(157, 18, 20); margin-top: 20px; margin-bottom: 10px; text-transform: uppercase; text-align: left!important; "
-                    >
+                    <h2 style="color: rgb(157, 18, 20);">
                       Message to Corporate
                     </h2>
                     <p class="lead">
@@ -1013,7 +1048,7 @@
                       all those companies who believed in PBS and offering job
                       and internship opportunities with enviable packages.
                       <br />
-                      We all extend warm welcome to Pune Business School (PBS)
+                      We all extend a warm welcome to Pune Business School (PBS)
                     </p>
                     <p class="lead text-left">
                       <strong>
@@ -1037,10 +1072,10 @@
 
               <div class="tab-pane fade" id="blog4">
                 <div class="col-xs-12 box">
-                  <div class="microsoft container1 ">
+                  <div class="microsoft container1">
                     <h2
                       class="media-heading text-left"
-                      style="color: rgb(157, 18, 20) "
+                      style="color: rgb(157, 18, 20);"
                     >
                       From the Director's Desk ..
                     </h2>
@@ -1131,7 +1166,7 @@
     <!-- end container-->
 
     <footer>
-        <?php include("footer.php")?>
+      <?php include("footer.php")?>
     </footer>
     <!-- End footer-->
     <div id="toTop">Back to Top</div>
@@ -1167,16 +1202,15 @@
     <!-- STYLE SWITCHER -->
     <script type="text/javascript" src="src/jquery-sticklr-1.4.min.js"></script>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         $("#example-1").sticklr({
           animate: true,
-          showOn: "hover"
+          showOn: "hover",
         });
       });
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
- <script src="./js/hash.js"></script>
-  <!--  <script src="./js/pages.js"></script>-->
-   
+    <script src="./js/hash.js"></script>
+      <script src="./pages.js"></script>
   </body>
 </html>

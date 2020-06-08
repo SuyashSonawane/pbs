@@ -13,7 +13,9 @@
       <ul>
         <li><i class="icon-home"></i> Sector No. 26, Pradhikaran</li>
         <li><i class="icon-phone"></i> Nigdi, Pune - 411 044.</li>
-        <li><i class="icon-phone-sign"></i> Tel:  020 276 597 70 / 89759 82140 </li>
+        <li>
+          <i class="icon-phone-sign"></i> Tel: 020 276 597 70 / 89759 82140
+        </li>
         <li>
           <i class="icon-envelope"></i> Email:
           <a href="#">punebschool@gmail.com</a>
@@ -70,7 +72,7 @@
       </ul>
       <hr />
       <ul>
-        <li><a href="./alumini.php">Alumini</a></li>
+        <li><a href="./alumni.php">Alumni</a></li>
         <li><a href="./about-PBS.php#2">PBS Advantages</a></li>
         <li><a href="./about-PBS.php#3">Vision & Mission</a></li>
         <li><a href="./about-PBS.php#4">Board of Governors</a></li>
@@ -80,11 +82,11 @@
     </div>
   </div>
 </div>
-  <!-- End footer-->
-    <div id="toTop">Back to Top</div>
-    
- <header class="text-center end">
-      &copy; Copyright 2020 Pune Business School All rights reserved.    |   Designed & Developed by <a href="https://logeeksolutions.in/" target="_blank"> LoGeek Solutions </a>
-    </header>
+<!-- End footer-->
+<div id="toTop">Back to Top</div>
 
-  
+<header class="text-center end">
+  &copy; Copyright 2020 Pune Business School All rights reserved. | Designed &
+  Developed by
+  <a href="https://logeeksolutions.in/" target="_blank"> LoGeek Solutions </a>
+</header>

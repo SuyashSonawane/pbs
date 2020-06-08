@@ -8,11 +8,12 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Business School | Top B School in Pune
+      PCET's Pune Business School | Top Business School in Pune | Best PGDM
+      College in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top B School in Pune | Best PGDM College in Pune"
     />
     <meta name="author" content="Pune Business School" />
 
@@ -196,9 +197,7 @@
           ></a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
-            target="_blank"
+          <a href="https://www.linkedin.com/" target="_blank"
             ><i class="fa fa-linkedin"></i
           ></a>
         </li>
@@ -231,7 +230,7 @@
       <?php include("nav.php")?>
     </nav>
     <div class="container" id="blog">
-      <h2 class="text-center">Social Impact by PCET</h2>
+      <h2 class="text-center">Social Impact</h2>
       <hr />
       <h3>
         Blood Donation Camp In Collaboration: Indian Red Cross Society &
@@ -253,7 +252,7 @@
                   height="100%"
                   width="100%"
                   src="./images/social-impact/image3.png"
-                  alt=""
+                  alt="Best PGDM College in Pune"
                 />
               </li>
               <li
@@ -266,7 +265,7 @@
                   height="100%"
                   width="100%"
                   src="./images/social-impact/image4.png"
-                  alt=""
+                  alt="Best PGDM College in Pune"
                 />
               </li>
               <li
@@ -279,7 +278,7 @@
                   height="100%"
                   width="100%"
                   src="./images/social-impact/image8.png"
-                  alt=""
+                  alt="Top PGDM College in Pune"
                 />
               </li>
               <!-- THE FOURTH SLIDE -->
@@ -309,7 +308,7 @@
                   height="100%"
                   width="100%"
                   src="./images/social-impact/image1.png"
-                  alt=""
+                  alt="Best PGDM College in Pune"
                 />
               </li>
               <li
@@ -322,7 +321,7 @@
                   height="100%"
                   width="100%"
                   src="./images/social-impact/image5.png"
-                  alt=""
+                  alt="Best Business in Pune"
                 />
               </li>
 
@@ -353,7 +352,7 @@
                   height="100%"
                   width="100%"
                   src="./images/social-impact/image2.png"
-                  alt=""
+                  alt="Best Business School in Pune"
                 />
               </li>
               <li
@@ -366,7 +365,7 @@
                   height="100%"
                   width="100%"
                   src="./images/social-impact/image6.png"
-                  alt=""
+                  alt="Top Business School in Pune"
                 />
               </li>
 
@@ -397,7 +396,7 @@
                   height="100%"
                   width="100%"
                   src="./images/social-impact/image7.png"
-                  alt=""
+                  alt="Top Business School in Pune"
                 />
               </li>
 
@@ -455,6 +454,6 @@
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
     <script src="./js/hash.js"></script>
-    <!-- <script src="./js/pages.js"></script> -->
+      <script src="./pages.js"></script>
   </body>
 </html>

@@ -332,7 +332,7 @@ table {
   padding: 20px;
 }
 #bgImage {
-  background-image: url("../images/infrastructure/2_Pune\ Business\ School\ Campus.jpg");
+  background-image: url("../images/infrastructure/Campus/2_Pune\ Business\ School\ Campus.jpg");
   height: 300px;
   display: flex;
   align-items: flex-end;
@@ -459,31 +459,31 @@ table {
   display: none;
 }
 .showFal {
-  display: flex;
+  display: block;
   text-align: justify;
 }
 
-.alumini-dist .panel {
+.alumni-dist .panel {
   padding: 0;
   margin: 20px;
   /* height: 380px; */
   width: 300px;
 }
-.alumini-dist .panel-body {
+.alumni-dist .panel-body {
   padding: 0;
 }
-.alumini-dist {
+.alumni-dist {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   /* align-items: center; */
 }
-.alumini-dist img {
+.alumni-dist img {
   width: 100%;
   height: 250px;
   transition: all 0.2s ease;
 }
-.alumini-dist img:hover {
+.alumni-dist img:hover {
   transform: scale(0.99);
 }
 .slider img {

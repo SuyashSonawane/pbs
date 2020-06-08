@@ -8,16 +8,20 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Business School | Top B School in Pune
+      Pimpri Chinchwad Education Trust (PCET) | Top Business School in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top Business School in Pune | Best PGDM College in Pune"
     />
-    <meta name="author" content="Ansonika" />
+    <meta name="author" content="Pune Business School" />
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="./images/pcet-logo.jpg" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/pcet-logo.jpg"
+      type="image/x-icon"
+    />
     <link
       rel="apple-touch-icon"
       type="image/x-icon"
@@ -50,12 +54,15 @@
     <link href="css/megamenu.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
-   <!-- <link
+    <!-- <link
       href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet"
     />-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
@@ -155,7 +162,7 @@
       _gaq.push(["_setAccount", "UA-11097556-8"]);
       _gaq.push(["_trackPageview"]);
 
-      (function() {
+      (function () {
         var ga = document.createElement("script");
         ga.type = "text/javascript";
         ga.async = true;
@@ -171,7 +178,6 @@
   </head>
 
   <body>
-     
     <div id="top-bar">
       <ul>
         <li>
@@ -190,9 +196,7 @@
           ></a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
-            target="_blank"
+          <a href="https://www.linkedin.com/" target="_blank"
             ><i class="fa fa-linkedin"></i
           ></a>
         </li>
@@ -217,17 +221,17 @@
     </div>
 
     <header>
-         <?php include("header.php")?> 
+      <?php include("header.php")?>
     </header>
     <!-- End Header-->
-   
-  <nav>
+
+    <nav>
       <?php include("nav.php")?>
-  </nav>
+    </nav>
     <div class="row" id="bgImage">
       <h2
         class="container content text-uppercase"
-        style="color: rgb(157, 18, 20)"
+        style="color: rgb(157, 18, 20);"
       >
         About pcet
       </h2>
@@ -295,7 +299,7 @@
       <div class="">
         <h4
           class="content text-uppercase text-center"
-          style="color: rgb(157, 18, 20)"
+          style="color: rgb(157, 18, 20);"
         >
           Our Inspiration
         </h4>
@@ -323,7 +327,7 @@
             <img
               src="images/trutees/inspiration2.jpg"
               class="img-rounded"
-              alt="PCCOE Engg College In Pune With good placement in reputed companies"
+              alt="Best PGDM College in Pune"
             />
           </p>
 
@@ -339,7 +343,7 @@
         <br />
         <h4
           class="content text-uppercase text-center"
-          style="color: rgb(157, 18, 20)"
+          style="color: rgb(157, 18, 20);"
         >
           Board of Trustees
         </h4>
@@ -350,7 +354,7 @@
           <p>
             <img
               src="images/trutees/Shri.-D.-P.-Landge.jpg"
-              alt="Pimpri chinchwad college of engineering having the experienced teaching staff"
+              alt="Pune Business having the experienced teaching staff"
             />
           </p>
 
@@ -364,7 +368,7 @@
           <p>
             <img
               src="images/trutees/Smt.-Padmatai-Bhosale.jpg"
-              alt="Best Engineering Colleges in Pune"
+              alt="Best Business School in Pune"
             />
           </p>
 
@@ -378,7 +382,7 @@
           <p>
             <img
               src="images/trutees/Shri.-V.-S.-Kalbhor.jpg"
-              alt="PCCOE  is the best engineering college of pune"
+              alt="PBS  is the best Management school of pune"
             />
           </p>
 
@@ -396,7 +400,7 @@
           <p>
             <img
               src="images/trutees/Shri_s_d_garade.jpg"
-              alt="PCCOE is the top placement college in Pune university with good placement"
+              alt="Best PGDM College in Pune"
             />
           </p>
 
@@ -410,7 +414,7 @@
           <p>
             <img
               src="images/trutees/Shri.-Harshwardhan-S.-Patil.jpg"
-              alt="Pimpri chinchwad college of engineering best college in Pune"
+              alt="PCET's Pune Business School"
             />
           </p>
 
@@ -420,7 +424,7 @@
           <div class="para1 text-center">Trustee</div>
         </div>
 
-       <!-- <div class="col-md-4 contentpadding text-center">
+        <!-- <div class="col-md-4 contentpadding text-center">
           <p>
             <img
               src="images/trutees/Shri.-Bhaijan-Kazi.jpg"
@@ -438,7 +442,7 @@
     <!-- end container-->
 
     <footer>
-        <?php include("footer.php")?>
+      <?php include("footer.php")?>
     </footer>
     <!-- End footer-->
     <div id="toTop">Back to Top</div>
@@ -474,15 +478,15 @@
     <!-- STYLE SWITCHER -->
     <script type="text/javascript" src="src/jquery-sticklr-1.4.min.js"></script>
     <script type="text/javascript">
-      $(document).ready(function() {
+      $(document).ready(function () {
         $("#example-1").sticklr({
           animate: true,
-          showOn: "hover"
+          showOn: "hover",
         });
       });
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
- <script src="./js/hash.js"></script>
-   <!-- <script src="./js/pages.js"></script>-->
+    <script src="./js/hash.js"></script>
+      <script src="./pages.js"></script>
   </body>
 </html>

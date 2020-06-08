@@ -8,16 +8,20 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Business School | Top B School in Pune
+      Apply | PCET's Pune Business School | Top Business School in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top Business School in Pune | Best PGDM College in Pune"
     />
     <meta name="author" content="Pune Business School" />
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="./images/pcet-logo.jpg" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/pcet-logo.jpg"
+      type="image/x-icon"
+    />
     <link
       rel="apple-touch-icon"
       type="image/x-icon"
@@ -50,12 +54,15 @@
     <link href="css/megamenu.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
-   <!-- <link
+    <!-- <link
       href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet"
     /> -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="font-awesome/css/font-awesome.css" rel="stylesheet"-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" -- />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
@@ -150,13 +157,6 @@
       media="all"
     />
     <style>
-      @import url(
-        https://fonts.googleapis.com/css?family=Open + Sans:400italic,
-        400,
-        300,
-        600
-      );
-
       * {
         margin: 0;
         padding: 0;
@@ -268,15 +268,19 @@
         outline: 0;
         border: 1px solid #999;
       }
+
       ::-webkit-input-placeholder {
         color: #888;
       }
+
       :-moz-placeholder {
         color: #888;
       }
+
       ::-moz-placeholder {
         color: #888;
       }
+
       :-ms-input-placeholder {
         color: #888;
       }
@@ -304,9 +308,7 @@
           ></a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
-            target="_blank"
+          <a href="https://www.linkedin.com/company/" target="_blank"
             ><i class="fa fa-linkedin"></i
           ></a>
         </li>
@@ -330,13 +332,13 @@
       </ul>
     </div>
 
-      <header>
-         <?php include("header.php")?> 
+    <header>
+      <?php include("header.php")?>
     </header>
-    
-  <nav>
+
+    <nav>
       <?php include("nav.php")?>
-  </nav>
+    </nav>
     <div class="col-lg-12 padding20">
       <h2 class="heading_h1">Reach Us</h2>
 
@@ -371,14 +373,14 @@
                 src="./img/locator.png"
                 width="35"
                 height="35"
-                alt="PBS is the top Business School in Pune"
+                alt="Pune Business School is the top Business School in Pune"
               />
             </div>
 
             <p class="para1 margintop15 colorgrey marginleft60">
               <strong>Pimpri Chinchwad Education Trust's</strong><br />
 
-              <strong>Pune Bussiness School</strong><br />
+              <strong>Pune Business School</strong><br />
               Sector -26, Pradhikaran, Nigdi,<br />
               Near Akurdi Railway Station,<br />
               Pune - 411 044.
@@ -391,7 +393,7 @@
                 src="./img/phone.png"
                 width="35"
                 height="35"
-                alt="PBS is best PGDM Colleges In Pune with high rank in university"
+                alt="Pune Business School is best PGDM Colleges In Pune"
               />
             </div>
 
@@ -407,7 +409,7 @@
                 src="./img/email.png"
                 width="35"
                 height="35"
-                alt="PBS is the best PGBM Colleges in Pune"
+                alt="Pune Business School is the best PGBM Colleges in Pune"
               />
             </div>
 
@@ -522,7 +524,9 @@
     </div>
     <!-- end form-container-->
 
-    <footer></footer>
+    <footer>
+      <?php include("footer.php")?>
+    </footer>
     <!-- End footer-->
     <div id="toTop">Back to Top</div>
     <!-- MEGAMENU -->
@@ -565,7 +569,7 @@
       });
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
- <script src="./js/hash.js"></script>
-<!--    <script src="./js/pages.js"></script>-->
+    <script src="./js/hash.js"></script>
+      <script src="./pages.js"></script>
   </body>
 </html>

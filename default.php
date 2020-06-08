@@ -201,7 +201,6 @@
         }
     </style>
 </head>
-
 <body>
 <nav class="navbar navbar-inverse">
     <div class="container-fluid">
@@ -274,7 +273,6 @@
                 </div>
             </div>
         </div>
-
         <div class="footer">
             <div class="row">
                 <div class="text-center" style="margin-bottom: 10px;">
@@ -295,5 +293,4 @@
     accountText.innerHTML = pathName;
 </script>
 </body>
-
 </html>

@@ -12,12 +12,16 @@
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top B School in Pune"
     />
     <meta name="author" content="Pune Business School" />
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="./images/pcet-logo.jpg" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/pcet-logo.jpg"
+      type="image/x-icon"
+    />
     <link
       rel="apple-touch-icon"
       type="image/x-icon"
@@ -50,12 +54,15 @@
     <link href="css/megamenu.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
-  <!--  <link
+    <!--  <link
       href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet"
     />-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="font-awesome/css/font-awesome.css" rel="stylesheet"-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" -- />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
@@ -171,7 +178,7 @@
   </head>
 
   <body>
-<div id="top-bar">
+    <div id="top-bar">
       <ul>
         <li>
           <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
@@ -216,14 +223,14 @@
     </div>
 
     <header>
-             <?php include("header.php")?> 
+      <?php include("header.php")?>
     </header>
     <!-- End Header-->
- 
-  <nav>
+
+    <nav>
       <?php include("nav.php")?>
-  </nav>
-  <!-- /navbar -->
+    </nav>
+    <!-- /navbar -->
 
     <!--Star slider-->
 
@@ -804,7 +811,7 @@
     <!-- end container-->
 
     <footer>
-        <?php include("footer.php")?>
+      <?php include("footer.php")?>
     </footer>
     <!-- End footer-->
     <div id="toTop">Back to Top</div>
@@ -849,8 +856,7 @@
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
     <script src="js/updated.js"></script>
-     <script src="./js/hash.js"></script>
-    <!--<script src="js/pages.js"></script>-->
-    
+    <script src="./js/hash.js"></script>
+    <script src="pages.js"></script>
   </body>
 </html>

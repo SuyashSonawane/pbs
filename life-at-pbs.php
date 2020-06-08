@@ -8,11 +8,12 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Business School | Top B School in Pune
+      PCET's Pune Business School | Top Business School in Pune | Best PGDM
+      College in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top Business School in Pune | Best PGDM College in Pune"
     />
     <meta name="author" content="Pune Business School" />
 
@@ -196,9 +197,7 @@
           ></a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
-            target="_blank"
+          <a href="https://www.linkedin.com/" target="_blank"
             ><i class="fa fa-linkedin"></i
           ></a>
         </li>
@@ -237,9 +236,28 @@
     <!--End slider-->
 
     <!-- end container-->
-
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h1 style="font-size: 5.8vw; line-height: 80px;">
+            Life at Pune Business School
+          </h1>
+        </div>
+        <div class="col-md-7">
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/KkZC4246wtI"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    </div>
+    <hr />
     <div class="container" id="blog">
-      <h2 class="text-center" id="events">❖ Events at PCET</h2>
+      <h2 class="text-center" id="events">❖ Events</h2>
       <br />
 
       <br />
@@ -253,7 +271,29 @@
                 data-masterspeed="300"
                 data-thumb="images/thumbs/thumb2.jpg"
               >
-                <img src="./images/life/ALUMNI MEET 1.jpg" alt="" />
+                <img src="images/pcetpbs.jpg" alt="Best PGDM College in Pune" />
+
+                <div
+                  class="caption very_big_white lfl stl"
+                  data-x="right"
+                  data-y="180"
+                  data-speed="300"
+                  data-start="500"
+                  data-easing="easeOutExpo"
+                  data-end="8800"
+                  data-endspeed="300"
+                  data-endeasing="easeInSine"
+                >
+                  Professional Guidance
+                </div>
+              </li>
+              <li
+                data-transition="3dcurtain-horizontal"
+                data-slotamount="1"
+                data-masterspeed="300"
+                data-thumb="images/thumbs/thumb2.jpg"
+              >
+                <img src="./images/life/ALUMNI MEET 1.jpg" alt="Alumni PBS" />
 
                 <div
                   class="caption very_big_white lfl stl"
@@ -270,13 +310,16 @@
                 </div>
               </li>
               <!-- THE FOURTH SLIDE -->
-              <!-- <li
+              <li
                 data-transition="cube"
                 data-slotamount="1"
                 data-masterspeed="300"
                 data-thumb="images/thumbs/thumb2.jpg"
               >
-                <img src="images/life/ART CLUB.jpg" alt="" />
+                <img
+                  src="images/students_2.jpg"
+                  alt="Best PGDM College in Pune"
+                />
 
                 <div
                   class="caption very_big_white lfl stl"
@@ -291,7 +334,7 @@
                 >
                   ART CLUB
                 </div>
-              </li> -->
+              </li>
               <!-- THE FIFTH SLIDE -->
               <li
                 data-transition="slideleft"
@@ -299,7 +342,10 @@
                 data-masterspeed="300"
                 data-thumb="images/thumbs/thumb2.jpg"
               >
-                <img src="./images/life/AUTOCLUSTER.jpg" alt="" />
+                <img
+                  src="./images/life/AUTOCLUSTER.jpg"
+                  alt="Top PGDM College in Pune"
+                />
                 <div
                   class="caption very_big_white lfl stl"
                   data-x="30"
@@ -337,7 +383,7 @@
                 </div>
               </li> -->
               <!-- THE FOURTH SLIDE -->
-              <!-- <li
+              <!--   <li
                 data-transition="cube"
                 data-slotamount="1"
                 data-masterspeed="300"
@@ -366,7 +412,10 @@
                 data-masterspeed="300"
                 data-thumb="images/thumbs/thumb2.jpg"
               >
-                <img src="./images/life/DANCE COMPETITION.jpg" alt="" />
+                <img
+                  src="./images/life/DANCE COMPETITION.jpg"
+                  alt="Top PGDM College in Pune"
+                />
                 <div
                   class="caption very_big_white lfl stl"
                   data-x="30"
@@ -381,7 +430,7 @@
                   DANCE COMPETITION
                 </div>
               </li>
-              <!-- <li
+              <!--    <li
                 data-transition="3dcurtain-horizontal"
                 data-slotamount="1"
                 data-masterspeed="300"
@@ -410,7 +459,10 @@
                 data-masterspeed="300"
                 data-thumb="images/thumbs/thumb2.jpg"
               >
-                <img src="images/life/ENTREPRENUERSHIP WORKSHOP.jpg" alt="" />
+                <img
+                  src="images/life/ENTREPRENUERSHIP WORKSHOP.jpg"
+                  alt="Pune Business School"
+                />
 
                 <div
                   class="caption very_big_white lfl stl"
@@ -423,7 +475,7 @@
                   data-endspeed="300"
                   data-endeasing="easeInSine"
                 >
-                  ENTREPRENUERSHIP WORKSHOP
+                  ENTREPRENEURSHIP WORKSHOP
                 </div>
               </li>
               <!-- THE FIFTH SLIDE -->
@@ -433,7 +485,10 @@
                 data-masterspeed="300"
                 data-thumb="images/thumbs/thumb2.jpg"
               >
-                <img src="./images/life/FINANCE CERTIFICATION 1.jpg" alt="" />
+                <img
+                  src="./images/life/FINANCE CERTIFICATION 1.jpg"
+                  alt="Pune Business School"
+                />
                 <div
                   class="caption very_big_white lfl stl"
                   data-x="30"
@@ -454,7 +509,10 @@
                 data-masterspeed="300"
                 data-thumb="images/thumbs/thumb2.jpg"
               >
-                <img src="images/life/GUEST ACTIVITY.jpg" alt="" />
+                <img
+                  src="images/life/GUEST ACTIVITY.jpg"
+                  alt="Best PGDM College in Pune"
+                />
 
                 <div
                   class="caption very_big_white lfl stl"
@@ -471,7 +529,7 @@
                 </div>
               </li>
               <!-- THE FOURTH SLIDE -->
-              <!-- <li
+              <!--   <li
                 data-transition="cube"
                 data-slotamount="1"
                 data-masterspeed="300"
@@ -500,7 +558,10 @@
                 data-masterspeed="300"
                 data-thumb="images/thumbs/thumb2.jpg"
               >
-                <img src="./images/life/MANAGEMENT SEMINAR.jpg" alt="" />
+                <img
+                  src="./images/life/MANAGEMENT SEMINAR.jpg"
+                  alt="Best PGDM College in Pune"
+                />
                 <div
                   class="caption very_big_white lfl stl"
                   data-x="30"
@@ -515,30 +576,9 @@
                   MANAGEMENT SEMINAR
                 </div>
               </li>
-              <li
-                data-transition="3dcurtain-horizontal"
-                data-slotamount="1"
-                data-masterspeed="300"
-                data-thumb="images/thumbs/thumb2.jpg"
-              >
-                <img src="images/life/MINI MARATHON.jpg" alt="" />
 
-                <div
-                  class="caption very_big_white lfl stl"
-                  data-x="right"
-                  data-y="180"
-                  data-speed="300"
-                  data-start="500"
-                  data-easing="easeOutExpo"
-                  data-end="8800"
-                  data-endspeed="300"
-                  data-endeasing="easeInSine"
-                >
-                  MINI MARATHON
-                </div>
-              </li>
               <!-- THE FOURTH SLIDE -->
-              <!-- <li
+              <!--    <li
                 data-transition="cube"
                 data-slotamount="1"
                 data-masterspeed="300"
@@ -561,7 +601,7 @@
                 </div>
               </li> -->
               <!-- THE FIFTH SLIDE -->
-              <!-- <li
+              <!--  <li
                 data-transition="slideleft"
                 data-slotamount="1"
                 data-masterspeed="300"
@@ -1114,6 +1154,6 @@
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
     <script src="./js/hash.js"></script>
-    <!-- <script src="./js/pages.js"></script> -->
+      <script src="./pages.js"></script>
   </body>
 </html>

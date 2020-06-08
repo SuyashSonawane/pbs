@@ -8,16 +8,21 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Business School | Top B School in Pune
+      Infrastructure PCET's Pune Business School | Top B School in Pune | Best
+      PGDM College in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top B School in Pune | Best PGDM College in Pune"
     />
-    <meta name="author" content="Ansonika" />
+    <meta name="author" content="Pune Business School" />
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="./images/pcet-logo.jpg" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/pcet-logo.jpg"
+      type="image/x-icon"
+    />
     <link
       rel="apple-touch-icon"
       type="image/x-icon"
@@ -50,12 +55,15 @@
     <link href="css/megamenu.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"-->
-  <!--  <link
+    <!--  <link
       href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet"
     /> -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="font-awesome/css/font-awesome.css" rel="stylesheet"-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" -- />
     <link rel="stylesheet" href="css/jquery.fancybox.css" />
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
@@ -171,7 +179,7 @@
   </head>
 
   <body>
-<div id="top-bar">
+    <div id="top-bar">
       <ul>
         <li>
           <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
@@ -189,9 +197,7 @@
           ></a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
-            target="_blank"
+          <a href="https://www.linkedin.com/" target="_blank"
             ><i class="fa fa-linkedin"></i
           ></a>
         </li>
@@ -216,19 +222,20 @@
     </div>
 
     <header>
-          <?php include("header.php")?> 
+      <?php include("header.php")?>
     </header>
     <!-- End Header-->
-     
-  <nav>
+
+    <nav>
       <?php include("nav.php")?>
-  </nav>
+    </nav>
     <!-- /navbar -->
 
     <!--Star slider-->
 
     <!--End slider-->
-    <h2 class="subheading1 container">Infrastructure in PBS</h2>
+    <h2 class="subheading1 container" id="IT">IT Infrastructure & Resources</h2>
+    <br />
     <br />
     <!-- end container-->
     <section class="new-slider container">
@@ -242,141 +249,11 @@
               data-thumb="images/thumbs/thumb2.jpg"
             >
               <img
-                src="./images/infrastructure/1_Main Gate of Pune Business School.jpg"
-                alt=""
+                src="./images/infrastructure/IT Infrastructure _ Resources/15_Computer-labs.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
               />
-
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="right"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Main Gate of Pune Business School
-              </div>
-            </li>
-            <!-- THE FOURTH SLIDE -->
-            <li
-              data-transition="cube"
-              data-slotamount="1"
-              data-masterspeed="300"
-              data-thumb="images/thumbs/thumb2.jpg"
-            >
-              <img
-                src="images/infrastructure/2_Pune Business School Campus.jpg"
-                alt=""
-              />
-
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="right"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Pune Business School Campus
-              </div>
-            </li>
-            <!-- THE FIFTH SLIDE -->
-            <li
-              data-transition="slideleft"
-              data-slotamount="1"
-              data-masterspeed="300"
-              data-thumb="images/thumbs/thumb2.jpg"
-            >
-              <img
-                src="./images/infrastructure/3_Pune Business School Campus.jpg"
-                alt=""
-              />
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="30"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Pune Business School Campus
-              </div>
-            </li>
-            <li
-              data-transition="3dcurtain-horizontal"
-              data-slotamount="1"
-              data-masterspeed="300"
-              data-thumb="images/thumbs/thumb2.jpg"
-            >
-              <img src="images/infrastructure/4_Lush Green Lawn.jpg" alt="" />
-
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="right"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Lush Green Lawn
-              </div>
-            </li>
-            <!-- THE FOURTH SLIDE -->
-            <li
-              data-transition="cube"
-              data-slotamount="1"
-              data-masterspeed="300"
-              data-thumb="images/thumbs/thumb2.jpg"
-            >
-              <img src="images/infrastructure/5_Boys Hostel-2.jpg" alt="" />
-
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="right"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Boys Hostel
-              </div>
-            </li>
-            <!-- THE FIFTH SLIDE -->
-            <li
-              data-transition="slideleft"
-              data-slotamount="1"
-              data-masterspeed="300"
-              data-thumb="images/thumbs/thumb2.jpg"
-            >
-              <img src="./images/infrastructure/6_Girls Hostel-1.jpg" alt="" />
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="30"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Girls Hostel
-              </div>
             </li>
             <li
               data-transition="3dcurtain-horizontal"
@@ -385,71 +262,11 @@
               data-thumb="images/thumbs/thumb2.jpg"
             >
               <img
-                src="images/infrastructure/7_Solar Panel For Hosel.jpg"
-                alt=""
+                src="./images/infrastructure/IT Infrastructure _ Resources/16_computer-labs-2.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
               />
-
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="right"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Solar Panel For Hosel
-              </div>
-            </li>
-            <!-- THE FOURTH SLIDE -->
-            <li
-              data-transition="cube"
-              data-slotamount="1"
-              data-masterspeed="300"
-              data-thumb="images/thumbs/thumb2.jpg"
-            >
-              <img src="images/infrastructure/8_Spacious Canteen.jpg" alt="" />
-
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="right"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Spacious Canteen
-              </div>
-            </li>
-            <!-- THE FIFTH SLIDE -->
-            <li
-              data-transition="slideleft"
-              data-slotamount="1"
-              data-masterspeed="300"
-              data-thumb="images/thumbs/thumb2.jpg"
-            >
-              <img
-                src="./images/infrastructure/9_Spacious Mess in campus.jpg"
-                alt=""
-              />
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="30"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Spacious Mess in campus
-              </div>
             </li>
             <li
               data-transition="3dcurtain-horizontal"
@@ -457,69 +274,38 @@
               data-masterspeed="300"
               data-thumb="images/thumbs/thumb2.jpg"
             >
-              <img src="images/infrastructure/10_Gym in Camps.jpg" alt="" />
-
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="right"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Gym in Camps
-              </div>
+              <img
+                src="./images/infrastructure/IT Infrastructure _ Resources/18_Dgital Library.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
             </li>
-            <!-- THE FOURTH SLIDE -->
             <li
-              data-transition="cube"
-              data-slotamount="1"
-              data-masterspeed="300"
-              data-thumb="images/thumbs/thumb2.jpg"
-            >
-              <img src="images/infrastructure/11_Sports Ground.jpg" alt="" />
-
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="right"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Sports Ground
-              </div>
-            </li>
-            <!-- THE FIFTH SLIDE -->
-            <li
-              data-transition="slideleft"
+              data-transition="3dcurtain-horizontal"
               data-slotamount="1"
               data-masterspeed="300"
               data-thumb="images/thumbs/thumb2.jpg"
             >
               <img
-                src="./images/infrastructure/16_computer-labs-2.jpg"
-                alt=""
+                src="./images/infrastructure/IT Infrastructure _ Resources/21_Stationary Shop in Campus.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
               />
-              <div
-                class="caption very_big_white lfl stl"
-                data-x="30"
-                data-y="180"
-                data-speed="300"
-                data-start="500"
-                data-easing="easeOutExpo"
-                data-end="8800"
-                data-endspeed="300"
-                data-endeasing="easeInSine"
-              >
-                Computer Labs
-              </div>
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/IT Infrastructure _ Resources/22_Indian Overseas Bank ATM in Campus.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
             </li>
           </ul>
 
@@ -527,164 +313,383 @@
         </div>
       </div>
     </section>
-    <div class="container" id="blog">
-      <br />
-      <div class="row content-background">
-        <div class="container">
-          <div class="row">
-            <div class="row">
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Campus"
-                  ><img
-                    src="./images/infrastructure/2_Pune Business School Campus.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Campus"
-                  ><img
-                    src="./images/infrastructure/3_Pune Business School Campus.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Lawn"
-                  ><img
-                    src="./images/infrastructure/4_Lush Green Lawn.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Girls Hostel"
-                  ><img
-                    src="./images/infrastructure/6_Girls Hostel-1.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Boys Hostel"
-                  ><img
-                    src="./images/infrastructure/5_Boys Hostel-2.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Solar Panel for Hostels"
-                  ><img
-                    src="./images/infrastructure/7_Solar Panel For Hosel.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Canteen"
-                  ><img
-                    src="./images/infrastructure/8_Spacious Canteen.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Mess"
-                  ><img
-                    src="./images/infrastructure/9_Spacious Mess in campus.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Seminar Hall"
-                  ><img
-                    src="./images/infrastructure/20_Seminar-Hall.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Gym"
-                  ><img
-                    src="./images/infrastructure/10_Gym in Camps.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Image 12"
-                  ><img
-                    src="./images/infrastructure/22_Indian Overseas Bank ATM in Campus.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Stationary"
-                  ><img
-                    src="./images/infrastructure/21_Stationary Shop in Campus.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Seminar Hall"
-                  ><img
-                    src="./images/infrastructure/18_Dgital Library.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Gym"
-                  ><img
-                    src="./images/infrastructure/10_Gym in Camps.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Image 12"
-                  ><img
-                    src="./images/infrastructure/14_classroom.jpg"
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-              <div class="col-lg-3 col-sm-4 col-6">
-                <a href="#" title="Stationary"
-                  ><img
-                    src="./images/infrastructure/16_computer-labs-2.jpg
-                                "
-                    class="thumbnail img-responsive"
-                /></a>
-              </div>
-            </div>
-          </div>
+    <h2 class="subheading1 container" id="Classroom">Classrooms</h2>
+    <br />
+    <br />
+    <!-- end container-->
+    <section class="new-slider container">
+      <div class="fullwidthbanner-container">
+        <div class="fullwidthbanner">
+          <ul>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Classrooms/14_classroom.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Classrooms/Claasroom.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Classrooms/Discussion Room.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Classrooms/Meeting Room.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+          </ul>
+
+          <div class="tp-bannertimer tp-bottom"></div>
         </div>
-        <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
-          <div class="modal-dialog">
-            <div class="modal-content"></div>
-          </div>
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal">
-                  ×
-                </button>
-                <h3 class="modal-title">Heading</h3>
-              </div>
-              <div class="modal-body"></div>
-              <div class="modal-footer">
-                <button class="btn btn-default" data-dismiss="modal">
-                  Close
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-        <script>
-          $(".thumbnail").click(function () {
-            $(".modal-body").empty();
-            var title = $(this).parent("a").attr("title");
-            $(".modal-title").html(title);
-            $($(this).parents("div").html()).appendTo(".modal-body");
-            $("#myModal").modal({ show: true });
-          });
-        </script>
       </div>
-    </div>
+    </section>
+    <h2 class="subheading1 container" id="Hostel">Hostel Facility</h2>
+    <br />
+    <br />
+    <!-- end container-->
+    <section class="new-slider container">
+      <div class="fullwidthbanner-container">
+        <div class="fullwidthbanner">
+          <ul>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Hostel Facility/5_Boys Hostel-2.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Hostel Facility/5_Boys Hostel.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Hostel Facility/6_Girls Hostel-1.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Hostel Facility/7_Solar Panel For Hosel.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+          </ul>
+
+          <div class="tp-bannertimer tp-bottom"></div>
+        </div>
+      </div>
+    </section>
+    <h2 class="subheading1 container" id="Auditorium">Auditorium</h2>
+    <br />
+    <br />
+    <!-- end container-->
+    <section class="new-slider container">
+      <div class="fullwidthbanner-container">
+        <div class="fullwidthbanner">
+          <ul>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Auditorium/17_conference-room-2.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Auditorium/20_Seminar-Hall.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+          </ul>
+
+          <div class="tp-bannertimer tp-bottom"></div>
+        </div>
+      </div>
+    </section>
+    <h2 class="subheading1 container" id="Library">Library</h2>
+    <br />
+    <br />
+    <!-- end container-->
+    <section class="new-slider container">
+      <div class="fullwidthbanner-container">
+        <div class="fullwidthbanner">
+          <ul>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Library/19_Reading Hall.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Library/Library.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Library/Library_1.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Library/Library_2.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/IT Infrastructure _ Resources/22_Indian Overseas Bank ATM in Campus.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+          </ul>
+
+          <div class="tp-bannertimer tp-bottom"></div>
+        </div>
+      </div>
+    </section>
+    <h2 class="subheading1 container" id="Cafe">Cafeteria And Mess</h2>
+    <br />
+    <br />
+    <!-- end container-->
+    <section class="new-slider container">
+      <div class="fullwidthbanner-container">
+        <div class="fullwidthbanner">
+          <ul>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Cafeteria And Mess/8_Spacious Canteen.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Cafeteria And Mess/9_Spacious Mess in campus.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+          </ul>
+
+          <div class="tp-bannertimer tp-bottom"></div>
+        </div>
+      </div>
+    </section>
+    <h2 class="subheading1 container" id="Sports">
+      Sport Facilities Recreational Facilities
+    </h2>
+    <br />
+    <br />
+    <!-- end container-->
+    <section class="new-slider container">
+      <div class="fullwidthbanner-container">
+        <div class="fullwidthbanner">
+          <ul>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Sport Facilities Recreational Facilities/10_Gym in Camps.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Sport Facilities Recreational Facilities/11_Sports Ground.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Sport Facilities Recreational Facilities/12_Sports Ground.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Sport Facilities Recreational Facilities/13_Football Ground.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+            <li
+              data-transition="3dcurtain-horizontal"
+              data-slotamount="1"
+              data-masterspeed="300"
+              data-thumb="images/thumbs/thumb2.jpg"
+            >
+              <img
+                src="./images/infrastructure/Sport Facilities Recreational Facilities/Recreational.jpg"
+                alt="Best PGDM College in Pune"
+                height="100%"
+                width="100%"
+              />
+            </li>
+          </ul>
+
+          <div class="tp-bannertimer tp-bottom"></div>
+        </div>
+      </div>
+    </section>
+
     <!-- end container-->
 
     <footer>
-        <?php include("footer.php")?>
+      <?php include("footer.php")?>
     </footer>
     <!-- End footer-->
     <div id="toTop">Back to Top</div>
@@ -728,9 +733,8 @@
       });
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
-       <!--   <script src="./js/hash.js"></script> -->
+    <!--   <script src="./js/hash.js"></script> -->
 
-  <script src="./js/pages.js"></script>
-   
+      <script src="./pages.js"></script>
   </body>
 </html>

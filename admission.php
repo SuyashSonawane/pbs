@@ -8,16 +8,20 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Business School | Top B School in Pune
+      Admission | PCET's Pune Business School | Top Business School in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top B School in Pune | Best PGDM College in Pune"
     />
     <meta name="author" content="Ansonika" />
 
     <!-- Favicons-->
-    <link rel="shortcut icon" href="./images/pcet-logo.jpg" type="image/x-icon" />
+    <link
+      rel="shortcut icon"
+      href="./images/pcet-logo.jpg"
+      type="image/x-icon"
+    />
     <link
       rel="apple-touch-icon"
       type="image/x-icon"
@@ -50,13 +54,21 @@
     <link href="css/megamenu.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <!--link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet" -->
- <!--   <link
+    <!--   <link
       href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet" 
     /> -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link href="font-awesome/css/font-awesome.css" rel="stylesheet"
-    <link rel="stylesheet" href="css/jquery.fancybox.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link
+      href="font-awesome/css/font-awesome.css"
+      rel="stylesheet"
+      <link
+      rel="stylesheet"
+      href="css/jquery.fancybox.css"
+    />
 
     <!-- REVOLUTION BANNER CSS SETTINGS -->
     <link rel="stylesheet" href="css/fullwidth.css" media="screen" />
@@ -171,8 +183,7 @@
   </head>
 
   <body>
-  
-  <div id="top-bar">
+    <div id="top-bar">
       <ul>
         <li>
           <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
@@ -190,9 +201,7 @@
           ></a>
         </li>
         <li>
-          <a
-            href="https://www.linkedin.com/company/pccoe-pune?trk=biz-companies-cym"
-            target="_blank"
+          <a href="https://www.linkedin.com/" target="_blank"
             ><i class="fa fa-linkedin"></i
           ></a>
         </li>
@@ -216,14 +225,14 @@
       </ul>
     </div>
     <header>
-         <?php include("header.php")?> 
+      <?php include("header.php")?>
     </header>
     <!-- End Header-->
-     
-  <nav>
+
+    <nav>
       <?php include("nav.php")?>
-  </nav>
-    
+    </nav>
+
     <div class="row" id="bgImage">
       <h2 class="container content" style="color: rgb(157, 18, 20);">
         Admission Process
@@ -320,7 +329,7 @@
                     <p>Tuition Fees</p>
                   </td>
                   <td>
-                    <p>329000.00</p>
+                    <p>3,29,000.00</p>
                   </td>
                 </tr>
                 <tr>
@@ -331,7 +340,7 @@
                     <p>Refundable deposit</p>
                   </td>
                   <td>
-                    <p>10000.00</p>
+                    <p>10,000.00</p>
                   </td>
                 </tr>
                 <tr>
@@ -342,7 +351,7 @@
                     <p>Alumni funds</p>
                   </td>
                   <td>
-                    <p>10000.00</p>
+                    <p>10,000.00</p>
                   </td>
                 </tr>
                 <tr>
@@ -350,7 +359,7 @@
                     <p>Total Fees</p>
                   </td>
                   <td colspan="2">
-                    <p>349000.00</p>
+                    <p>3,49,000.00</p>
                   </td>
                 </tr>
               </tbody>
@@ -359,8 +368,9 @@
             <p class="small text-left">
               *Merit Scholarship is available for few students based on
               scholastic performance, and their performance in Pune Business
-              School /CGPA. PGDM – 2ndt Year Fees Batch 2020 -22 will be Tuition
-              fees of Rs.329000.00
+              School /CGPA. <br />
+              PGDM – 2nd Year Fees Batch 2020 -22 will be Tuition fees of
+              Rs.3,29,000.00
             </p>
           </div>
         </div>
@@ -381,11 +391,56 @@
           <div class="panel-body">Will be updated soon</div>
         </div>
       </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a
+              data-toggle="collapse"
+              data-parent="#accordion"
+              href="#collapse4"
+            >
+              Programme Overview</a
+            >
+          </h4>
+        </div>
+        <div id="collapse4" class="panel-collapse collapse">
+          <div class="panel-body">
+            <div class="row">
+              <div class="col-md-6">
+                <h3>
+                  PGDM Programme Overview
+                </h3>
+                <iframe
+                  width="560"
+                  height="315"
+                  src="https://www.youtube.com/embed/gA_aj3FT40w"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                ></iframe>
+              </div>
+              <div class="col-md-6">
+                <h3>
+                  PGDM Finance Specialization Overview
+                </h3>
+                <iframe
+                  width="560"
+                  height="315"
+                  src="https://www.youtube.com/embed/UTUizOLhNZk"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                ></iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <!-- end container-->
 
     <footer>
-        <?php include("footer.php")?>
+      <?php include("footer.php")?>
     </footer>
     <!-- End footer-->
     <div id="toTop">Back to Top</div>
@@ -429,8 +484,7 @@
       });
     </script>
     <script type="text/javascript" src="src/fswit.js"></script>
- <script src="./js/hash.js"></script>
-   <!-- <script src="./js/pages.js"></script>-->
-   
+    <script src="./js/hash.js"></script>
+      <script src="./pages.js"></script>
   </body>
 </html>

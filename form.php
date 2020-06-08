@@ -8,11 +8,11 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8" />
     <title>
-      PCET's Pune Bussiness School | Top B School in Pune
+      PCET's Pune Business School | Top B School in Pune
     </title>
     <meta
       name="description"
-      content="PCET's Pune Bussiness School | Top B School in Pune"
+      content="PCET's Pune Business School | Top B School in Pune"
     />
     <meta name="author" content="Pune Business School" />
 

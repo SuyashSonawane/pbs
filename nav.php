@@ -1,4 +1,3 @@
-
 <div class="megamenu_container">
   <a id="megamenu-button-mobile" href="#">Menu</a>
   <!-- Menu button responsive-->
@@ -87,45 +86,42 @@
             <ul class="list-menu">
               <li>
                 <a
-                  href="./infrastructure.php"
+                  href="./infrastructure.php#IT"
                   title="IT Infrastructure & Resources"
                   ><i class="icon-laptop"></i> IT Infrastructure & Resources</a
                 >
               </li>
               <li>
-                <a href="./infrastructure.php" title="Classrooms"
+                <a href="./infrastructure.php#Classroom" title="Classrooms"
                   ><i class="icon-book"></i> Classrooms</a
                 >
               </li>
               <li>
-                <a href="./infrastructure.php" title="Hostel Facility"
+                <a href="./infrastructure.php#Hostel" title="Hostel Facility"
                   ><i class="icon-home"></i> Hostel Facility</a
                 >
               </li>
               <li>
-                <a href="./infrastructure.php" title="Auditorium"
+                <a href="./infrastructure.php#Auditorium" title="Auditorium"
                   ><i class="icon-gamepad"></i> Auditorium</a
                 >
               </li>
               <li>
-                <a href="./infrastructure.php" title="Library"
+                <a href="./infrastructure.php#Library" title="Library"
                   ><i class="icon-book"></i> Library</a
                 >
               </li>
               <li>
-                <a href="./infrastructure.php" title="Cafeteria And Mess"
+                <a href="./infrastructure.php#Cafe" title="Cafeteria And Mess"
                   ><i class="icon-food"></i> Cafeteria And Mess</a
                 >
               </li>
               <li>
-                <a href="./infrastructure.php" title="Sport Facilities"
-                  ><i class="icon-bullseye"></i> Sport Facilities</a
-                >
                 <a
-                  href="./infrastructure.php"
-                  title="Gym, Yoga, Zumba, Ground, Sports room"
-                >
-                  <i class="icon-gamepad"></i> Recreational Facilities</a
+                  href="./infrastructure.php#Sports"
+                  title="Sport Facilities , Gym, Yoga, Zumba, Ground, Sports room"
+                  ><i class="icon-bullseye"></i> Sport Facilities & Recreational
+                  Facilities</a
                 >
               </li>
             </ul>
@@ -187,7 +183,7 @@
               </li>
               <li>
                 <a href="./admission.php#3" title="Admission Brochure"
-                  >Admission Brochurer</a
+                  >Admission Brochure</a
                 >
               </li>
               <li>
@@ -248,14 +244,14 @@
       <!-- Begin Item -->
       <div class="drop-down-container" id="icon-menu">
         <div class="row">
-            <div class="col-md-3">
+          <div class="col-md-3">
             <a href="./life-at-pbs.php#events" title="Events"
               ><i class="icon-eye-open icon-3x"></i>Events
-              </a>
+            </a>
           </div>
           <div class="col-md-3">
-            <a href="./life-at-pbs.php#lifeatpbs" title="Life at PCET "
-              ><i class="icon-building icon-3x"></i>Life at PCET
+            <a href="./life-at-pbs.php#lifeatpbs" title="Life at PBS "
+              ><i class="icon-building icon-3x"></i>Life at PBS
             </a>
           </div>
           <div class="col-md-3">
@@ -278,12 +274,6 @@
               Clubs</a
             >
           </div>
-          <div class="col-md-3">
-            <a href="./life-at-pbs.php" title="Students Achievements"
-              ><i class="icon-envelope icon-3x"></i>Students Achievements</a
-            >
-          </div>
-          
         </div>
         <!-- End row -->
       </div>
@@ -304,13 +294,13 @@
       >
       <div class="drop-down-container normal">
         <ul>
-          <li><a href="alumini.php" title="Reunions">Reunions</a></li>
-          <li>
+          <li><a href="alumni.php" title="Reunions">Reunions</a></li>
+          <!-- <li>
             <a href="blog.php" title="Blogs">Blogs</a>
           </li>
           <li>
             <a href="course-detail.php" title="Events">Events</a>
-          </li>
+          </li> -->
         </ul>
       </div>
     </li>
@@ -334,23 +324,28 @@
               >Placement Reports</a
             >
           </li>
+          <li>
+            <a href="./recruiters.php#4" title="Message to Corporate"
+              >Message to Corporate</a
+            >
+          </li>
         </ul>
       </div>
     </li>
 
     <li>
-      <a href="javascript:void(0)" class="drop-down">Contacts</a>
+      <a href="javascript:void(0)" class="drop-down">Contact Us</a>
       <!-- Begin Item -->
       <div class="drop-down-container">
         <div class="row">
           <div class="col-md-6">
             <div>
               <iframe
-        class="contactiframe"
-        height="300"
-        width="100%"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.2327152590037!2d73.76035481489468!3d18.65355028733167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDM5JzEyLjgiTiA3M8KwNDUnNDUuMiJF!5e0!3m2!1sen!2sin!4v1590223786069!5m2!1sen!2sin"
-      ></iframe>
+                class="contactiframe"
+                height="300"
+                width="100%"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.2327152590037!2d73.76035481489468!3d18.65355028733167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDM5JzEyLjgiTiA3M8KwNDUnNDUuMiJF!5e0!3m2!1sen!2sin!4v1590223786069!5m2!1sen!2sin"
+              ></iframe>
             </div>
           </div>
 
