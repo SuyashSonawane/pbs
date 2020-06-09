@@ -1,6 +1,4 @@
 $(document).ready(function () {
- 
-
   // DROP DOWN MENU TABS ====================================== //
   $("body").on("click", "ul.tabs > li > a", function (e) {
     // console.log("44");
@@ -31,7 +29,7 @@ if (type && type < 6) {
   });
 } else $("#blog5").addClass("active in");
 
-if (type && type < 4) {
+if (type && type < 5) {
   //   $(".fade")[type - 1].addClass("active");
   $(".panel-collapse").addClass((e) => {
     if (e == type - 1) return "in";

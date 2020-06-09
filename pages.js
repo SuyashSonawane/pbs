@@ -68,8 +68,7 @@ if (type && type < 6) {
   });
 } else $("#blog5").addClass("active in");
 
-if (type && type < 4) {
-  //   $(".fade")[type - 1].addClass("active");
+if (type && type < 5) {
   $(".panel-collapse").addClass((e) => {
     if (e == type - 1) return "in";
   });
