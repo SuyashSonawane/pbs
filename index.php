@@ -812,27 +812,26 @@
       </p>
       <a href="./pcet.php" target="_blank" rel="noopener noreferrer">Read more</a>
     </div>
-    <div class="col-md-3 boxes">
+  <div class="col-md-3 boxes">
       <img src="./img/news.png" alt="" srcset="" />
       <br />
       <ul id="pcet-awards">
+        <a href="./news-events.html">
         <li>
-          <p class="para1" style="padding-left:20px;">
-            PCET received &quot;Lokmat Icon of Education Award 2016&quot; at the hands of
-            Hon. Vinodji Tawade - Education Minister, Maharashtra State by Lokmat
-            Media.
-          </p>
+          <div class="event">
+            <p class="date">
+              17  June 2020
+            </p>
+            <p class="para1" style="padding-left:20px;">
+              National Level Webinar on “Master Class on Data Driven Digital Marketing 4.0 for Business” <br>
+              Expert Mr. Rahul Gadekar, Stanford LEAD and Founder- R Academy & R interactives
+            </p>
+          </div>
         </li>
-        <li>
-          <p class="para1" style="padding-left:20px;">
-            SBPIM received Best Management College in Asia for Industry Interface
-            2017 at Global Education and Skills summit, New Delhi by GESA, New
-            Delhi
-          </p>
-        </li>
+        </a>
       </ul>
       </p>
-      <a href="./pcet.php" target="_blank" rel="noopener noreferrer">Read more</a>
+      <a href="./news-events.html" target="_blank" rel="noopener noreferrer">More Events</a>
     </div>
 
 
