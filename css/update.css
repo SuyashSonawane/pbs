@@ -401,6 +401,19 @@ table {
   margin: 10px 0;
 } */
 
+.event {
+  display: flex;
+}
+.event .date {
+  /* width: 50%;   */
+  height: 70%;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  background-color: red;
+  color: white;
+  border: 2px solid black;
+}
 #accordion ul {
   list-style: disc;
 }
@@ -525,6 +538,32 @@ table {
 .commities-list {
   display: flex;
   flex-wrap: wrap;
+}
+.news-events {
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.ne-card {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%;
+  margin: 5px;
+  padding: 10px;
+}
+.ne-date {
+  background-color: #e8e8e8;
+  font-size: 20px;
+  border: 1px solid black;
+  border-top: 10px solid red;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
 }
 @media (max-width: 502px) {
   #top-bar ul {
