@@ -431,6 +431,28 @@
                         </p>
                       </div>
                     </div>
+                    <div class="panel panel-default faculty">
+                      <div class="panel-body">
+                        <img
+                          src="./images/faculties/Dr. Krishna Vyankatrao Aineniwar.jpg"
+                          class="img-responsive"
+                          alt="Faculty Pune Business School"
+                          srcset=""
+                        />
+                      </div>
+                      <div class="panel-footer text-center">
+                        <h5 class="lead">
+                          Dr. Krishna Vyankatrao Aineniwar <br>Assistant Professor, Marketing Management
+                        </h5>
+                        <h6>
+                          Dr. Mr. Krishna Aineniwar, B.Sc., MBA, Ph. D has a rich experience of 11 years in Industry &amp; 2 years in
+                          teaching and grooming the students.
+                        </h6>
+                        <p>
+                          <a href="./faculty.php#6" target="_blank" rel="noopener noreferrer">Read more</a>
+                        </p>
+                      </div>
+                    </div>
                 
                     
                   </div>

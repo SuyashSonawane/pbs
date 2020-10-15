@@ -68,7 +68,7 @@
 <p style="color: #ffffff;"> Approved By All India Council For Technical Education (AICTE), New Delhi </p>
 
   <p id="attention" class="text-center">
-   <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA" target="_blank" title="Pune Business School Admission" style="color: #e6730f;"> True Value for Money for a quality AICTE approved PGDM at an unbelievable fee of Rs. 2.75 Lakhs per year</a>
+   <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA" target="_blank" title="Pune Business School Admission" style="color: #e6730f;"> True Value for Money for a quality AICTE approved PGDM.</a>
   </p>
 </div>
 <br />

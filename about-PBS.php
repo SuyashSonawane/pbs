@@ -783,9 +783,117 @@
                       <h2 class="media-heading text-left"
                         style="color: rgb(157, 18, 20) ">
                         From the Director's Desk ..</h2>
-                      <div class="media">
+                          <hr>
+                          <!-- <br> -->
+                          <div class="row">
+                            <div class="col-md-6">
+                          <img src="./images/faculties/director-new.jpg" class="img-responsive" />
+                          <br>
+                              <p class="lead">
+                              Dr. C. N. Narayana <br>
+                              Director, <br>
+                              Pune Business School, Pune
+                            </p>
+                            </div>
+                            <div class="col-md-6">
+                              <p >
+                              Excellence and Ethics are the fundamental ingredients of PBS’s DNA and this
+                              shall be passed on to all those learners who experience the PDGM threshold here.
+                              For over 30 years, the PCET trust has established an enviable record of quality and
+                              accomplishment. Since the inception, we have built on a proud legacy and at the
+                              same time have taken advantage of opportunities to improve and bring a unique
+                              perspective to all our activities. 
+                              The sacred ambience of our campus invites you to the most unique experience of quality learning in 
+                          a multi-dimensional and participatory manner
+                          where as students you will also be contributing to the expansion of the academic
+                          silhouette. Our unending efforts to excel and succeed has corralled a chronicle of
+                          success in academic laurels and leadership, impressive placements and
+                          international collaborations thus moving towards an equal footing with leading
+                          universities. </br>
+                          PBS is a conflux of ideas and best academic practices. We are a melting pot of
+                          diverse cultures across India. Through the efforts of our accomplished faculty, our
+                          talented students and exceptional alumni, we will make rapid progress on our path
+                          of continuous growth and innovation. The accreditations and recognitions we
+                          receive will make us confident to scale up our management institute achieve
+                          International repute by 2030 focusing on improving the quality of education,
+                          attracting better student quality, felicitating real linkages and better industry
+                          academia interface. We can help you develop values, beliefs and an attitude that
+                          form a Manager’s view with professional identity.
+                          PBS is committed to nurturing managers and entrepreneurs who will empower
+                          their organizations in the global economy. Our fundamental concern is to inculcate
+                          in our students a sense of commitment as managers to create a socially responsible impact;
+                          give them an understanding of intricacies and challenges; enlarge their
+                          academic prospects through transformations, thus beckoning industry readiness. In
+                          order to provide a cross-cultural exposure to our students and faculty, PBS will
+                          take big strides to foster international collaborations with management Institutes of
+                          International repute. We have knowingly fashioned a culture that values
+                          companionship, accessibility and co-operation between colleagues and an open
+                          door policy at all levels. Our stakeholder community comprising of parents,
+                          employers, guest faculty and alumni will provide continuous adornment and
+                          inspiration to our students. With the help of our stakeholders we will strive to build
+                          further on the strong foundations of PBS to attain greater heights of eminence. PBS
+                          aspires to take its place among world-class management schools, by creating
+                          global knowledge and aims to achieve significant milestones.
+                          On behalf of the PBS family, I take this opportunity to invite you to our warm and
+                          passionate world of education and become a part of this transformational journey.
+                            </p>
+                            </div>
+                          </div>
+
+
+
+                      <!-- <div class="media">
                         <div class="media-left">
-                          <img src="./img/cnarayana.jpg" height="750" width="300" class="media-object" />
+                          <img src="./images/faculties/director-new.jpg"  width="270" class="media-object" />
+                          <p class="lead">
+                          Dr. C. N. Narayana <br>
+                          Director, <br>
+                          Pune Business School, Pune
+                        </p>
+                        <br>
+
+                        <p class="hidden-md" >
+                              Excellence and Ethics are the fundamental ingredients of PBS’s DNA and this
+                              shall be passed on to all those learners who experience the PDGM threshold here.
+                              For over 30 years, the PCET trust has established an enviable record of quality and
+                              accomplishment. Since the inception, we have built on a proud legacy and at the
+                              same time have taken advantage of opportunities to improve and bring a unique
+                              perspective to all our activities. 
+                              The sacred ambience of our campus invites you to the most unique experience of quality learning in 
+                          a multi-dimensional and participatory manner
+                          where as students you will also be contributing to the expansion of the academic
+                          silhouette. Our unending efforts to excel and succeed has corralled a chronicle of
+                          success in academic laurels and leadership, impressive placements and
+                          international collaborations thus moving towards an equal footing with leading
+                          universities. </br>
+                          PBS is a conflux of ideas and best academic practices. We are a melting pot of
+                          diverse cultures across India. Through the efforts of our accomplished faculty, our
+                          talented students and exceptional alumni, we will make rapid progress on our path
+                          of continuous growth and innovation. The accreditations and recognitions we
+                          receive will make us confident to scale up our management institute achieve
+                          International repute by 2030 focusing on improving the quality of education,
+                          attracting better student quality, felicitating real linkages and better industry
+                          academia interface. We can help you develop values, beliefs and an attitude that
+                          form a Manager’s view with professional identity.
+                          PBS is committed to nurturing managers and entrepreneurs who will empower
+                          their organizations in the global economy. Our fundamental concern is to inculcate
+                          in our students a sense of commitment as managers to create a socially responsible impact;
+                          give them an understanding of intricacies and challenges; enlarge their
+                          academic prospects through transformations, thus beckoning industry readiness. In
+                          order to provide a cross-cultural exposure to our students and faculty, PBS will
+                          take big strides to foster international collaborations with management Institutes of
+                          International repute. We have knowingly fashioned a culture that values
+                          companionship, accessibility and co-operation between colleagues and an open
+                          door policy at all levels. Our stakeholder community comprising of parents,
+                          employers, guest faculty and alumni will provide continuous adornment and
+                          inspiration to our students. With the help of our stakeholders we will strive to build
+                          further on the strong foundations of PBS to attain greater heights of eminence. PBS
+                          aspires to take its place among world-class management schools, by creating
+                          global knowledge and aims to achieve significant milestones.
+                          On behalf of the PBS family, I take this opportunity to invite you to our warm and
+                          passionate world of education and become a part of this transformational journey.
+                            </p>
+
                         </div>
                         <div class="media-body">
                             <p class="hidden-xs" >
@@ -830,17 +938,13 @@
                           passionate world of education and become a part of this transformational journey.
                             </p>
                         </div>
-                      </div>
+                      </div> -->
                      
                       
                         
                           
                        
-                        <p class="lead">
-                          Dr. C. N. Narayana <br>
-                          Director, <br>
-                          Pune Business School, Pune
-                        </p>
+                        
                     
                     
                     </div>

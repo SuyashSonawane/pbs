@@ -169,12 +169,17 @@
     </script>
     <link rel="stylesheet" href="./css/update.css" />
         <style>
+          .tab-content p{
+            font-size:15px
+        }
       #cn-awards {
         list-style-type: decimal;
       }
       #cn-awards li {
         padding: 5px 0px;
+        font-size:20px
       }
+      
     </style>
   </head>
 
@@ -987,7 +992,7 @@
                   >Research</a
                 >
               </li>
-              <li class="active">
+              <li >
                 <a aria-expanded="true" data-toggle="tab" href="#awards4"
                   >Awards</a
                 >
@@ -1018,7 +1023,7 @@
                   </div>
                 </div>
               </div>
-             <div class="tab-pane fade active in" id="awards4">
+             <div class="tab-pane fade " id="awards4">
                 <div class="col-xs-12 box">
                   <div class="microsoft container1">
                    
@@ -1061,7 +1066,7 @@
       </div>
     </div>
     
-        <div class="container fal hideFal" id="blog">
+      <div class="container fal hideFal" id="blog">
       <div class="row content-background">
         <div class="col-md-12 col-sm-12 about_desc">
           <h1 class="subheading1 text-center">Dr. C. N. Narayana</h1>
@@ -1360,6 +1365,132 @@
                         programs.
                       </li>
                     </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <p>&nbsp;</p>
+        </div>
+      </div> 
+</div>
+    <div class="container fal hideFal" id="blog">
+      <div class="row content-background">
+        <div class="col-md-12 col-sm-12 about_desc">
+          <h2 class="subheading1">Dr. Krishna Vyankatrao Aineniwar</h2>
+          <div class="col-md-12">
+            <div class="col-md-3">
+              <img
+                alt="PBS is best in all the top business schools and MBA colleges in Pune"
+                class="img-responsive img-border"
+                src="./images/faculties/Dr. Krishna Vyankatrao Aineniwar.jpg"
+                style="width: 111px; height: 110px;"
+              />
+            </div>
+
+            <div class="col-md-9">
+              <div class="content-para lineheight25 text-left">
+                <div class="row">Assistant Professor</div>
+                <div class="row"> Marketing Management</div>
+
+                <div class="row"><a>krishnaaineniwar@gmail.com</a></div>
+
+                <div class="row">               
+
+Dr. Mr. Krishna Aineniwar, B.Sc., MBA, Ph. D has a rich experience of 11 years in Industry &amp; 2 years in
+teaching and grooming the students.
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-12 pt20">
+            <ul class="nav nav-tabs nav1">
+              <li class="active">
+                <a aria-expanded="true" data-toggle="tab" href="#research11"
+                  >Research</a
+                >
+              </li>
+              <li >
+                <a aria-expanded="true" data-toggle="tab" href="#awards11"
+                  >Experience</a
+                >
+              </li>
+              <li>
+                <a aria-expanded="false" data-toggle="tab" href="#edu11"
+                  >Education</a
+                >
+              </li>
+            </ul>
+
+            <div class="tab-content">
+              <div class="tab-pane fade active in" id="research11">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                    <div class="welcome-text-box">
+                      <h3>Research Papers in Conference Proceedings:</h3>
+                    </div>
+                        <p>
+                          1) Consumer Buying Behavior Based On M-Commerce; National Conference on Emerging Trends in
+Developing Sectors of Economy, SCMS, SRTM University Nanded, March 2018. (An International
+Peer Reviewed, Scholarly Research Journal For Interdisciplinary Studies, ISSN-2278-8808,SJIF
+2016=6.177,APR-JUNE,2018,VOL-7,ISSUE-38)
+                      </p>
+                        <p>
+                          2) Customer Satisfaction Towards Reliance Jio Network with Special Reference to Nanded City,
+Maharashtra; International Peer Reviewed &amp; Referred Journal in Scholarly Research Journal for
+Interdisciplinary Studies, May 2019 (Online ISSN 2278-8808, SJIF 2018 = 6.371, www.srjis.com
+PEER REVIEWED JOURNAL, MAR-APR, 2019, VOL- 6/50)
+                      </p>
+                      <p>
+                        3) Buying Behavior of rural consumers based on M-Commerce with reference to Nanded District,
+Maharashtra
+                      </p>
+                      
+                  </div>
+                </div>
+              </div>
+             <div class="tab-pane fade" id="awards11">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">             
+                    <h2>
+                      Academic Experience
+                    </h2>
+                    <p>
+                      Worked as an Assistant Professor with Indus Business School (IIEBM- WAKAD), Pune
+                    </p>
+                    <br>
+                    <h2>
+                      Industry Experience:-
+                    </h2>
+                    <p>
+  ●                    Worked with Reliance Jio Infocomm Ltd as a JIO CENTRE MANAGER <br>
+● Worked with Samsung India Electronics Ltd as an Area Sales Manager <br>
+● Worked with Vodafone India Ltd, as a Retail Sales Manager <br>
+● Worked with Idea Cellular Ltd as a Territory Sales Manager
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="edu11">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1">
+                 <p>Ph. D (Doctor of Philosophy), S.R.T.M. University, Nanded 2020</p>  
+                   
+                    <p>
+                      M.B.S Information Technology, SavitribaiPhule Pune
+                      University 2015
+                    </p>
+
+                    <p>
+                      MBA (Marketing), Pune University 2007
+                    </p>
+
+                    <p>
+                      B.SC, S.R.T.M. University, Nanded 2004
+                    </p>
+
                   </div>
                 </div>
               </div>
