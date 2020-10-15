@@ -281,6 +281,15 @@
                   >
                 </li>
                 <li>
+                  <a aria-expanded="true"  data-toggle="tab" href="#blog8" target="_blank"
+                    >
+                    <h4 id="nav-items-about">
+                      Board of Studies
+                    </h4>
+                    </a
+                  >
+                </li>
+                <li>
                   <a aria-expanded="true" data-toggle="tab" href="#blog4"
                     >
                     <h4 id="nav-items-about">
@@ -428,64 +437,73 @@
                         style="color: rgb(157, 18, 20) ">
                         Board of Governors
                       </h2>
-                      <h2>
-                        Chairman
-                      </h2>
-                      <div  class="governer">
-                        <div class="title">
-                          <strong>
-                            Shri. Vitthalrao Somaji
-                            Kalbhor
-                          </strong>
+                      <div class="row">
+                      <div class="col-md-6">
+                        <h2>
+                          Chairman
+                        </h2>
+                        <div  class="governer">
+                          <div class="title">
+                            <strong>
+                              Shri. Dyaneshwar Landge
+                            </strong>
+                          </div>                         
                         </div>
-                          <div class="address">
-                          Yashodhan,26/35,Prad
-                          hikaran,Nigdi,pune-
-                          411044
-                          </div>
-                        <div class="subtitle">
-                          Technical,
-                          Industrialist and
-                          Educationist
-                          </div>
                       </div>
+
+                      <div class="col-md-6">
+                        <h2>
+                          Vice Chairman
+                        </h2>
+                        <div  class="governer">
+                          <div class="title">
+                            <strong>
+                              Mrs. Padmatai Bhosale
+                            </strong>
+                          </div>                         
+                        </div>
+                      
+                      
+                      </div>
+                      
+                      </div>                  
+              
+                      
                       <hr>
-                      <h2>Members</h2>
+                      <h3>Members</h3>
                       <div class="governers">
                         <div class="governer">
                           <div class="title">
                             <strong>
-                              Shri. Dnyaneshwar
-                              Pandurang Landge
+                              Shri. Vittalrao Kalbhor
                             </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                             Sector no. 3,Plot no
                             60/B/1, DyanKamal,
                             Indrayni Nagar,
                             Bhosari, Pune 411039
-                          </div>
+                          </div> -->
                           <div class="subtitle">
-                              Educational Sector
-                              expert
+                            Secretary, PCET
                           </div>
                         </div>
                         <div class="governer">
                           <div class="title">
                             <strong>
-                              Smt. Padmatai Bhosale
+                             Shri. Shantaram Garade
                             </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                             Shiva Krupa Bunglow
                             No. 1, Sahjivan
                             Housing society,
                             Ganeshkind Road,
                             Bhosale Nagar, Pune
                             411007 .
-                          </div>
+                          </div> -->
                           <div class="subtitle">
-                              Social worker
+                              Treasurer, PCET
                           </div>
                         </div>
                         <div class="governer">
@@ -494,10 +512,10 @@
                               Dr. Girish Desai
                             </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                           PCET Trust , Nigdi                          
                           Pune
-                          </div>
+                          </div> -->
                           <div class="subtitle">
                               Academician and
                               Institutional Advisor
@@ -511,13 +529,13 @@
                               Dr. D. N. Murthy
                             </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                               Dean Research We
                               School, Prince.
                               Welingkar Institute of
                               Management,
                               Bengaluru.
-                          </div>
+                          </div> -->
                           <div class="subtitle">
                               Renowned
                               academician,
@@ -533,11 +551,11 @@
                                     Dr. Santosh Bhave
                                   </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                             Director-HR & IR, Bharat
                             Forge Ltd.,
                             Pune
-                          </div>
+                          </div> -->
                           <div class="subtitle">
                                 Industry Expert and
                                 practicing
@@ -550,11 +568,11 @@
                                   Dr. Subodh Sant
                                 </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                               Chief Manger, Asset
                               Management,
                               Siemens Ltd, Mumbai
-                          </div>
+                          </div> -->
                           <div class="subtitle">
                                     Technical and
                                     Industry Expert, MS
@@ -571,19 +589,15 @@
                             Mr. Shiraz Shaikh
                           </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                             Director, Barclays
                             
                             Pune
-                          </div>
+                          </div> -->
                           <div class="subtitle">
-                                  Investment Banker
-                                  and Industry expert.
-                                  Industry exposure
-                                  include software,
-                                  Analytics,
-                                  engineering and
-                                  leadership
+                                 Director, Barclays, Pune.
+                                Investment banker and Industry expert, Industry exposure includes software, Analytics, engineering
+                                and leadership.
                           </div>
                         </div>
                         <div class="governer">
@@ -592,11 +606,11 @@
                           Mr. Sukant Panda
                         </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                             Head Business
                             Tranformation at Tieto. Helsinki,
                             Southern Finland
-                          </div>
+                          </div> -->
                           <div class="subtitle">
                               Industry expert in the
                               field of Business Transformation
@@ -613,11 +627,11 @@
                               Dr. C. N. Narayana
                             </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                               Director &amp; Professor,
                               Pune Business
                               School, Nigdi
-                          </div>
+                          </div> -->
                           <div class="subtitle">
                               More than 33 years of
                               experience in both
@@ -634,14 +648,129 @@
                               Krishnan
                             </strong>
                           </div>
-                          <div class="address">
+                          <!-- <div class="address">
                             AICTE, Mumbai &amp;
                             New Delhi
-                          </div>
+                          </div> -->
                           <div class="subtitle">
                             AICTE Ex-Officio
                             Member
                           </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                      
+
+                <div class="tab-pane fade" id="blog8">
+                  <div class="col-xs-12 box">
+                    <div class="microsoft container1">
+                  <h2 class="media-heading text-left"
+                        style="color: rgb(157, 18, 20) ">
+                        Board of Studies
+                      </h2>
+                      <h3>Members</h3>
+                      <div class="governers">
+                        <div class="governer">
+                          <div class="title">
+                            <strong>
+                              Dr. Santosh Bhave
+                            </strong>
+                          </div>
+                          <!-- <div class="address">
+                            Sector no. 3,Plot no
+                            60/B/1, DyanKamal,
+                            Indrayni Nagar,
+                            Bhosari, Pune 411039
+                          </div> -->
+                          <div class="subtitle">
+                            Director HR, Bharat Forge Ltd. Pune
+                            Industry Expert &amp; Practicing Academician
+                          </div>
+                        </div>
+                        <div class="governer">
+                          <div class="title">
+                            <strong>
+                             Mr. Mahesh Kunkulol
+                            </strong>
+                          </div>
+                          <!-- <div class="address">
+                            Shiva Krupa Bunglow
+                            No. 1, Sahjivan
+                            Housing society,
+                            Ganeshkind Road,
+                            Bhosale Nagar, Pune
+                            411007 .
+                          </div> -->
+                          <div class="subtitle">
+                              Group Head, Bajaj Finserv, Pune
+                          </div>
+                        </div>
+                        <div class="governer">
+                          <div class="title">
+                            <strong>
+                              Dr. C.N.Narayana
+                            </strong>
+                          </div>
+                          <!-- <div class="address">
+                          PCET Trust , Nigdi                          
+                          Pune
+                          </div> -->
+                          <div class="subtitle">
+                             Director &amp; Sr. Professor
+                              In PGDM, PBS
+                          </div>
+                        </div>
+                        <div class="governer">
+                          <div class="title">
+                            <strong>
+                              Dr. Gajanan Parishwad
+                            </strong>
+                          </div>
+                          <!-- <div class="address">
+                              Dean Research We
+                              School, Prince.
+                              Welingkar Institute of
+                              Management,
+                              Bengaluru.
+                          </div> -->
+                          <div class="subtitle">
+                              Director at Pimpri Chinchawad College of Engineering
+                                Nigdi, Maharashtra, India
+                          </div>
+                        </div>
+                        <div class="governer">
+                          <div class="title">
+                                  <strong>
+                                   Dr. Kirti Dharwadkar
+                                  </strong>
+                          </div>
+                          <!-- <div class="address">
+                            Director-HR & IR, Bharat
+                            Forge Ltd.,
+                            Pune
+                          </div> -->
+                          <div class="subtitle">
+                               Director, S.B.Patil Institute of Management
+                          </div>
+                        </div>
+                        <div class="governer">
+                          <div class="title">
+                                <strong>
+                                  Dr. Revati Iyer
+                                </strong>
+                          </div>
+                          <!-- <div class="address">
+                              Chief Manger, Asset
+                              Management,
+                              Siemens Ltd, Mumbai
+                          </div> -->
+                          <div class="subtitle">
+                                 Academic Head &amp; Former Professor, IFIM, Bengaluru
+                          </div>
+                       
+                        
                         </div>
                       </div>
                     </div>
@@ -725,7 +854,9 @@
                          
                        <h2 class="media-heading text-left"
                         style="color: rgb(157, 18, 20) "> Mandatory Disclosure</h2>
-            <h3><a href= "/Documents/Letter_of_Approval_2020-21.PDF" target="_blank"> AICTE Approval Letter </a></h3>
+            
+            
+                        <h3><a href= "/Documents/Letter_of_Approval_2020-21.PDF" target="_blank"> AICTE Approval Letter </a></h3>
                    
                       
                     </div>

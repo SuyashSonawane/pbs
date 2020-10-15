@@ -82,16 +82,22 @@
   <ul>
     <li>
     <li>
-      22,000+ Placements
+      30+ YEARS
+LEGACY OF
+QUALITY
+EDUCATION
     </li>
     <li>
-      600+ Recruiters every year
+      23,000+ PLACEMENTS
     </li>
     <li>
-      350+ Patents
+      450+ Patents
     </li>
     <li>
-      2,400+ Research papers
+      46,500+ ALUMNI
+    </li>
+    <li>
+      2,500+ Research papers
     </li>
     <li>
       14,500+ Students on campus

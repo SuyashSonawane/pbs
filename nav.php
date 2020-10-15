@@ -42,6 +42,11 @@
             >
           </li>
           <li>
+            <a href="./about-PBS.php#10" title="Board of Studies"
+              >Board of Studies</a
+            >
+          </li>
+          <li>
             <a href="./about-PBS.php#5" title="Director's Message"
               >Director's Message</a
             >

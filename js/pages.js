@@ -61,7 +61,8 @@ $(document).ready(function () {
 });
 var type = window.location.hash.substr(1);
 // console.log(type);
-if (type && type < 6) {
+if (type && type < 7) {
+  console.log(type);
   //   $(".fade")[type - 1].addClass("active");
   $(".fade").addClass((e) => {
     if (e == type - 1) return "active in";

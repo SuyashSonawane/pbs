@@ -330,29 +330,36 @@
         onmouseover="this.stop();"
         onmouseout="this.start();"
       >
-        <ul>
-          <li>
-            22,000+ Placements
-          </li>
-          <li>
-            600+ Recruiters every year
-          </li>
-          <li>
-            350+ Patents
-          </li>
-          <li>
-            2,400+ Research papers
-          </li>
-          <li>
-            14,500+ Students on campus
-          </li>
-          <li>
-            650 + Faculties
-          </li>
-          <li>
-            65+ Acres 3 Campuses
-          </li>
-        </ul>
+          <ul>
+    <li>
+    <li>
+      30+ YEARS
+LEGACY OF
+QUALITY
+EDUCATION
+    </li>
+    <li>
+      23,000+ PLACEMENTS
+    </li>
+    <li>
+      450+ Patents
+    </li>
+    <li>
+      46,500+ ALUMNI
+    </li>
+    <li>
+      2,500+ Research papers
+    </li>
+    <li>
+      14,500+ Students on campus
+    </li>
+    <li>
+      650 + Faculties
+    </li>
+    <li>
+      65+ Acres 3 Campuses
+    </li>
+  </ul>
       </marquee>
 
       <!-- End container-->
@@ -388,12 +395,16 @@
             <a href="./about-PBS.php#2" title="PBS Advantage">PBS Advantage</a>
           </li>
           <li>
-            <a href="./about-PBS.php#3" title="Vission & Mission
-    ">Vission & Mission
+            <a href="./about-PBS.php#3" title="Vission & Mission">Vission & Mission
             </a>
           </li>
           <li>
             <a href="./about-PBS.php#4" title="Board of Governors">Board of Governors</a>
+          </li>
+          <li>
+            <a href="./about-PBS.php#10" title="Board of Studies"
+              >Board of Studies</a
+            >
           </li>
           <li>
             <a href="./about-PBS.php#5" title="Director's Message">Director's Message</a>
