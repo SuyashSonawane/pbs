@@ -468,6 +468,43 @@ table {
 .faculty .panel-footer {
   height: 250px;
 }
+.technos {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 10px;
+}
+.technos .panel-body {
+  padding: 0px;
+  font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.techno {
+  width: 300px;
+  overflow: hidden;
+  user-select: none;
+  /* margin: 40px; */
+  transition: all 0.2s ease;
+}
+.techno:hover {
+  transform: translateY(-2px);
+  box-shadow: 4px 12px 10px #00000026;
+}
+.techno img {
+  width: 100%;
+  height: 250px;
+  transition: all 0.2s ease;
+  -webkit-filter: brightness(0.9);
+}
+.techno img:hover {
+  -webkit-filter: brightness(1);
+}
+.techno .panel-footer {
+  height: 155px;
+}
 .hideFal {
   display: none;
 }

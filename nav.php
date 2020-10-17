@@ -213,7 +213,7 @@
     <!-- End Item -->
 
     <li class="drop-normal">
-      <a href="javascript:void(0)" class="drop-down">Faculty & Research</a>
+      <a href="javascript:void(0)" class="drop-down">Academies</a>
       <div class="drop-down-container normal">
         <ul>
           <li>
@@ -225,6 +225,27 @@
           </li>
           <li>
             <a
+              href="./teaching-learning-pedagogy.php"
+              title="Experinced Faculty at PBS"
+              >Teaching & Learning Pedagogy</a
+            >
+          </li>
+          <li>
+            <a
+              href="./faculty-research.php#1"
+              title="Experinced Faculty at PBS"
+              >Curriculum</a
+            >
+          </li>
+          <li>
+            <a
+              href="./faculty-research.php#1"
+              title="Experinced Faculty at PBS"
+              >Certification Courses</a
+            >
+          </li>
+          <!-- <li>
+            <a
               href="./faculty-research.php#2"
               title="Visiting/ Adjunct Faculty"
               >Visiting/ Adjunct Faculty</a
@@ -234,7 +255,7 @@
             <a href="./faculty-research.php#3" title="Research & Publications"
               >Research & Publications</a
             >
-          </li>
+          </li> -->
         </ul>
       </div>
       <!-- End dropdown normal -->
