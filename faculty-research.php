@@ -749,7 +749,7 @@
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./img/cnarayana1.jpg"
+                                             src="./images/faculties/SSL.jpg"
                                              class="img-responsive"
                                              alt="Director, Pune Business School"
                                              srcset=""
@@ -762,18 +762,17 @@
                                              <br />                                             
                                           </h6>
                                           <h6>
-                                            Professor & Dean,
-                                            Research & Innovation,
-                                            Entrepreneurship
-                                            Development
+                                             Professor & Dean,
+                                             Research & Innovation,
+                                             Entrepreneurship
+                                             Development
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/0.jpg"
+                                             src="./images/faculties/SH.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -785,15 +784,15 @@
                                           </h5>
                                           <h6>
                                              Cirque Director,
-Film Actor and a
-TEDx speaker
+                                             Film Actor and a
+                                             TEDx speaker
                                           </h6>
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/NRD.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -801,21 +800,20 @@ TEDx speaker
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                            Dr. N. R. Deore
+                                             Dr. N. R. Deore
                                           </h5>
                                           <h6>
-                                            Professor,
-                                            PhD Aerospace Engg.
-                                            M.E. (CAD/CAM.),
-                                            IIT, Mumbai
+                                             Professor,
+                                             PhD Aerospace Engg.
+                                             M.E. (CAD/CAM.),
+                                             IIT, Mumbai
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/SK.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -823,24 +821,23 @@ TEDx speaker
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                            Mr. Sashikant Kurbetti
+                                             Mr. Sashikant Kurbetti
                                           </h5>
                                           <h6>
-                                            Principal HR
-                                            Consultant Engg,
-                                            Auto, Textile,
-                                            Real Estate &
-                                            Infrastructures Co’s,
-                                            Teerth Realities,
-                                            Saffron Developers, etc
+                                             Principal HR
+                                             Consultant Engg,
+                                             Auto, Textile,
+                                             Real Estate &
+                                             Infrastructures Co’s,
+                                             Teerth Realities,
+                                             Saffron Developers, etc
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/SDT.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -848,24 +845,23 @@ TEDx speaker
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                          Dr. S. D. Thepade
+                                             Dr. S. D. Thepade
                                           </h5>
                                           <h6>
-                                           Dean, Quality
-                                            Assurance, PCCOE
-                                            Ph.D.
-                                            Coordinator,
-                                            PG Coordinator,
-                                            PCCOE
-                                            Ph.D. (Comp Engg.)
+                                             Dean, Quality
+                                             Assurance, PCCOE
+                                             Ph.D.
+                                             Coordinator,
+                                             PG Coordinator,
+                                             PCCOE
+                                             Ph.D. (Comp Engg.)
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/AD.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -873,21 +869,20 @@ TEDx speaker
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                            Anup Dandekar
+                                             Anup Dandekar
                                           </h5>
                                           <h6>
-                                            People Partner,
-                                                  Grow More Coach &
-                                                  NLP Practitioner
-                                                  Pune
+                                             People Partner,
+                                             Grow More Coach &
+                                             NLP Practitioner
+                                             Pune
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/LW.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -895,25 +890,24 @@ TEDx speaker
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                            Dr. Lalit Wadhwa
+                                             Dr. Lalit Wadhwa
                                           </h5>
                                           <h6>
-                                            Principal at NMIET Pune
-                                          Doctor of Philosophy -
-                                          PhD, Electrical,
-                                          Electronics and
-                                          Communications
-                                          Indian Institute of
-                                          Technology (Indian School
-                                          of Mines), Dhanbad
+                                             Principal at NMIET Pune
+                                             Doctor of Philosophy -
+                                             PhD, Electrical,
+                                             Electronics and
+                                             Communications
+                                             Indian Institute of
+                                             Technology (Indian School
+                                             of Mines), Dhanbad
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/RS.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -921,21 +915,20 @@ TEDx speaker
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                            Ms. Rashi Sharma
+                                             Ms. Rashi Sharma
                                           </h5>
                                           <h6>
-                                            Head of Learning and
-Development at
-Reliance Jio Infocomm Ltd
-Pune, Maharashtra
+                                             Head of Learning and
+                                             Development at
+                                             Reliance Jio Infocomm Ltd
+                                             Pune, Maharashtra
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/HT.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -943,26 +936,25 @@ Pune, Maharashtra
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                            Dr. Harish Tiwari
+                                             Dr. Harish Tiwari
                                           </h5>
                                           <h6>
-                                          Principal at PCCOE&R,
-Pune
-MTech - Master of
-Technology, Heating,
-Air Conditioning,
-Ventilation & Refrigeration
-Maintenance Technology/
-Technician Indian Institute
-of Technology, Roorkee
+                                             Principal at PCCOE&R,
+                                             Pune
+                                             MTech - Master of
+                                             Technology, Heating,
+                                             Air Conditioning,
+                                             Ventilation & Refrigeration
+                                             Maintenance Technology/
+                                             Technician Indian Institute
+                                             of Technology, Roorkee
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/SA.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -970,21 +962,20 @@ of Technology, Roorkee
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                       Mr. Sachin Apte
+                                             Mr. Sachin Apte
                                           </h5>
                                           <h6>
-                                            Area Business Head at
-Reliance Jio Infocomm
-Limited
-Mumbai, Maharashtra
+                                             Area Business Head at
+                                             Reliance Jio Infocomm
+                                             Limited
+                                             Mumbai, Maharashtra
                                           </h6>
-                                         
                                        </div>
                                     </div>
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/swapnali-kulkarni.jpg"
+                                             src="./images/faculties/ADT.jpg"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""
@@ -992,20 +983,17 @@ Mumbai, Maharashtra
                                        </div>
                                        <div class="panel-footer text-center">
                                           <h5 class="lead">
-                                            Dr. A. D. Thakare
+                                             Dr. A. D. Thakare
                                           </h5>
                                           <h6>
-                                            Dean, International
-Relation, Expert -
-Artificial Intelligence
-and Data Mining,
-PCCOE
+                                             Dean, International
+                                             Relation, Expert -
+                                             Artificial Intelligence
+                                             and Data Mining,
+                                             PCCOE
                                           </h6>
-                                         
                                        </div>
                                     </div>
-                                    
-                                    
                                  </div>
                               </div>
                            </div>

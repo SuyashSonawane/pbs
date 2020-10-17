@@ -71,6 +71,7 @@
                   >Apply Now</a
                 >
               </li>
+              <li><a href="./admission.php#1">Selection Process</a></li>
               <li><a href="./admission.php#1">Admission Process</a></li>
               <li><a href="./admission.php#2">Fee Structure</a></li>
               <li><a href="./faculty-research.php#1">Faculty</a></li>
@@ -179,6 +180,11 @@
               </li>
               <li>
                 <a href="./admission.php#3" title="Fees Structure"
+                  >Selection Process</a
+                >
+              </li>
+              <li>
+                <a href="./admission.php#3" title="Fees Structure"
                   >Fees Structure</a
                 >
               </li>
@@ -232,14 +238,14 @@
           </li>
           <li>
             <a
-              href="./faculty-research.php#1"
+              href="./curriculum.php"
               title="Experinced Faculty at PBS"
               >Curriculum</a
             >
           </li>
           <li>
             <a
-              href="./faculty-research.php#1"
+              href="./certification.php"
               title="Experinced Faculty at PBS"
               >Certification Courses</a
             >
