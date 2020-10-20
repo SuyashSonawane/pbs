@@ -175,7 +175,7 @@
   <div id="top-bar">
       <ul>
 <li>
-          <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
+          <a href="https://www.facebook.com/pcet.punebschool" target="_blank"
             ><i class="fa fa-facebook"></i
           ></a>
         </li>
@@ -415,7 +415,7 @@
           </h4>
         </div>
         <div id="collapse4" class="panel-collapse collapse">
-          <div class="panel-body"> PCET's PBS Admission Brochure <embed src="/Documents/PBS Brochure.pdf" type="application/pdf" width="100%" height="600px" /></div>
+          <div class="panel-body"> PCET's PBS Admission Brochure <embed src="/Documents/PBS New Brochure Final Single 19 Oct.pdf" type="application/pdf" width="100%" height="600px" /></div>
           
         </div>
       </div>

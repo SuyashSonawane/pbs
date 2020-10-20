@@ -175,7 +175,7 @@
     <div id="top-bar">
       <ul>
 <li>
-          <a href="https://www.facebook.com/pcet.punebschool.3" target="_blank"
+          <a href="https://www.facebook.com/pcet.punebschool" target="_blank"
             ><i class="fa fa-facebook"></i
           ></a>
         </li>

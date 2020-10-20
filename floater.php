@@ -5,7 +5,7 @@
 >
   <a
     class="a2a_button_facebook"
-    href="https://www.facebook.com/pcet.punebschool.3"
+    href="https://www.facebook.com/pcet.punebschool"
   ></a>
   <a class="a2a_button_twitter"></a>
   <a class="a2a_button_google_gmail" href="mailto:punebschool@gmail.com"></a>
@@ -15,7 +15,7 @@
   <ul>
     <li>
       <a
-        href="https://www.facebook.com/pcet.punebschool.3"
+        href="https://www.facebook.com/pcet.punebschool"
         target="_blank"
         class="marginleft10"
         ><img alt="" src="http://www.pccoepune.com/images/fb.png"
