@@ -756,11 +756,9 @@
                                              />
                                        </div>
                                        <div class="panel-footer text-center">
-                                          <h6 class="lead">
-                                             Dr. S. S. Lakade<br />
-                                             Human Resource Management
-                                             <br />                                             
-                                          </h6>
+                                          <h5 class="lead">
+                                             Dr. S. S. Lakade                                           
+                                          </h5>
                                           <h6>
                                              Professor & Dean,
                                              Research & Innovation,
