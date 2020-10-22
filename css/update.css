@@ -15,7 +15,9 @@ body {
 .scrolling-text {
   padding: 5px;
 }
-
+.fa {
+  color: #e6730f;
+}
 #blog {
   background: whitesmoke;
 }
@@ -49,6 +51,10 @@ body {
 .megamenu_container {
   max-width: 1200px;
   width: auto;
+}
+.megamenu > li a.drop-down,
+.megamenu > li a.nodrop-down {
+  font-size: 1.1em;
 }
 #nav-items-about {
   padding-top: 10px;

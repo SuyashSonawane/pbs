@@ -787,7 +787,7 @@
                           <!-- <br> -->
                           <div class="row">
                             <div class="col-md-6">
-                          <img src="./images/faculties/director-new.jpg" class="img-responsive" />
+                          <img src="./images/faculties/director-new.jpg"  />
                           <br>
                               <p class="lead">
                               Dr. C. N. Narayana <br>
@@ -796,7 +796,7 @@
                             </p>
                             </div>
                             <div class="col-md-6">
-                              <p >
+                              <h5 class="large_black_text" >
                               Excellence and Ethics are the fundamental ingredients of PBS’s DNA and this
                               shall be passed on to all those learners who experience the PDGM threshold here.
                               For over 30 years, the PCET trust has established an enviable record of quality and
@@ -809,7 +809,7 @@
                           silhouette. Our unending efforts to excel and succeed has corralled a chronicle of
                           success in academic laurels and leadership, impressive placements and
                           international collaborations thus moving towards an equal footing with leading
-                          universities. </br>
+                          universities. </br> <br> <br>
                           PBS is a conflux of ideas and best academic practices. We are a melting pot of
                           diverse cultures across India. Through the efforts of our accomplished faculty, our
                           talented students and exceptional alumni, we will make rapid progress on our path
@@ -836,7 +836,7 @@
                           global knowledge and aims to achieve significant milestones.
                           On behalf of the PBS family, I take this opportunity to invite you to our warm and
                           passionate world of education and become a part of this transformational journey.
-                            </p>
+                        </h5>
                             </div>
                           </div>
 

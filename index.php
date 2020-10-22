@@ -260,11 +260,15 @@
                                  <li>
                                     <a href="contact.php" title="Contact"> Contact Us </a> |&nbsp;
                                  </li>
+                                
                                  <li>
                                     <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
                                        title="Apply"
                                        >Apply</a
-                                       >
+                                       > |&nbsp;
+                                 </li>
+                                  <li>
+                                    <a href="admission.php#4" title="Contact"> Admission Brochure </a>
                                  </li>
                               </ul>
                            </div>
@@ -291,21 +295,23 @@
                               <li>
                                  <a href="contact.php" title="Contact"> Contact Us</a> |&nbsp;
                               </li>
-                              <li>
-                                 <a
-                                    href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
-                                    title="Apply"
-                                    >Apply</a
-                                    >
-                              </li>
+                               <li>
+                                    <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                                       title="Apply"
+                                       >Apply</a
+                                       > |&nbsp;
+                                 </li>
+                                  <li>
+                                    <a href="admission.php#4" title="Contact"> Admission Brochure </a>
+                                 </li>
                            </ul>
                         </div>
                      </div>
                   </div>
                   <p style="color: #ffffff;"> Approved By All India Council For Technical Education (AICTE), New Delhi </p>
-                  <p id="attention" class="text-center">
+                  <!-- <p id="attention" class="text-center">
                      <a href="./news-events.php" target="_blank" title="Pune Business School Admission" style="color: #e6730f;"> "Demystifying Finance, Economics, Compliance, Corporate Governance & Beyond" A full month Capsule to Professionals, Students, Academicians by CA Promod Jain - A Stalwart Series </a>
-                  </p>
+                  </p> -->
                </div>
                <br />
                <marquee
@@ -1127,6 +1133,7 @@
             <h2 class="text-center">PBS at Glance</h2>
             <div class="row" id="about-PCET">
                <div class="col-md-3 boxes">
+                  <h4 class="text-center">Director's Desk</h4>
                   <img src="./img/cnarayana1.jpg" alt="" srcset="" />
                   <br />
                   <span class="para1"
@@ -1158,6 +1165,7 @@
                      >
                </div>
                <div class="col-md-3 boxes">
+                  <h4 class="text-center">News and Events</h4>
                   <img src="./img/news.png" alt="" srcset="" />
                   <br />
                   <ul id="pcet-awards">

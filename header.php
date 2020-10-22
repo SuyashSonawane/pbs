@@ -23,13 +23,15 @@
             <li>
               <a href="contact.php" title="Contact"> Contact Us </a> |&nbsp;
             </li>
-            <li>
-              <a
-                href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
-                title="Apply"
-                >Apply</a
-              >
-            </li>
+             <li>
+                                    <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                                       title="Apply"
+                                       >Apply</a
+                                       > |&nbsp;
+                                 </li>
+                                  <li>
+                                    <a href="admission.php#4" title="Contact"> Admission Brochure </a>
+                                 </li>
           </ul>
         </div>
       </div>
@@ -54,13 +56,15 @@
             | &nbsp;
           </li>
           <li><a href="contact.php" title="Contact"> Contact Us</a> |&nbsp;</li>
-          <li>
-            <a
-              href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
-              title="Apply"
-              >Apply</a
-            >
-          </li>
+           <li>
+                                    <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                                       title="Apply"
+                                       >Apply</a
+                                       > |&nbsp;
+                                 </li>
+                                  <li>
+                                    <a href="admission.php#4" title="Contact"> Admission Brochure </a>
+                                 </li>
         </ul>
       </div>
     </div>
