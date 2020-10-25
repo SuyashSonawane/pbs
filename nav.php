@@ -219,7 +219,7 @@
     <!-- End Item -->
 
     <li class="drop-normal">
-      <a href="javascript:void(0)" class="drop-down">Academies</a>
+      <a href="javascript:void(0)" class="drop-down">Academics </a>
       <div class="drop-down-container normal">
         <ul>
           <li>

@@ -770,7 +770,7 @@
                                     <div class="panel panel-default techno">
                                        <div class="panel-body">
                                           <img
-                                             src="./images/faculties/SH.jpg"
+                                             src="./images/faculties/SH.png"
                                              class="img-responsive"
                                              alt="Faculty Pune Business School"
                                              srcset=""

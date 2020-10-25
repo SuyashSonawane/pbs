@@ -1343,7 +1343,7 @@
                                        Industry Experience:-
                                     </h2>
                                     <p>
-                                       ●                    Worked with Reliance Jio Infocomm Ltd as a JIO CENTRE MANAGER <br>
+                                       ● Worked with Reliance Jio Infocomm Ltd as a JIO CENTRE MANAGER <br>
                                        ● Worked with Samsung India Electronics Ltd as an Area Sales Manager <br>
                                        ● Worked with Vodafone India Ltd, as a Retail Sales Manager <br>
                                        ● Worked with Idea Cellular Ltd as a Territory Sales Manager
@@ -1355,10 +1355,7 @@
                               <div class="col-xs-12 box">
                                  <div class="microsoft container1">
                                     <p>Ph. D (Doctor of Philosophy), S.R.T.M. University, Nanded 2020</p>
-                                    <p>
-                                       M.B.S Information Technology, SavitribaiPhule Pune
-                                       University 2015
-                                    </p>
+                                 
                                     <p>
                                        MBA (Marketing), Pune University 2007
                                     </p>

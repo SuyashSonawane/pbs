@@ -577,7 +577,7 @@
                      <!-- End Item -->
 
                      <li class="drop-normal">
-                        <a href="javascript:void(0)" class="drop-down">Academies</a>
+                        <a href="javascript:void(0)" class="drop-down">Academics </a>
                         <div class="drop-down-container normal">
                         <ul>
                            <li>
@@ -1133,7 +1133,7 @@
             <h2 class="text-center">PBS at Glance</h2>
             <div class="row" id="about-PCET">
                <div class="col-md-3 boxes">
-                  <h4 class="text-center">Director's Desk</h4>
+                  <h4 class="text-center">From the Director's Desk</h4>
                   <img src="./img/cnarayana1.jpg" alt="" srcset="" />
                   <br />
                   <span class="para1"
@@ -1144,7 +1144,7 @@
                   and innovation. The accreditations and recognitions we receive
                   will</span
                      >
-                  <a href="./about-PBS.php#5" target="_blank" rel="noopener noreferrer"
+                  <a href="./about-PBS.php#6" target="_blank" rel="noopener noreferrer"
                      >Read more</a
                      >
                </div>
