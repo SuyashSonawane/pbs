@@ -4,6 +4,10 @@ body {
   scroll-behavior: smooth;
   font-family: "Baloo Chettan 2";
 }
+.vcenter {
+  margin: 50px 0px;
+  font-size: 20px;
+}
 .scrolling-text img {
   height: 2.55em;
   padding-left: 30px;
@@ -21,7 +25,11 @@ body {
 #blog {
   background: whitesmoke;
 }
-
+header {
+  background-image: url("../images/infrastructure/Campus/temp-bg.png");
+  background-size: cover;
+  color: black;
+}
 #pcet-logo {
   height: 80px;
 }
@@ -72,7 +80,6 @@ table {
   display: inline-flex;
 }
 .menu-top-list ul li a {
-  color: white;
   font-size: 11px;
 }
 .leftCls {
@@ -209,7 +216,6 @@ table {
 .marquee-list ul li {
   display: inline-block;
   margin: 0 15px;
-  color: white;
 }
 .marquee-list ul {
   list-style-type: disc;

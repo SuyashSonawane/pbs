@@ -172,6 +172,9 @@
                padding: 5px 0px;
                font-size:20px
                }
+               img{
+                  margin:auto;
+               }
             </style>
          </head>
          <body>
@@ -243,12 +246,12 @@
                            <img
                               alt="PBS Best business management school in Pune university"
                               class="img-responsive img-border"
-                              height="111"
+                              
                               src="./images/faculties/swapnali-kulkarni.jpg"
-                              width="111"
+                              
                               />
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-9 vcenter">
                            <div class="content-para lineheight25 text-left">
                               <div class="row">
                                  Associate Professor<br />
@@ -531,12 +534,12 @@
                            <img
                               alt="Faculty Pune Business School"
                               class="img-responsive img-border"
-                              height="111"
+                              
                               src="./images/faculties/Dr. Iram Ansari.jpg"
-                              width="111"
+                              
                               />
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-9 vcenter">
                            <div class="content-para lineheight25 text-left">
                               <div class="row">
                                  Assistant Professor<br />
@@ -695,10 +698,10 @@
                               alt="PBS is best in all the top business schools and MBA colleges in Pune"
                               class="img-responsive img-border"
                               src="./images/faculties/Aishwarya.jpg"
-                              style="width: 111px; height: 110px;"
+                              
                               />
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-9 vcenter">
                            <div class="content-para lineheight25 text-left">
                               <div class="row">Assistant Professor</div>
                               <div class="row">Finance &amp; International Business</div>
@@ -866,17 +869,17 @@
             <div class="container fal hideFal" id="blog">
                <div class="row content-background">
                   <div class="col-md-12 col-sm-12 about_desc">
-                     <h2 class="subheading1">Dr. Laxmi Jasti</h2>
+                     <h2 class="subheading1 text-center">Dr. Laxmi Jasti</h2>
                      <div class="col-md-12">
                         <div class="col-md-3">
                            <img
                               alt="PBS is best in all the top business schools and MBA colleges in Pune"
                               class="img-responsive img-border"
                               src="./images/faculties/Lakshami Jasti.jpg"
-                              style="width: 111px; height: 110px;"
+                              
                               />
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-9 vcenter">
                            <div class="content-para lineheight25 text-left">
                               <div class="row">Assistant Professor</div>
                               <div class="row">Statistics, Information Technology</div>
@@ -966,14 +969,13 @@
                         <div class="col-md-2">
                            <img
                               alt="PBS Best business management school in Pune university"
-                              class="img-responsive img-border"
-                              height="111"
+                             
+                              width="100% "
                               src="./img/cnarayana.jpg"
-                              width="111"
+                              
                               />
                         </div>
-                        <div class="col-md-9">
-                           <div class="content-para lineheight25 text-left">
+                        <div class="vcenter col-md-9 vcenter ">
                               <div class="row">
                                  Senior Professor &amp; Director, Pune Business School
                               </div>
@@ -987,7 +989,7 @@
                                  <br />
                                  <br />
                                  <a
-                                    class="button_medium add-bottom-20"
+                                    class="button_medium add-bottom-20 small"
                                     href="https://drive.google.com/file/d/1VgFx58wanIjDXF_ZGnVHzA5Lc3sUI-9O/view?usp=sharing"
                                     target="_blank"
                                     >Brief Profile</a
@@ -1270,10 +1272,10 @@
                               alt="PBS is best in all the top business schools and MBA colleges in Pune"
                               class="img-responsive img-border"
                               src="./images/faculties/Dr. Krishna Vyankatrao Aineniwar.jpg"
-                              style="width: 111px; height: 110px;"
+                              
                               />
                         </div>
-                        <div class="col-md-9">
+                        <div class="col-md-9 vcenter">
                            <div class="content-para lineheight25 text-left">
                               <div class="row">Assistant Professor</div>
                               <div class="row"> Marketing Management</div>

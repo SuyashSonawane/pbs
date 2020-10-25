@@ -340,10 +340,10 @@ a.button_red_small {
   font-size: 11px;
 }
 
-#menu-top,
+/* #menu-top,
 #menu-top ul li a {
   color: #d0dbeb;
-}
+} */
 
 .button_red_small:hover,
 .megamenu > li .drop-down-container a.button_red_small:hover,
@@ -384,11 +384,6 @@ header {
 .ie7 #menu-top ul li a {
   color: #d0dbeb;
   margin-left: 5px;
-}
-
-#phone,
-nav {
-  color: #fff;
 }
 
 nav {
@@ -467,7 +462,7 @@ footer {
   color: #666;
   border-top: 1px solid #e0eaf0;
   padding-top: 60px;
-   /* padding-bottom: 45px; */
+  /* padding-bottom: 45px; */
 }
 
 #contacts-footer ul,
@@ -1606,9 +1601,9 @@ a.button_red_small {
 }
 
 .listType {
-    list-style: disc;
+  list-style: disc;
 }
 .table_heading {
-    text-transform: capitalize;
-    font-weight: bold;
+  text-transform: capitalize;
+  font-weight: bold;
 }

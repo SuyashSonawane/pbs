@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-md-7">
       <a href="/">
-        <img src="./images/PBS.png" class="img-responsive header-img" alt="" />
+        <img src="./img/new-logo.png" class="img-responsive header-img" alt="" />
       </a>
     </div>
     <div class="col-md-5">
@@ -69,7 +69,7 @@
       </div>
     </div>
   </div>
-<p style="color: #ffffff;"> Approved By All India Council For Technical Education (AICTE), New Delhi </p>
+<p > Approved By All India Council For Technical Education (AICTE), New Delhi </p>
 
   <p id="attention" class="text-center">
    <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA" target="_blank" title="Pune Business School Admission" style="color: #e6730f;"> True Value for Money for a quality AICTE approved PGDM.</a>
@@ -85,6 +85,8 @@
 >
   <ul>
     <li>
+                        True Value for Money for a quality AICTE approved PGDM
+                     </li>
     <li>
       30+ YEARS
 LEGACY OF
