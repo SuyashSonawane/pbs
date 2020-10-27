@@ -313,7 +313,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/Renya Kikuchi.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -345,7 +345,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/Paul.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -388,7 +388,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/Pramod Jain.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -438,7 +438,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/Ashish .jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -462,35 +462,12 @@
                                           </div>
                                        </div>
                                     </div>
+                                    
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                        <div class="col-md-3">
+                                             <img src="./images/faculties/Tairo Nomura.jpg" width="100%" alt="">              
                                           </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Ashish Chandra
-                                             </h3>
-                                             <strong>
-                                             Professor of Healthcare Administration, College of Business,<br>
-                                             University of Houston, USA                                
-                                             </strong>
-                                             <p>
-                                                Dr. Chandra is a professor of Healthcare Administration program at University of
-                                                Houston-Clear Lake and served as faculty chair of the program for ten years.
-                                                Previously he taught at Marshall University in West Virginia and Xavier University in
-                                                New Orleans, Louisiana. Dr. Chandra was also a healthcare and management
-                                                consultant. He is published in Hospital Topics, Journal of Medical Marketing, Clinical
-                                                Research and RegulatoryAffairs, Journal of Healthcare Management, among others.
-                                                He has served as vice president of MBAA International, president of the Association
-                                                of Collegiate Marketing Educators, and on the Board of Directors of both the
-                                                Federation ofBusiness Disciplines and the Marketing Management Association.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
                                           <div class="col-md-9">
                                              <h3>
                                                 Dr. Tairo Nomura
@@ -512,15 +489,13 @@
                                                 He was born on 5th June 1971 in Kochi Prefecture, Japan.
                                              </p>
                                           </div>
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
+                                         
                                        </div>
                                     </div>
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/Ben Ben.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -546,7 +521,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/markrand.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>

@@ -236,7 +236,7 @@
       <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/metri.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -261,7 +261,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/Arvind.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -286,7 +286,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/subrat.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -312,7 +312,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/pravin.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -337,7 +337,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/Amithab.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -362,7 +362,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/nArshima.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -389,7 +389,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/santosh.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -413,7 +413,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/shishir.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -439,7 +439,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/shrimali.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -465,7 +465,7 @@
                                      <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                             <img src="./images/faculties/revati.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -490,7 +490,7 @@
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                    <img src="./images/faculties/shankar.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -515,7 +515,7 @@
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                    <img src="./images/faculties/y shekar.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -542,7 +542,7 @@ resources) overa video based technologyplatform that enables a personalised inte
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                    <img src="./images/faculties/pvb.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -569,7 +569,7 @@ SchoolofBusiness (ISB) and the Graduate SchoolofBusiness ofThe UniversityofChica
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                    <img src="./images/faculties/mahesh.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -594,7 +594,7 @@ years.
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                    <img src="./images/faculties/GKP.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -619,7 +619,7 @@ as Managing Director& CEO ofWalchandnagar Industries Ltd. Pune fora totalofabout
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                    <img src="./images/faculties/wager.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
