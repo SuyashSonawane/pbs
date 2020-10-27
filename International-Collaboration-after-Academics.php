@@ -293,7 +293,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -341,14 +341,14 @@
                                              </p>
                                           </div>
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                        </div>
                                     </div>
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -374,7 +374,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -424,7 +424,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -449,7 +449,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -474,7 +474,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -500,7 +500,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -525,7 +525,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -550,7 +550,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -577,7 +577,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -601,7 +601,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -627,7 +627,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
@@ -653,7 +653,7 @@
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
-                                             <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
