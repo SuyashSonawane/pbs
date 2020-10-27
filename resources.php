@@ -236,7 +236,7 @@
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -261,7 +261,7 @@
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -288,7 +288,7 @@ resources) overa video based technologyplatform that enables a personalised inte
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -315,7 +315,7 @@ SchoolofBusiness (ISB) and the Graduate SchoolofBusiness ofThe UniversityofChica
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -340,7 +340,7 @@ years.
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -365,7 +365,7 @@ as Managing Director& CEO ofWalchandnagar Industries Ltd. Pune fora totalofabout
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -388,7 +388,7 @@ businesses in start-up and earlystage.
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -413,7 +413,7 @@ businesses in start-up and earlystage.
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
@@ -438,7 +438,7 @@ businesses in start-up and earlystage.
         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="./images/faculties/0.jpg" width="100%"alt="">              
+                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
                 </div>
                 <div class="col-md-9">
                     <h3>
