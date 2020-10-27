@@ -267,6 +267,75 @@
       <!-- End dropdown normal -->
     </li>
 
+
+     <li>
+      <a href="javascript:void(0)" class="drop-down">International Collaborations</a>
+      <!-- Begin Item -->
+      <div class="drop-down-container quickLinkCls">
+        <div class="row">
+          <div class="col-md-3">
+            <h4>Quick links</h4>
+            <ul class="list-menu">
+              <li>
+                <a
+                  href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                  target="_blank"
+                  >Apply Now</a
+                >
+              </li>
+              <li><a href="./admission.php#1">Selection Process</a></li>
+              <li><a href="./admission.php#1">Admission Process</a></li>
+              <li><a href="./admission.php#2">Fee Structure</a></li>
+              <li><a href="./faculty-research.php#1">Faculty</a></li>
+              <li><a href="./life-at-pbs.php">Life at PBS</a></li>
+            </ul>
+            <p>
+              <a
+                class="button_medium add-bottom-20"
+                href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA"
+                target="_blank"
+                >Apply Now</a
+              >
+            </p>
+          </div>
+          <div class="col-md-3">
+            <h4>Facilities</h4>
+            <ul class="list-menu">
+              <li>
+               <a href="./International-Collaboration-after-Academics.php#1" title="Foreign University Linkages"
+              >Foreign University Linkages</a
+            >
+                </li>
+                <li>
+                    <a href="./International-Collaboration-after-Academics.php#2" title="International Exposure through Global Resources"
+              >International Exposure through Global Resources</a
+            >
+                </li>
+               
+                <li>
+                    <a href="./International-Collaboration-after-Academics.php#3" title="Foreign Study tour program"
+              >Foreign Study tour program</a
+            >
+                </li>
+                
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <img
+              src="./images/companies/Foreign Study tour Program.jpg"
+              class=""
+              alt=""
+              width="100%"
+              height="300px"
+            />
+          </div>
+          <!-- End col-md-9 -->
+        </div>
+        <br /><br />
+        <!-- End row -->
+      </div>
+      <!-- End Item Container -->
+    </li>
     <li>
       <a href="#" class="drop-down">Life at PBS</a>
       <!-- Begin Item -->
@@ -302,6 +371,13 @@
               Clubs</a
             >
           </div>
+          <div class="col-md-3">
+            <a
+              href="./social.php"
+              title="Student Initiatives and Student Clubs"
+              ><i class="icon-group icon-3x"></i>Social Impact</a
+            >
+          </div>
            <div class="col-md-3">
             <a
               href="./life-at-pbs.php#CertificationProgram"
@@ -318,7 +394,7 @@
     <!-- End Item -->
 
     <li>
-      <a href="./social.php" class="nodrop-down">Social Impact</a>
+      <a href="./resources.php" class="nodrop-down">Resources</a>
     </li>
 
     <li class="drop-normal">
@@ -350,6 +426,7 @@
       <div class="drop-down-container normal">
         <ul>
           <li><a href="./recruiters.php#1" title="SIP">SIP</a></li>
+          <li><a href="./recruiters.php#6" title="SIP">Industry Connect</a></li>
           <li>
             <a href="./recruiters.php#2" title="Final Placements"
               >Final Placements</a
@@ -368,6 +445,7 @@
         </ul>
       </div>
     </li>
+    
 
     <li>
       <a href="javascript:void(0)" class="drop-down">Contact Us</a>

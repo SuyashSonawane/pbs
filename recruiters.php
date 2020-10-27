@@ -315,6 +315,13 @@
                     </h4>
                   </a>
                 </li>
+                <li class="">
+                  <a aria-expanded="true" data-toggle="tab" href="#blog10">
+                    <h4 id="nav-items-about">
+                      Industry Connect
+                    </h4>
+                  </a>
+                </li>
                 <li>
                   <a aria-expanded="true" data-toggle="tab" href="#blog1">
                     <h4 id="nav-items-about">
@@ -1132,6 +1139,100 @@
                   </div>
                 </div>
               </div>
+              <div class="tab-pane fade" id="blog10">
+                <div class="col-xs-12 box">
+                  <div class="microsoft container1 ">
+                    <!-- <h2
+                      class="media-heading text-left"
+                      style="color: rgb(157, 18, 20) "
+                    >
+                      Industry Connect
+                    </h2> -->
+                    <div class="row">
+                      <img src="./images/companies/page42.jpg" width="100%"/>                    
+                    </div>
+                    <div class="boxes-grid">
+                             <div class="box-style-1 green text-left" style="font-size:1.2em;width:350px">
+                                    <h3>Road Safety</h3>
+                                    <p>&bull;Farishtey awareness Session</p>
+                                    <p>&bull;Horn Not Ok Please</p>
+                                    <p>&bull;Debate/ Competition/ Awareness Campaign</p>
+                                    <p>&bull;within College to create awareness and</p>
+                                    <p>&bull;Innovative Ideas on Road Safety</p>
+                                    <p>&bull;Design thinking workshop</p>
+                                    <p>&bull;Innovation Labs -Ideate Future of Infrastructure</p>                        
+                              
+                              </div>
+                      
+                             <div class="box-style-1 green text-left" style="font-size:1.2em;width:350px">
+                                    <h3>Entrepreneurship</h3>
+                                    <p>&bull;Youth Conclaves & Master class -Understand</p>
+                                    <p>&bull;Opportunities, Industry Needs & Competency Development</p>
+
+                                    <p>&bull;Learning session to understand New Technology &</p>
+                                    <p>&bull;Innovation (eg: IOT / AI / Big Data etc...)</p>
+                                    <p>&bull;Learn Recipe for Success from Industry Leaders & CEOS</p>
+
+                                    <p>&bull;Industry Visit</p>
+                                    <p>&bull;Yi Internships</p>
+                                    <p>&bull;Start up Biz / Entrepreneurs Award</p>
+                                    <p>&bull;Access to Finance / One Funding Pitch Program                       </p>
+                              
+                              </div>
+                              <div class="box-style-1 green text-left" style="font-size:1.2em;width:350px">
+                                    <h3>Gift An Organ</h3>
+                                    <p>&bull;Gift an Organ Awareness sessions –Support
+Organ donation Campaign</p>
+                                    <p>&bull;Health Camps & Awareness Programs on
+Physical& MentalHygiene</p>
+                                                      
+                              
+                              </div>
+                              <div class="box-style-1 green text-left" style="font-size:1.2em;width:350px">
+                                    <h3>Innovation</h3>
+                                    <p>&bull;Road to Ideas</p>
+                                    <p>&bull;Design thinking workshop focused on Water
+Conservation, Farm Income doubing.</p>                       
+                              
+                              </div>
+                              <div class="box-style-1 green text-left" style="font-size:1.2em;width:350px">
+                                    <h3>Accessibility</h3>
+                                    <p>&bull;Role Play</p>
+                                    <p>&bull;Contest forEmpathy</p>
+                                    <p>&bull;Design Thinking Modules –Innovative Ideas</p>
+                                    <p>&bull;Careerplanning module fordisabled</p>
+                                    <p>&bull;Legal rights broacher</p>                  
+                              
+                              </div>
+                              <div class="box-style-1 green text-left" style="font-size:1.2em;width:350px">
+                                    <h3>Personal Development</h3>
+                                    <p>&bull;Power dressing</p>
+                                    <p>&bull;Email Etiquettes & Resume Building</p>
+                                    <p>&bull;Public Speaking</p>
+                                    <p>&bull;Social Media Management & Image Building</p>
+                                    <p>&bull;Power of Goal Setting</p>
+                                    <p>&bull;Planning & Time Management</p>
+                                    <p>&bull;Effective Communication</p>                        
+                                    <p>&bull;Health Workshops</p>                        
+                              
+                              </div>
+                              <div class="box-style-1 green text-left" style="font-size:1.2em;width:350px">
+                                    <h3>Climate Change</h3>
+                                    <p>&bull;Water Conservation –Awareness on Reduce,
+Reuse & Recycle water</p>
+                                    <p>&bull;Blue Ocean Dialogues –evolve innovative
+methods to waterconserve & recycle water</p>
+                                    <p>&bull;Innovation Challenges –On Climate Change</p>
+                                                 
+                              
+                              </div>
+                    
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              
             </div>
           </div>
         </div>

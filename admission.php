@@ -356,7 +356,7 @@
                     <p>Tuition Fees</p>
                   </td>
                   <td>
-                    <p>2,55,000.00</p>
+                    <p>3,25,000.00</p>
                   </td>
                 </tr>
                 <tr>
@@ -364,29 +364,26 @@
                     <p>2</p>
                   </td>
                   <td>
-                    <p>Refundable deposit</p>
+                    <p>Alumni Funds</p>
                   </td>
                   <td>
                     <p>10,000.00</p>
                   </td>
                 </tr>
                 <tr>
-                  <td>
-                    <p>3</p>
-                  </td>
-                  <td>
-                    <p>Alumni funds</p>
-                  </td>
-                  <td>
-                    <p>10,000.00</p>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p>Total Fees</p>
-                  </td>
                   <td colspan="2">
-                    <p>2,75,000.00</p>
+                    <p>Total Fees for First Year</p>
+                  </td>
+                  <td >
+                    <p>3,35,000.00</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">
+                    <p>Total Fees for Seceond Year</p>
+                  </td>
+                  <td >
+                    <p>3,35,000.00</p>
                   </td>
                 </tr>
               </tbody>

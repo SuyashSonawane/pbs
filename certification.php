@@ -231,7 +231,7 @@
             <hr>
           <div class="container">
   <h2>List of Certification Courses included in Fees: -</h2>           
-  <table class="table table-striped">
+  <table class="table table-striped" style="font-size:1.5em">
     <thead>
       <tr>
         <th>Compulsory Certifications</th>

@@ -57,12 +57,12 @@ header {
   padding: 10px 0px;
 }
 .megamenu_container {
-  max-width: 1200px;
+  max-width: 1430px;
   width: auto;
 }
 .megamenu > li a.drop-down,
 .megamenu > li a.nodrop-down {
-  font-size: 1.1em;
+  font-size: 1em;
 }
 #nav-items-about {
   padding-top: 10px;
@@ -613,6 +613,28 @@ table {
   padding: 10px;
   border-radius: 5px;
   text-align: center;
+}
+
+.boxes-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.w350 {
+  width: 350px;
+}
+.vmblue {
+  background: #20a1e2;
+  color: #fff;
+  padding: 20px 30px;
+  min-height: 187px;
+}
+.vmyellow {
+  background: #dfb006;
+  color: #fff;
+  min-height: 107px;
+  padding: 20px 30px;
 }
 @media (max-width: 502px) {
   #top-bar ul {
