@@ -231,7 +231,7 @@
   <nav>
       <?php include("nav.php")?>
   </nav>
-    <section class="slider">
+    <!-- <section class="slider">
       <div class="fullwidthbanner-container">
         <div class="fullwidthbanner">
           <ul>
@@ -300,7 +300,7 @@
           <div class="tp-bannertimer tp-bottom"></div>
         </div>
       </div>
-    </section>
+    </section> -->
     <hr />
     <div class="container">
       <div class="row content-background text">

@@ -30,7 +30,7 @@
                                        > |&nbsp;
                                  </li>
                                   <li>
-                                    <a href="admission.php#4" title="Contact"> Admission Brochure </a>
+                                    <a href="./Documents/PBS New Brochure Final Single 19 Oct.pdf" title="Contact"> Admission Brochure </a>
                                  </li>
           </ul>
         </div>
@@ -71,9 +71,9 @@
   </div>
 <p > Approved By All India Council For Technical Education (AICTE), New Delhi </p>
 
-  <p id="attention" class="text-center">
+  <!-- <p id="attention" class="text-center">
    <a href="https://forms.zohopublic.in/punebschool/form/CourseApplicationForm/formperma/a2FmBmYkyDQ2r9fPV2QvOISgLlwkBcQDipvy1oHMbnA" target="_blank" title="Pune Business School Admission" style="color: #e6730f;"> True Value for Money for a quality AICTE approved PGDM.</a>
-  </p>
+  </p> -->
 </div>
 <br />
 <marquee
