@@ -225,7 +225,7 @@
             <div class="row" id="bgImage">
                <h2 class="container content text-uppercase"
                   style="color: rgb(157, 18, 20);">
-                  About Pune Business School
+                  International Collaborations
                </h2>
             </div>
             <hr>
@@ -290,6 +290,159 @@
                                     <h2 class="media-heading text-left"
                                        style="color: rgb(157, 18, 20) "> International Exposure through Global Resources</h2>
                                     <br>
+                                    <div class="row box-style-1 mt-5">
+                                       <div class="row">
+                                          <div class="col-md-3">
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                          </div>
+                                          <div class="col-md-9">
+                                             <h3>
+                                                Mr. Renya Kikuchi
+                                             </h3>
+                                             <strong>
+                                             Chairman, SCCIP Japan Co., Ltd.                                
+                                             </strong>
+                                             <p>
+                                                Mr. Kikuchi founder Chairman of SCCIPJapan Co. Ltd., formerly known as Learning
+                                                Systems, Japan. As the first official agent of LEGO Education in Japan, Learning
+                                                Systems has been running Lego schools since 1997. He was involved in developing
+                                                educational curriculum used in the schools. Learning Systems then developed a
+                                                unique teaching approach, combining his own curriculum and other teaching
+                                                materials. Learning Systems is now managing STEM (The Science, Technology,
+                                                Engineering, and Mathematics) – Robotics Education. Since 2011, Learning Systems
+                                                has expanded the business overseas. As of today, more than 26,000 students in
+                                                India are benefiting from the STEM-Robotics education program developed by
+                                                Learning Systems.
+                                                He was born in Hyogo prefecture, Japan, on October 12, 1946.
+                                                Mr. Kikuchi graduated from the Department of Mathematics, Faculty of Science,
+                                                Gakushuin University in Japan in 1969. After working at Nihon Unisys, Ltd. , Chuo
+                                                Coopers & Lybrand Consulting (Price water house Coopers today), he became
+                                                President of I.M. Corporation anothercompanyfounded byhim for ITbusiness.
+                                             </p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="row box-style-1 mt-5">
+                                       <div class="row">
+                                          <div class="col-md-3">
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                          </div>
+                                          <div class="col-md-9">
+                                             <h3>
+                                               Paul Ebinesar
+                                             </h3>
+                                             <strong>
+                                             Head Placements & Corporate Relations at M S Ramaiaha Foundation -
+                                             Ramaiaha Institute for Management Studies                              
+                                             </strong>
+                                             <p>
+                                                Experienced Corporate Head with a demonstrated history of working in the
+                                                education management industry. Skilled in Soft Skills, Talent Management, Campus
+                                                Placement, HR Consulting, and Personnel Management. Strong community and
+                                                social services professionalgraduated from St. Joseph's. <br>
+                                                Paul- also popularly known as " Career Buddy" among his students community and
+                                                Academia is an Strategic and creative career advisor with over 2 decades of
+                                                experience in the field ofCareerCoaching, Campus Placements, Careermapping and
+                                                Guidance, Training, Corporate Relations, Corporate Branding, and Event
+                                                Management with leading B'Schools across India and Abroad. <br>
+                                                MS Ramaiah Foundation Bangalore, Management Development Institute
+                                                Murshidabad, Kirloskar Institute for Advanced Management Studies - Pune &
+                                                Harihar, Nitte School of Management, Nitte Meenakshi Institute of Technology,
+                                                Acharya Bangalore Business School, International School of Business & Media,
+                                                National School of Business, BMS, University of Agriculture Sciences Bangalore,
+                                                CMR institute of Technology, Bangalore Management Academy, Frobes Business
+                                                School- Vijawada, & Wigan and Leigh College
+                                                An result driven profession with an passion towards connecting the Management
+                                                   Talents to their dream careers has delivered an successful milestones in achieving to
+                                                   the partnered institutes in terms of Corporate Branding, Empanelment, Tier
+                                                   enhancement, Students Placom cell formation & training, Guest lectures,HR
+                                                   conclaves, Seminars, SIP's
+                                                   His extensive travel to all Metropolitan cities within the country has brought in an
+                                                strong networking qualities with the HR's , highly influential professional in corporate
+                                                world and the Alumnus is his strength to innovate, stratigize the best approach to
+                                                deliverythe best towards campus Placements yearon year.
+                                             </p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="row box-style-1 mt-5">
+                                       <div class="row">
+                                          <div class="col-md-3">
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                          </div>
+                                          <div class="col-md-9">
+                                             <h3>
+                                                CA. Pramod Jain
+                                             </h3>
+                                             <strong>
+                                             Chartered Accountant, Business Valuation Professional,
+                                                Insolvency Professional, Independent Director, Global Business Coach,
+                                                Corporate Trainer, Motivational Speaker and Management Faculty                               
+                                             </strong>
+                                             <p>
+                                               Ÿ Rich corporate experience of 36 years in India and across the globe of all functions relating to finance,
+                                                accounts, lawand taxation helping me provide effective Vision, Supervision, Direction and Control.
+                                                Ÿ Rich corporate experience of20 years as Finance Head, LegalHead & CompanySecretary.
+                                                Ÿ 6 years Head of Finance Academy and Sr. Advisor L& D in Finance to ArcelorMittal, world's largest
+                                                steel and mining company.
+                                                Ÿ 6 years as a GlobalCorporate Trainer, Business & Life Coach and InspirationalSpeaker
+                                                Ÿ Currentlyassociated with Suratwwala Business Group Ltd. As an Independent Director
+                                                As a Business Valuation Professional done numerous valuations as per the requirements of the
+Companies Act, SEBI Regulations, FEMA, IFRS & IndASs, and other statutes.
+As an InsolvencyProfessional : - Liquidator for a Birla Group CompanyforVoluntary Liquidation U/S 59 of
+Insolvency& BankruptcyCode (IBC) 2016
+Advisor & Coach for implementation of IndASs: -Training Accounting and Finance professionals for
+implementation of IndASs and also foraudit ofaccounts prepared based on IndASs.
+Head ofFinance Academyand Sr. AdvisorL& D to ArcelorMittal : - 
+Planning and strategizing learning & development in the area of finance for the entire ArcelorMittal
+Group. 
+Designing, developing and delivering offinance centric training programmes for the benefit of middle
+and senior levelobjectives forthe entire group.
+As GlobalCorporate Trainer& InspirationalSpeakerBusiness & Life Coach
+Ÿ For corporates in more than 50 locations across the globe including in USA, Brazil, Mexico, Canada,
+whole ofEurope, Russia, South Africa, Asia and Middle East
+Trained more than 2000 people outside India on Work-Life Balance through Yoga, Pranayama &
+Meditation
+
+Visiting & Guest Faculty with Management Schools & Universities: - Delivered sessions on 22 different
+topics relating to Business Management, Accounts & Finance and Live Management at more than 20
+different Management Schools & Universities alloverthe globe.
+Programmes on IBC and Valuation: Have delivered training programmes for:
+IBBI
+SEBI
+ICSI, and its RVO & IPA
+ICMAI and its RVO & IPA
+                                             </p>
+                                          </div>
+                                       </div>
+                                    </div>
+                                    <div class="row box-style-1 mt-5">
+                                       <div class="row">
+                                          <div class="col-md-3">
+                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
+                                          </div>
+                                          <div class="col-md-9">
+                                             <h3>
+                                                Ashish Chandra
+                                             </h3>
+                                             <strong>
+                                             Professor of Healthcare Administration, College of Business,<br>
+                                             University of Houston, USA                                
+                                             </strong>
+                                             <p>
+                                                Dr. Chandra is a professor of Healthcare Administration program at University of
+                                                Houston-Clear Lake and served as faculty chair of the program for ten years.
+                                                Previously he taught at Marshall University in West Virginia and Xavier University in
+                                                New Orleans, Louisiana. Dr. Chandra was also a healthcare and management
+                                                consultant. He is published in Hospital Topics, Journal of Medical Marketing, Clinical
+                                                Research and RegulatoryAffairs, Journal of Healthcare Management, among others.
+                                                He has served as vice president of MBAA International, president of the Association
+                                                of Collegiate Marketing Educators, and on the Board of Directors of both the
+                                                Federation ofBusiness Disciplines and the Marketing Management Association.
+                                             </p>
+                                          </div>
+                                       </div>
+                                    </div>
                                     <div class="row box-style-1 mt-5">
                                        <div class="row">
                                           <div class="col-md-3">
@@ -421,260 +574,7 @@
                                           </div>
                                        </div>
                                     </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Dr. Bhimaraya Metri
-                                             </h3>
-                                             <strong>
-                                             Director, IIM, Trichy                               
-                                             </strong>
-                                             <p>
-                                                BriefProfile: - Dr. Bhimaraya Metri is Directorat IIM Tiruchirappalli. Priorto this, he was Dean at
-                                                L&T Institute of Project Management at Vadodara. He also served as a Professor and Dean at
-                                                MDI Gurgaon, IMI, New Delhi and an In-charge, Ph.D. Programmes at BITS Pilani. Dr. Metri has
-                                                rich academic administrative experience. An authority in the field of quality, project
-                                                management and SCM, Dr. Metri has published over 100 research articles. He is also co-
-                                                authored six books. He is on the editorial advisoryboards ofnational and international journals.
-                                                Dr. Metri has more than 25 years of experience in teaching, training, research and consulting.
-                                                Dr. Metri served as a memberofvarious National and InternationalCommittees.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Dr. Arvind Chaturvedi
-                                             </h3>
-                                             <strong>
-                                             CEO Indian Center for Analytics and Research, UNDP and World Bank
-                                             Consultant, Former Dean IMI New Delhi & IMT Ghaziabad,
-                                             Board Member IIT Kanpur.                               
-                                             </strong>
-                                             <p>
-                                                BriefProfile: - Dr. Arvind Chaturvedi has secured Master's degree in Statistics from prestigious
-                                                IIT Kanpur, Masters in Economics from Kanpur University, Ph.D. from prestigious IIT Delhi. Dr.
-                                                Arvind Chaturvedi was earlier associated with Administrative Staff College of India (ASCI)
-                                                Hyderabad, SCMS, IMT Ghaziabad and IMI, New Delhi. He held crucial positions such as Dean
-                                                (Academics), Dean (Development), in charge of National and Global Accreditation, Alumni
-                                                affairs. He is a memberofimportant bodies / committees in Govt of India.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Mr. Subrat Kumar
-                                             </h3>
-                                             <strong>
-                                             CEO People Labs, MDI PGDM & FPM IMI, New Delhi, Industry Academia Orientation to
-                                             Placement Cycle, Pro Leadership Lab, L&D, GEN Z Leadership Lab and InternationalStudytrips
-                                             team includes British Council, ISB and IIM LucknowAlumni                                
-                                             </strong>
-                                             <p>
-                                                BriefProfile: - Mr. Subrat Kumar is an MBAfrom MDI Gurgaon; He has worked with Asian Paints
-                                                before taking the entrepreneurialplunge starting CINQUE EDUCATION (nowPeople Labs) with
-                                                his friends. An avid researcher, he is known for his Team-Building and Leadership workshops
-                                                and has trained more than 10,000 participants. His ability to connect with people is
-                                                unimaginable and often suggested 'stand-up' comedy as an alternate career. He is passionate
-                                                about politics, loves hills more than beaches and envisions empowered and inspired workforce
-                                                through his work.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Mr. Pravin Rajpal
-                                             </h3>
-                                             <strong>
-                                             Md & CEO Innovation Next, Global Start-up Coach, <br>
-                                             Head Indian Speakers Bureau                                
-                                             </strong>
-                                             <p>
-                                                Brief Profile: - Mr. Pravin Rajpal is the founder of Innovation Next, which is one of the leading
-                                                innovation consulting firms in the world focused on developing industry 4.0 Centres of
-                                                Excellence in universities and 4.0 corporates accelerators who work jointly for co-creating
-                                                exponential innovation driven growth. He is the founder and Managing Director of World
-                                                Innovation Network (WIN) Private Ltd, which works at the Global level for connecting the
-                                                stakeholders of overall innovation eco-system for collaborative innovation and business
-                                                models to growat a rapid pace.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Mr. Amitabha Mukhopadhyay
-                                             </h3>
-                                             <strong>
-                                             Co-founder of Lexelon, an Advisory firm based in Pune and Mumbai,
-                                             an independent Director on the Board of Quick Heal Technologies.                                
-                                             </strong>
-                                             <p>
-                                                Brief Profile: - Mr. Amitabha Mukhopadhyay has served as a Group Chief Financial Officer of
-                                                Thermax since October 2013. He also served as member of the Group Executive Council and
-                                                held the role ofGroup General Counsel and Group ITChief. He led the Water& Waste Solutions
-                                                Business of the group as Business Head. He held the roles in corporate finance, corporate legal
-                                                and litigation, merger and acquisitions corporate strategy and restructuring, supply chain
-                                                management and product development. He has successfullydriven business turnarounds and
-                                                transformation as Business head and also headed businesses in start-up and earlystage.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Prof. Dr. D. Narasimha Murthy
-                                             </h3>
-                                             <strong>
-                                             Dean Research, We School, Prin. Welingkar Institute of Management, Bengaluru.                               
-                                             </strong>
-                                             <p>
-                                                Brief Profile: - Dr. D.N. Murthy, Professor in marketing area, has more than 28 years' experience in Teaching,
-                                                consulting and research. Post his Ph.D. in Strategic Marketing Management from Bangalore University; he
-                                                has pursued his Post-Doctoral Research from Fosters Business School, University of Washington, Seattle,
-                                                USA. With the long years of experience in industry and academia, he has been a consultant for United
-                                                Nations Industrial Development Organisation (UNIDO) in implementing Business Clusters Project concept
-                                                in India for machine tool SMEs. He has conducted several MDPs for leading corporates like Apple Inc.,
-                                                Rockwell Automation, Videocon, Emerson engineering among others. He is a regular faculty trainer in the
-                                                areas of strategic marketing. He has visited prestigious Universities like Ecole De Grenoble (France),
-                                                University of Ohio (USA), and Howard University (USA) on academic assignments. He has widely travelled to
-                                                USA, Canada, Germany, France, Thailand, Srilanka, Bangladesh, Nepal and Malaysia.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Dr. Santosh Bhave
-                                             </h3>
-                                             <strong>
-                                             Director - HR & IR, Bharat Forge Ltd.                               
-                                             </strong>
-                                             <p>
-                                                BriefProfile: - Dr. Santosh V. Bhave has his Master's Degree in Personnel Management followed
-                                                by Masters in Law & Ph.D. in Human Resource Management. Currently he is working as
-                                                Director- Human Resource with Bharat Forge Limited, Pune, India. He has 44 years of
-                                                experience in the area offormulation of HR Strategies, Talent Development & Aligning HR with
-                                                Business Development. Dr. Santosh has passion for supporting Academics and is connected
-                                                with few universities in India, as Member on Senate, Academic Council, and Board of Studies –
-                                                Management & SkillDevelopment.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Mr. Shishir Joshipura
-                                             </h3>
-                                             <strong>
-                                             CEO & MD Praj Industries, Former MD SKF India                               
-                                             </strong>
-                                             <p>
-                                                Brief Profile: - Mr. Shishir Joshipura is a Mechanical Engineer from the prestigious Birla Institute of
-                                                Technology & Science (BITS) Pilani and an Advanced Management Graduate from Harvard Business
-                                                School. He has over 35 years of rich experience in varied fields of engineering. He possesses a strong
-                                                business and leadership record. He began his careerwith Thermax Ltd and held several key positions to
-                                                rise through the ranks to become Executive Vice President and Global Head of Cooling & Heating
-                                                business. He was also the Director of overseas subsidiaries of Thermax in USA, Europe, South America
-                                                and successfullyset up a manufacturing subsidiaryin China. Before joining Praj, he served as Managing
-                                                Director of SKF India Ltd from 2009 to 2018. Under his leadership, SKF consolidated its position as the
-                                                leading manufacturerofbearings, seals, lubrication systems, mechatronics and services.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Dr. Shrimali
-                                             </h3>
-                                             <strong>
-                                             Former Director, MDI, Gurugram.                              
-                                             </strong>
-                                             <p>
-                                                BriefProfile: - Prof. Shrimali holds a Master's Degree in Business Administration and a Ph.D. from the
-                                                Universityof Udaipur. He has a singular combination of entrepreneurial experience and teaching and
-                                                consulting proficiency. He holds a diploma in Labour Laws from Delhi and Management Consulting
-                                                Course from University of Philippines ̧ Manila. He has travelled extensively within and outside India
-                                                for presenting papers in national and international Conferences, conducting sessions and
-                                                programmes. He has also visited academic institutions and industrial organizations in U.S.A., Italy,
-                                                Belgium, Austria, Netherlands, Germany, France and Canada. He has been serving as a member of
-                                                the Advisory Board at nine academic institutes /universities. He has also been on the board of
-                                                directors of IMPCL– a centralpublic sector.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
-                                    <div class="row box-style-1 mt-5">
-                                       <div class="row">
-                                          <div class="col-md-3">
-                                             <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                                          </div>
-                                          <div class="col-md-9">
-                                             <h3>
-                                                Mrs. Revathi Iyer
-                                             </h3>
-                                             <strong>
-                                             M.Com, M.Ed, C.A, PhD, Academic Head & Former Professor IFIM Bengaluru                               
-                                             </strong>
-                                             <p>
-                                                Brief Profile: - Mrs. Revathi Iyer Presently working as a subject matter expert with the TMI
-                                                Group (Hyderabad), she had worked on projects on Valuation (IACVA), direct taxes forthe ICAI,
-                                                and for the Aditya Birla financial services limited, Mrs. Revathi Iyer developed training manuals
-                                                for the IDFC Bank. She worked as a Professor, Finance, IFIM B-School, Bangalore. She also
-                                                worked as Dean Academics, Professor and Area Chair Kirloskar Institute of Advanced
-                                                Management Studies, Hariharand Pune. She has around 40 publications to hercredit which are
-                                                spread over Tier 1 journals in international research and in Sage and International journal of
-                                                Commerce and Management.
-                                             </p>
-                                          </div>
-                                       </div>
-                                    </div>
+                                
                                  </div>
                               </div>
                            </div>

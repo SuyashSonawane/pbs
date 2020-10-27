@@ -302,18 +302,18 @@
             <h4>Facilities</h4>
             <ul class="list-menu">
               <li>
-               <a href="./International-Collaboration-after-Academics.php#1" title="Foreign University Linkages"
+               <a href="./International-Collaboration.php#1" title="Foreign University Linkages"
               >Foreign University Linkages</a
             >
                 </li>
                 <li>
-                    <a href="./International-Collaboration-after-Academics.php#2" title="International Exposure through Global Resources"
+                    <a href="./International-Collaboration.php#2" title="International Exposure through Global Resources"
               >International Exposure through Global Resources</a
             >
                 </li>
                
                 <li>
-                    <a href="./International-Collaboration-after-Academics.php#3" title="Foreign Study tour program"
+                    <a href="./International-Collaboration.php#3" title="Foreign Study tour program"
               >Foreign Study tour program</a
             >
                 </li>
