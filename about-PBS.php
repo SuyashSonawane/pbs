@@ -388,12 +388,13 @@
                               </div>
                            </div>
                            <div class="tab-pane fade" id="blog2">
-                              <div class="col-sm-8 col-md-9">
-                                 <center>
-                                    <h1 class="pcet-title">Our Vision &amp; Mission</h1>
-                                 </center>
-                                 
+                              <div class="col-sm-8 col-md-12">
+                              <h2 class="media-heading text-center"
+                                       style="color: rgb(157, 18, 20) "> Our Vision &amp; Mission</h2>
+                             
+                                 <br>
                                  <div class="clearfix"></div>
+                                 
                                  <div class="col-md-12 plr0">
                                     <div class="col-xs-12 col-sm-12 col-md-6 plr0 vmblue">
                                        <h3><strong>VISION</strong></h3>
@@ -406,7 +407,7 @@
                                  </div>
                                  <div class="col-md-12 plr0 mb20">
                                     <div class="col-xs-6 col-sm-6 col-md-6 plr0  hidden-xs" style="padding:0">
-                                       <img src="https://www.pcet.org.in/images/pcet-vision-mission/mission.jpg" width="100%" height="313px" >
+                                       <img src="https://www.pcet.org.in/images/pcet-vision-mission/mission.jpg" width="100%" height="230px" >
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-6 plr0 vmyellow">
                                        <h3><strong>MISSION</strong></h3>

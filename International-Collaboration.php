@@ -267,22 +267,42 @@
                               <h2 class="media-heading text-left"
                                  style="color: rgb(157, 18, 20) "> Foreign University Linkages</h2>
                               <h3>The International academic collaborations are fostered with the aim of:</h3>
-                              <p class="lead">
-                              <ul>
-                                 <li>Offering International exposure, opportunities to PCET students</li>
-                                 <li>Enhancing skills of Pimpri Chinchwad Education Trust (PCET) faculty by providing platform for joint research, collaborative teaching and learning with universities abroad.</li>
+                              <p class="lead" >
+                              <ul style="font-size:1.1em">
+                                 <li>&bull;Offering International exposure, opportunities to PCET students</li>
+                                 <li>&bull;Enhancing skills of Pimpri Chinchwad Education Trust (PCET) faculty by providing platform for joint research, collaborative teaching and learning with universities abroad.</li>
                                  <li>
-                                    Academic collaborations with international universities are developed with the following objectives:
+                                    &bull;Academic collaborations with international universities are developed with the following objectives:
                                     <ul>
-                                       <li>Establish Two Stage Master's Programmes / PGDM Programme with foreign universities wherein part of the programme is conducted in PCET institute and other in the foreign university.</li>
-                                       <li>Establish Faculty &amp; Student exchange programme.</li>
-                                       <li>Initiate summer/winter internship for Undergraduate and Post graduate Students.</li>
-                                       <li>Joint Workshops, Conference, Symposiums, research projects with foreign Universities.</li>
-                                       <li>Offer Students choice for International Post Graduation in third year of engineering and prepare them as per the requirements of the university.</li>
+                                       <li>&bull;Establish Two Stage Master's Programmes / PGDM Programme with foreign universities wherein part of the programme is conducted in PCET institute and other in the foreign university.</li>
+                                       <li>&bull;Establish Faculty &amp; Student exchange programme.</li>
+                                       <li>&bull;Initiate summer/winter internship for Undergraduate and Post graduate Students.</li>
+                                       <li>&bull;Joint Workshops, Conference, Symposiums, research projects with foreign Universities.</li>
+                                       <li>&bull;Offer Students choice for International Post Graduation in third year of engineering and prepare them as per the requirements of the university.</li>
                                     </ul>
                                  </li>
                               </ul>
                               </p>
+                              <h2 class="media-heading text-center"
+                                 style="color: rgb(157, 18, 20) "> PCET GROUP HAS SIGNED MOU WITH THE FOLLOWING INTERNATIONAL
+                                 UNIVERSITIES IN THE AREAS OF ENGINEERING, ARCHITECTURE AND MANAGEMENT 
+                              </h2>
+                              <div class="row" style="font-size:1.9em;color:#006e51;margin:10px">
+                                 <img src="https://www.stcloudstate.edu/_files/images/homepage-18/video-still.jpg" width="100%"> <br><br>
+                                 <p>St. Cloud State University, St. Cloud, Minnesota</p>
+                              </div>
+                              <div class="row" style="font-size:1.9em;color:#006e51;margin:10px">
+                                 <img src="https://www.harrisburgu.edu/wp-content/uploads/cloud-summit-1500x686.jpg" width="100%"> <br><br>
+                                 <p>University of Harrisburg Philadelphia</p>
+                              </div>
+                              <div class="row" style="font-size:1.9em;color:#006e51;margin:10px">
+                                 <img src="https://www.timeshighereducation.com/sites/default/files/institution/header_image/profile_uj_-_header_v20170710.jpg" width="100%"> <br><br>
+                                 <p>University of Johannesburg, South Africa Pennsylvania, USA</p>
+                              </div>
+                              <div class="row" style="font-size:1.9em;color:#006e51;margin:10px">
+                                 <img src="https://www.iit.edu/sites/default/files/styles/width_500/public/2019-10/mies_campus.jpg?itok=QPmPPrtf" width="100%"> <br><br>
+                                 <p>Illinois Institute of Technology, Chicago, Illinois</p>
+                              </div>
                            </div>
                            <div class="tab-pane fade" id="blog1">
                               <div class="col-xs-12 box">
@@ -329,7 +349,7 @@
                                           </div>
                                           <div class="col-md-9">
                                              <h3>
-                                               Paul Ebinesar
+                                                Paul Ebinesar
                                              </h3>
                                              <strong>
                                              Head Placements & Corporate Relations at M S Ramaiaha Foundation -
@@ -353,11 +373,11 @@
                                                 CMR institute of Technology, Bangalore Management Academy, Frobes Business
                                                 School- Vijawada, & Wigan and Leigh College
                                                 An result driven profession with an passion towards connecting the Management
-                                                   Talents to their dream careers has delivered an successful milestones in achieving to
-                                                   the partnered institutes in terms of Corporate Branding, Empanelment, Tier
-                                                   enhancement, Students Placom cell formation & training, Guest lectures,HR
-                                                   conclaves, Seminars, SIP's
-                                                   His extensive travel to all Metropolitan cities within the country has brought in an
+                                                Talents to their dream careers has delivered an successful milestones in achieving to
+                                                the partnered institutes in terms of Corporate Branding, Empanelment, Tier
+                                                enhancement, Students Placom cell formation & training, Guest lectures,HR
+                                                conclaves, Seminars, SIP's
+                                                His extensive travel to all Metropolitan cities within the country has brought in an
                                                 strong networking qualities with the HR's , highly influential professional in corporate
                                                 world and the Alumnus is his strength to innovate, stratigize the best approach to
                                                 deliverythe best towards campus Placements yearon year.
@@ -376,42 +396,41 @@
                                              </h3>
                                              <strong>
                                              Chartered Accountant, Business Valuation Professional,
-                                                Insolvency Professional, Independent Director, Global Business Coach,
-                                                Corporate Trainer, Motivational Speaker and Management Faculty                               
+                                             Insolvency Professional, Independent Director, Global Business Coach,
+                                             Corporate Trainer, Motivational Speaker and Management Faculty                               
                                              </strong>
                                              <p>
-                                               Ÿ Rich corporate experience of 36 years in India and across the globe of all functions relating to finance,
+                                                Rich corporate experience of 36 years in India and across the globe of all functions relating to finance,
                                                 accounts, lawand taxation helping me provide effective Vision, Supervision, Direction and Control.
-                                                Ÿ Rich corporate experience of20 years as Finance Head, LegalHead & CompanySecretary.
-                                                Ÿ 6 years Head of Finance Academy and Sr. Advisor L& D in Finance to ArcelorMittal, world's largest
+                                                Rich corporate experience of20 years as Finance Head, LegalHead & CompanySecretary.
+                                                6 years Head of Finance Academy and Sr. Advisor L& D in Finance to ArcelorMittal, world's largest
                                                 steel and mining company.
-                                                Ÿ 6 years as a GlobalCorporate Trainer, Business & Life Coach and InspirationalSpeaker
-                                                Ÿ Currentlyassociated with Suratwwala Business Group Ltd. As an Independent Director
+                                                6 years as a GlobalCorporate Trainer, Business & Life Coach and InspirationalSpeaker
+                                                Currentlyassociated with Suratwwala Business Group Ltd. As an Independent Director
                                                 As a Business Valuation Professional done numerous valuations as per the requirements of the
-Companies Act, SEBI Regulations, FEMA, IFRS & IndASs, and other statutes.
-As an InsolvencyProfessional : - Liquidator for a Birla Group CompanyforVoluntary Liquidation U/S 59 of
-Insolvency& BankruptcyCode (IBC) 2016
-Advisor & Coach for implementation of IndASs: -Training Accounting and Finance professionals for
-implementation of IndASs and also foraudit ofaccounts prepared based on IndASs.
-Head ofFinance Academyand Sr. AdvisorL& D to ArcelorMittal : - 
-Planning and strategizing learning & development in the area of finance for the entire ArcelorMittal
-Group. 
-Designing, developing and delivering offinance centric training programmes for the benefit of middle
-and senior levelobjectives forthe entire group.
-As GlobalCorporate Trainer& InspirationalSpeakerBusiness & Life Coach
-Ÿ For corporates in more than 50 locations across the globe including in USA, Brazil, Mexico, Canada,
-whole ofEurope, Russia, South Africa, Asia and Middle East
-Trained more than 2000 people outside India on Work-Life Balance through Yoga, Pranayama &
-Meditation
-
-Visiting & Guest Faculty with Management Schools & Universities: - Delivered sessions on 22 different
-topics relating to Business Management, Accounts & Finance and Live Management at more than 20
-different Management Schools & Universities alloverthe globe.
-Programmes on IBC and Valuation: Have delivered training programmes for:
-IBBI
-SEBI
-ICSI, and its RVO & IPA
-ICMAI and its RVO & IPA
+                                                Companies Act, SEBI Regulations, FEMA, IFRS & IndASs, and other statutes.
+                                                As an InsolvencyProfessional : - Liquidator for a Birla Group CompanyforVoluntary Liquidation U/S 59 of
+                                                Insolvency& BankruptcyCode (IBC) 2016
+                                                Advisor & Coach for implementation of IndASs: -Training Accounting and Finance professionals for
+                                                implementation of IndASs and also foraudit ofaccounts prepared based on IndASs.
+                                                Head ofFinance Academyand Sr. AdvisorL& D to ArcelorMittal : - 
+                                                Planning and strategizing learning & development in the area of finance for the entire ArcelorMittal
+                                                Group. 
+                                                Designing, developing and delivering offinance centric training programmes for the benefit of middle
+                                                and senior levelobjectives forthe entire group.
+                                                As GlobalCorporate Trainer& InspirationalSpeakerBusiness & Life Coach
+                                                For corporates in more than 50 locations across the globe including in USA, Brazil, Mexico, Canada,
+                                                whole ofEurope, Russia, South Africa, Asia and Middle East
+                                                Trained more than 2000 people outside India on Work-Life Balance through Yoga, Pranayama &
+                                                Meditation
+                                                Visiting & Guest Faculty with Management Schools & Universities: - Delivered sessions on 22 different
+                                                topics relating to Business Management, Accounts & Finance and Live Management at more than 20
+                                                different Management Schools & Universities alloverthe globe.
+                                                Programmes on IBC and Valuation: Have delivered training programmes for:
+                                                IBBI
+                                                SEBI
+                                                ICSI, and its RVO & IPA
+                                                ICMAI and its RVO & IPA
                                              </p>
                                           </div>
                                        </div>
@@ -574,7 +593,6 @@ ICMAI and its RVO & IPA
                                           </div>
                                        </div>
                                     </div>
-                                
                                  </div>
                               </div>
                            </div>
@@ -583,53 +601,63 @@ ICMAI and its RVO & IPA
                                  <div class="microsoft container1">
                                     <h2 class="media-heading text-center"
                                        style="color: rgb(157, 18, 20) ">
-                                       PCET GROUP HAS SIGNED MOU WITH THE FOLLOWING INTERNATIONAL
-                                       UNIVERSITIES IN THE AREAS OF ENGINEERING, ARCHITECTURE AND MANAGEMENT
+                                       PUNE BUSINESS SCHOOL OFFERS A CUTTING EDGE INTERNATIONAL EXPOSUREFOREIGN STUDY TOUR PROGRAM 
                                     </h2>
-                                    <img src="./images/companies/Foreign Study tour Program.-compainesjpg.jpg" width="100%" style="margin:auto">
-                                   <div class="row">
-                                      <h2>What is Industry Membership?</h2>
-                                      <p>
-                                        Industry Membership is the membership of Telecom Sector Skill council who will have access to a world of
-                                        opportunities like networking with corporate majors, Captains of the industry, Academia and senior government
-                                        officials; they will also have opportunity & say in framing of Qualification packs thus shaping the future of
-                                        standardized and skilled manpower in telecomindustry
-                                      </p>
-                                   </div>
-                                   <div class="row">
-                                      <h2>Benefits Of Industry Membership</h2>
-                                      <p>
-                                       &bull; Monetary Benefits underapprenticeship programs by government <br>
-
-                                        &bull; Reduced in house training cost <br>
-                                        &bull; Support in recruitment <br>
-                                        &bull; Free Access to TSSC job-portal <br>
-                                        &bull; Assistance in Industry oriented programs <br>
-
-                                        &bull; PlatformforCSR activities <br>
-                                      </p>
-                                   </div>
-                                   <div class="row">
-                                      <h2>TSSC – Our Value Addition</h2>
-                                      <p>
-                                       Telecom Sector Skill Council (TSSC) is an industry led apex body, a not-for-profit organization setup by NSDC &
-                                       Telecom Industry. We are committed to develop world class skilled manpower for the Telecom Industry and
-                                       ensure adequate availability of ecosystem that ensures best of class skills training to boost growth and
-                                       productivity in the Telecomsector.
-                                      </p>
-                                   </div>
-
                                     <div class="row">
-                                       <img src="./images/companies/Foreign Study tour Program.jpg" width="100%">
-                                    
+                                       <div class="col-md-12">
+                                          <p>
+                                             Pune Business School has entered into MOUs with foreign universities and offers the best value for money included
+                                             in the totalfee. PBS will pay for travel to such universities for study tour. There are many universities in Pipeline for
+                                             MOUs. Currently Study tourto Singapore Nanyang Institute is offered to all students without any extra cost.
+                                             PBS plans and executes educational tourto Singapore for its PGDM students
+                                             At Pune Business School, we want students to gather an integrated and global approach. To lubricate this, PBS
+                                             plans and executes educational tours for its students to understand an array of different cultural, community
+                                             perspectives and enhance their interest on global issues.
+                                             It is important that students today are prepared for the future world with a sense of community responsibility. In
+                                             that direction, we at the Business Institutes are striving to prepare our students in a manner that they are not only
+                                             'life and careertoday 'but are also prepared witha sense of responsibility towards the community.
+                                             In an effort to create a niche ofinnovation, entrepreneurship, and creativity in students, Pune Business School has
+                                             collaborated and partnered with Nanyang Institute of Management, Singapore and Impatech –A Tech Innovation
+                                             ,Singapore to provide international exposure to its students.
+                                             Pune Business School conducts educational tours to educate its student about the global business environment.
+                                             The Institute will organize an overseas educational tour to Singapore to let its student learn and explore about the
+                                             multicultural environment and diversity.
+                                          </p>
+                                          <p>
+                                             PBS plans and executes educational tourto Singapore for its PGDM students <br>
+                                             &bull;To immerse in a suitable environment, in orderto improve theirknowledge in the shortest time possible <br>
+                                             &bull; Ultimately, the students should be able to learn while in a relaxed and enjoyable manner. <br>
+                                             &bull; To allow the students to experience a different culture and develop a betterunderstanding ofSingapore. <br>
+                                             &bull; To allow the students to get to know other students fromvarious countries, interact and learn fromone another.  <br>
+                                          </p>
+                                       </div>
                                     </div>
-
-
-
+                                    <h1>Why Singapore?</h1>
+                                    <div class="row">
+                                       <div class="col-md-12">
+                                          Singapore is a country where east meets west. The mixture of these two cultures willallow students fromallparts of
+                                          the world to feelat home in the environment.
+                                          Being a multi-racial society, Singapore will definitely allow students to have an extraordinary cultural experience
+                                          and enable themto develop a deeperunderstanding of the different races and cultures 
+                                          Singapore is no doubt, considered to be one of the safest countries withhighsecurity and political stability
+                                          The public transport system is very well established, making it convenient for students to travel around if they
+                                          would like to do so. There are many expatriates and foreign students residing in Singapore and thus, students willnot
+                                          feelout ofplace in the new environment.
+                                          However, some of the other programs with universities and colleges abroad will be on payable basis separately
+                                          depending on the available international linkages at an extra cost to other countries like Malaysia, Dubai, U.K.,
+                                          Canada and New Zealand
+                                       </div>
+                                    </div>
+                                    <br>
+                                    <br>
+                                    <div class="row">
+                                       <div class="col-md-12">
+                                          <img src="./img/singapor.jpg" width="100%" alt="" srcset="">
+                                       </div>
+                                    </div>
                                  </div>
                               </div>
                            </div>
-                           
                         </div>
                      </div>
                   </div>
