@@ -150,23 +150,23 @@
       media="all"
     />
 
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(["_setAccount", "UA-11097556-8"]);
-      _gaq.push(["_trackPageview"]);
+    <!-- Global site tag (gtag.js) - Google Analytics -->
 
-      (function () {
-        var ga = document.createElement("script");
-        ga.type = "text/javascript";
-        ga.async = true;
-        ga.src =
-          ("https:" == document.location.protocol
-            ? "https://ssl"
-            : "http://www") + ".google-analytics.com/ga.js";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C4VDG7SGMM"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'G-C4VDG7SGMM');
+
+</script>
     <link rel="stylesheet" href="./css/update.css" />
   </head>
 
@@ -616,7 +616,73 @@ as Managing Director& CEO ofWalchandnagar Industries Ltd. Pune fora totalofabout
                 </div>
             </div>
         </div>
+   
+        
         <div class="row box-style-1 mt-5">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="./images/faculties/Bhupen.jpg" width="100%"alt="">              
+                </div>
+                <div class="col-md-9">
+                    <h3>
+                        Prof. Bhupen Srivastava
+                    </h3>
+                    <strong>
+                        Professor Emeritus IMI New Delhi &amp; Globally Acclaimed Trainer Ph. D Southern Illinois University, USA <br>
+                        A renowned Author for OD Design &amp; Change management globally
+                    </strong>
+                    <p>
+                        Prof. Bhupen Srivastava is a recognized Behavioural Scientist and his areas of interest are
+                        Vision building, Strategic Management, Organization Design &amp; Restructuring, Organization
+                        Development, Leadership, Change Management, Participative Management, Human
+                        Resource Management, Normative Approach to IR and Training &amp; Development. He has
+                        been involved in teaching, training, research and consultancy activities in India, U.S.A,
+                        Canada, Europe and Africa for over four decades. Some of his assignments include Dean,
+                        IILM, New Delhi; Director, FORE School of Management, New Delhi; Professor, IIM
+                        Kolkata, University of Northern Iowa, Southern Illinois University; Senior Fellow, National
+                        Labour Institute, New Delhi; Commonwealth Advisor and Principal Consultant to Govt. of
+                        Tanzania; Visiting Professor/Fellow at ICPE, Ljubljana, Slovenia; McGill University,
+                        Canada; and Foundation for Business Administration, Delft, Holland.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row box-style-1 mt-5">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="./images/faculties/Arun Kumar.jpg" width="100%"alt="">              
+                </div>
+                <div class="col-md-9">
+                    <h3>
+                        Dr. Arun Kumar Rath
+                    </h3>
+                    <strong>
+                            IAS, Former Secretary, Government of India, <br>
+                            Renowned Professor of Corporate Governance, MDI &amp; IMI
+                    </strong>
+                    <p>
+                        Dr Rath is currently working as a Chairman, Centre of Excellence for Corporate Governance
+                        &amp; Social Responsibility in the International Management Institute, Bhubaneswar since May
+                        2017 &amp; Professor of Strategy &amp; Corporate Governance at IMI Bhubaneswar &amp; IMI New
+                        Delhi. Dr. Arun Kumar Rath has trained more than 1000 Board of Directors including Public
+                        Sector Navaratna companies of India. A renowned speaker and the Legend of Orissa award
+                        winner. He has done Master of Science in Physics, Doctor of Philosophy in Business
+                        Administration and D. Litt. ( Honoris causa) ,Dr. Arun Kumar Rath was educated in the
+
+                        Utkal , Delhi , Birmingham and Bradford Universities .He joined the Indian Administrative
+                        Service ( IAS) in 1973 after a brilliant academic career. As the Additional Secretary Ministry
+                        of Steel, Dr Rath served as Director in the Boards of five leading public sector steel
+                        companies SAIL, NMDC , MECON and Vizag Steel &amp; KIOCL. After superannuation from
+                        IAS Dr Rath served as Dean and Professor of Public Policy at the Management Development
+                        Institute, Gurgaon (2009-12) and set up the School of Public Policy &amp; Management in MDI
+                        Gurgaon .He served as Dean Executive Education &amp; International Relations &amp; Professor of
+                        Corporate Governance &amp; Strategy in International Management Institute New Delhi (2012-
+                        17)
+                    </p>
+                </div>
+            </div>
+        </div>
+         <div class="row box-style-1 mt-5">
             <div class="row">
                 <div class="col-md-3">
                     <img src="./images/faculties/wager.jpg" width="100%"alt="">              
@@ -630,89 +696,18 @@ as Managing Director& CEO ofWalchandnagar Industries Ltd. Pune fora totalofabout
                     </strong>
                     <p>
                         Mr. Wagner Lima is the well known entrepreneur and mostly known for his innovations & creativity
-he started America Energy Group with a vision of delivering the excellent service to the
-consumers keeping consumer delight as the most important thing in mind. He has successfully
-driven business turnarounds and transformation as Business head and also headed
-businesses in start-up and earlystage.
+                        he started America Energy Group with a vision of delivering the excellent service to the
+                        consumers keeping consumer delight as the most important thing in mind. He has successfully
+                        driven business turnarounds and transformation as Business head and also headed
+                        businesses in start-up and earlystage.
                     </p>
                 </div>
             </div>
         </div>
+        <div class="row">
+         <img src="./img/1588254220.jpg" width="100%">
         
-        <div class="row box-style-1 mt-5">
-            <div class="row">
-                <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                </div>
-                <div class="col-md-9">
-                    <h3>
-                        Mr. Shankar G Rao,
-                    </h3>
-                    <strong>
-                            Head – CDO, Bosch, Bengaluru, Former CIO USA <br>
-                            CDO at Robert Bosch Engineering and Business Solutions
-                    </strong>
-                    <p>
-                        Brief Profile: - Mr. Shankar G Rao is a Visionary & result oriented Information Solutions
-                        Executive with over 25 years of demonstrated onsite and offshore experience in planning,
-                        developing & implementing information solutions to address business opportunities and
-                        challenges. He is responsible for setting up Digital transformation office and running various
-                        digital initiatives across the value chain of an enterprise starting from "Digital Immersion"
-                        program to design thinking led digital discovery workshops to developing blueprint for
-                        prioritized digital initiatives to structuring 12 week digitalnano programs.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="row box-style-1 mt-5">
-            <div class="row">
-                <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                </div>
-                <div class="col-md-9">
-                    <h3>
-                        Mr. Shankar G Rao,
-                    </h3>
-                    <strong>
-                            Head – CDO, Bosch, Bengaluru, Former CIO USA <br>
-                            CDO at Robert Bosch Engineering and Business Solutions
-                    </strong>
-                    <p>
-                        Brief Profile: - Mr. Shankar G Rao is a Visionary & result oriented Information Solutions
-                        Executive with over 25 years of demonstrated onsite and offshore experience in planning,
-                        developing & implementing information solutions to address business opportunities and
-                        challenges. He is responsible for setting up Digital transformation office and running various
-                        digital initiatives across the value chain of an enterprise starting from "Digital Immersion"
-                        program to design thinking led digital discovery workshops to developing blueprint for
-                        prioritized digital initiatives to structuring 12 week digitalnano programs.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="row box-style-1 mt-5">
-            <div class="row">
-                <div class="col-md-3">
-                    <img src="./images/img-person-placeholder.jpg" width="100%"alt="">              
-                </div>
-                <div class="col-md-9">
-                    <h3>
-                        Mr. Shankar G Rao,
-                    </h3>
-                    <strong>
-                            Head – CDO, Bosch, Bengaluru, Former CIO USA <br>
-                            CDO at Robert Bosch Engineering and Business Solutions
-                    </strong>
-                    <p>
-                        Brief Profile: - Mr. Shankar G Rao is a Visionary & result oriented Information Solutions
-                        Executive with over 25 years of demonstrated onsite and offshore experience in planning,
-                        developing & implementing information solutions to address business opportunities and
-                        challenges. He is responsible for setting up Digital transformation office and running various
-                        digital initiatives across the value chain of an enterprise starting from "Digital Immersion"
-                        program to design thinking led digital discovery workshops to developing blueprint for
-                        prioritized digital initiatives to structuring 12 week digitalnano programs.
-                    </p>
-                </div>
-            </div>
+        
         </div>
     </div>
     <footer>
